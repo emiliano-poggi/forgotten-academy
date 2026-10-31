@@ -2,9 +2,8 @@
 ## Campaign Journal
 
 **Identificativo:** TFA-JOURNAL  
-**Versione:** 2.1  
 **Stato:** Ufficiale — stato iniziale  
-**Regolamento di riferimento:** TFA-RULEBOOK v3.0  
+**Regolamento di riferimento:** TFA-RULEBOOK   
 **Data di inizializzazione:** 2026-10-31
 
 ---
@@ -15,12 +14,12 @@
 |---|---|
 | Campagna | The Forgotten Academy |
 | Modulo attivo | Modulo U — Matematica |
-| Regolamento | TFA-RULEBOOK v3.0 |
+| Regolamento | TFA-RULEBOOK  |
 | Stato della campagna | INIZIALE |
 | Sessione attiva | Nessuna |
 | Sessione in pausa | Nessuna |
 
-La campagna è stata inizializzata con stato nullo. La struttura didattica è attualmente regolata da TFA-RULEBOOK v3.0. Il reset iniziale e l'assenza di progressi certificati restano invariati.
+La campagna è stata inizializzata con stato nullo. La struttura didattica è attualmente regolata da TFA-RULEBOOK . Il reset iniziale e l'assenza di progressi certificati restano invariati.
 
 Questo Journal costituisce il registro iniziale della nuova campagna. Non eredita progressi o risultati da versioni precedenti.
 
@@ -103,24 +102,17 @@ Gli Oracoli associati ai Dungeon saranno registrati qui quando il relativo Dunge
 
 # 6. Verifiche ed evidenze
 
-È stata avviata una prova formale sul precedente identificativo di Mostro MON-U01-01-01. La prova è ancora in attesa delle risposte dello studente; non è stata valutata, superata o registrata come certificazione. È conservata come attività pendente di migrazione e non viene automaticamente convertita nella nuova prova del Mostro di Stanza.
+Non è stata avviata alcuna verifica formale.
 
 | Indicatore | Valore |
 |---|---|
-| Verifiche tentate | 1 — in corso, non valutata |
+| Verifiche tentate | 0 |
 | Verifiche superate | 0 |
 | Verifiche non superate | 0 |
 | Certificazioni assegnate | 0 |
 
 Non sono presenti evidenze di prestazioni autonome, assistite o guidate.
 
-# 6.1 Prova formale pendente — migrazione architetturale
-
-- **Identificativo legacy:** MON-U01-01-01 — Il Tessitore di Legami.
-- **Competenza originaria:** A-U01-01 — Comprendere il concetto di funzione reale di variabile reale.
-- **Livello:** I — Apprendista.
-- **Stato:** avviata; risposte non ancora consegnate; nessun esito.
-- **Migrazione:** la prova è stata avviata secondo la precedente architettura (un Mostro per competenza). Rimane sospesa come prova legacy e non viene considerata prova completa del nuovo Mostro della Stanza R-U01-01, che dovrà verificare tutte le competenze della Stanza. Prima di riprendere la valutazione, lo studente sceglierà se completare la prova legacy come evidenza limitata alla competenza A-U01-01 oppure interromperla e iniziare in seguito la nuova prova di Stanza. Nessuna scelta viene effettuata automaticamente.
 
 # 7. Registro degli errori e delle difficoltà
 
@@ -143,7 +135,7 @@ Gli obiettivi saranno definiti sulla base delle attività svolte, delle verifich
 
 # 9. Sessioni e attività
 
-Non è registrata una sessione generale ACTIVE o PAUSED. È tuttavia pendente la prova formale descritta nella sezione 6.1.
+Non è registrata alcuna sessione ACTIVE o PAUSED né alcuna attività formale pendente.
 
 | Indicatore | Stato |
 |---|---|
@@ -184,7 +176,7 @@ La struttura geografica e tematica di riferimento, se presente nelle fonti, non 
 
 # 12. Decisioni e note permanenti
 
-1. La campagna segue il Regolamento ufficiale v3.0.
+1. La campagna segue il Regolamento ufficiale .
 2. Il percorso è didattico e non utilizza statistiche RPG o punti esperienza.
 3. Lo studente può scegliere liberamente le Stanze.
 4. Le verifiche di certificazione non vengono avviate senza richiesta esplicita.
@@ -192,10 +184,3 @@ La struttura geografica e tematica di riferimento, se presente nelle fonti, non 
 6. Nessun progresso precedente viene trasferito nella nuova campagna.
 7. La struttura didattica e gli identificativi delle competenze dipendono dal Curriculum ufficiale.
 
-# 13. Registro delle revisioni
-
-| Versione | Stato | Modifiche |
-|---|---|---|
-| 2.0 | Ufficiale | Inizializzazione della campagna secondo TFA-RULEBOOK v3.0; profilo, progressi, mappa e inventario azzerati |
-
-**Fine documento — TFA-JOURNAL v2.1**
