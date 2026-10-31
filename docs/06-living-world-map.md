@@ -1,11 +1,11 @@
 # THE FORGOTTEN ACADEMY
 ## Living World Map — Mappa didattica e conoscenze geografiche
 
-**Identificativo:** TFA-LIVING-MAP  
-**Stato:** Ufficiale — baseline iniziale  
-**World Map di riferimento:** TFA-WORLD-MAP   
-**Campaign Journal di riferimento:** TFA-JOURNAL   
-**Curriculum di riferimento:** TFA-CURRICULUM-U 
+**Identificativo:** TFA-LIVING-MAP
+**Stato:** Ufficiale — baseline iniziale
+**World Map di riferimento:** TFA-WORLD-MAP
+**Campaign Journal di riferimento:** TFA-JOURNAL
+**Curriculum di riferimento:** TFA-CURRICULUM-U
 
 ---
 
@@ -157,11 +157,11 @@ Le immagini definitive dei luoghi potranno essere estratte dal manuale visivo ch
 
 # 9. Stato iniziale ufficiale
 
-**Indice didattico:** Modulo U disponibile, quattro Dungeon selezionabili liberamente.  
-**Luoghi scoperti:** 0.  
-**Percorsi scoperti:** 0.  
-**Stanze visitate:** 0.  
-**Territori geograficamente conosciuti:** 0.  
+**Indice didattico:** Modulo U disponibile, quattro Dungeon selezionabili liberamente.
+**Luoghi scoperti:** 0.
+**Percorsi scoperti:** 0.
+**Stanze visitate:** 0.
+**Territori geograficamente conosciuti:** 0.
 **Progressi didattici registrati:** nessuno nella baseline iniziale.
 
 La mappa didattica è disponibile come strumento di orientamento. La mappa geografica del personaggio resta vuota fino a nuove scoperte effettivamente registrate.
