@@ -1,9 +1,9 @@
 # THE FORGOTTEN ACADEMY
 ## Campaign Journal
 
-**Identificativo:** TFA-JOURNAL  
-**Stato:** Ufficiale — stato iniziale  
-**Regolamento di riferimento:** TFA-RULEBOOK   
+**Identificativo:** TFA-JOURNAL
+**Stato:** Ufficiale — stato iniziale
+**Regolamento di riferimento:** TFA-RULEBOOK
 **Data di inizializzazione:** 2026-10-31
 
 ---
@@ -19,7 +19,7 @@
 | Sessione attiva | Nessuna |
 | Sessione in pausa | Nessuna |
 
-La campagna è stata inizializzata con stato nullo. La struttura didattica è attualmente regolata da TFA-RULEBOOK . Il reset iniziale e l'assenza di progressi certificati restano invariati.
+La campagna è stata inizializzata con stato nullo. La struttura didattica segue il Regolamento ufficiale. La campagna parte da zero e non contiene progressi certificati.
 
 Questo Journal costituisce il registro iniziale della nuova campagna. Non registra progressi o risultati pregressi.
 
@@ -35,7 +35,7 @@ Questo Journal costituisce il registro iniziale della nuova campagna. Non regist
 | Draghi sconfitti | 0 |
 | Oracoli liberati | 0 |
 | Stanze in studio | 0 |
-| Stanze con Oracolo liberato | 0 |
+| Dungeon con Oracolo liberato | 0 |
 | Stanze padroneggiate | 0 |
 | Artefatti acquisiti | 0 |
 
@@ -69,7 +69,7 @@ La struttura e gli identificativi delle Stanze devono essere letti dal Curriculu
 |---|---:|
 | Stanze esplorate | 0 |
 | Stanze in studio | 0 |
-| Stanze con Oracolo liberato | 0 |
+| Dungeon con Oracolo liberato | 0 |
 | Stanze padroneggiate | 0 |
 
 # 4. Competenze
@@ -176,7 +176,7 @@ La struttura geografica e tematica di riferimento, se presente nelle fonti, non 
 
 # 12. Decisioni e note permanenti
 
-1. La campagna segue il Regolamento ufficiale .
+1. La campagna segue il Regolamento ufficiale.
 2. Il percorso è didattico e non utilizza statistiche RPG o punti esperienza.
 3. Lo studente può scegliere liberamente le Stanze.
 4. Le verifiche di certificazione non vengono avviate senza richiesta esplicita.
