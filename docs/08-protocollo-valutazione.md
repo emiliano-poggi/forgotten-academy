@@ -2,9 +2,9 @@
 ## Protocollo di Valutazione
 
 - **ID:** TFA-EVALUATION
-- **Versione:** 1.0
+- **Versione:** 2.0
 - **Stato:** Approvato
-- **Riferimenti:** Regolamento Ufficiale v2.1; Curriculum Modulo U v2.0
+- **Riferimenti:** Regolamento Ufficiale v3.0; Curriculum Modulo U v2.1
 
 ---
 
@@ -15,7 +15,7 @@ Il Protocollo definisce criteri omogenei per valutare le competenze effettivamen
 - distinguere la prestazione autonoma da quella assistita;
 - individuare e classificare gli errori;
 - certificare il livello di padronanza delle singole competenze sulla base di evidenze;
-- valutare separatamente la padronanza integrata della Stanza;
+- valutare separatamente la padronanza integrata del Dungeon;
 - mantenere distinti il livello della prova, la padronanza delle competenze e il risultato della Stanza.
 
 La correttezza matematica e la coerenza con il Curriculum e il manuale scolastico prevalgono sempre sulla componente narrativa.
@@ -49,11 +49,11 @@ Ogni competenza del Curriculum è valutata individualmente secondo la scala uffi
 
 Il livello viene assegnato in base alle evidenze disponibili, non per il semplice fatto di aver letto una spiegazione o superato una singola prova. Il GM registra il livello raggiunto e motiva eventuali variazioni.
 
-### 2.3 Padronanza della Stanza
+### 2.3 Padronanza del Dungeon
 
-Il Drago valuta la capacità di integrare le competenze associate alla Stanza. Il suo esito viene registrato separatamente dai risultati dei singoli Mostri.
+Il Drago valuta l'integrazione delle competenze di tutte le Stanze appartenenti al Dungeon. Il suo esito viene registrato separatamente dai risultati dei singoli Mostri e dalle certificazioni delle singole competenze.
 
-Per ogni Drago si registra il livello della prova superata (I, II o III) e il relativo esito. Il titolo di **Maestro della Stanza** richiede il superamento, al livello III, di tutti i Mostri della Stanza e del relativo Drago.
+Il livello della prova del Drago superata (I, II o III) determina il grado del Dungeon. Il titolo di **Maestro del Dungeon** richiede il superamento al livello III di tutti i Mostri del Dungeon e del relativo Drago.
 
 ## 3. Criteri comuni
 
@@ -100,42 +100,40 @@ Una prestazione guidata può dimostrare comprensione parziale e orientare il con
 
 ## 6. Valutazione dei Mostri
 
-Ogni Mostro corrisponde a una singola competenza identificata nel Curriculum.
+A ogni Stanza corrisponde un solo Mostro. La prova del Mostro verifica congiuntamente tutte le competenze associate alla Stanza nel Curriculum.
 
-La prova del Mostro:
+La prova:
+- comprende più esercizi o problemi sufficienti a verificare le competenze della Stanza;
+- rende riconoscibile la copertura delle diverse competenze;
+- adotta il livello I, II o III scelto dallo studente;
+- consente di registrare un esito complessivo e, separatamente, le evidenze relative a ciascuna competenza.
 
-- comprende uno o più esercizi o problemi sufficienti a verificare gli aspetti essenziali della competenza;
-- è coerente con il manuale scolastico e con gli obiettivi del Curriculum;
-- adotta il livello I, II o III scelto dal giocatore;
-- consente di registrare esito, autonomia, errori e livello di padronanza supportato dalle evidenze.
-
-I Mostri possono essere affrontati indipendentemente dagli altri, nel rispetto della libertà di scelta delle Stanze prevista dal Regolamento. Il superamento di un Mostro non certifica automaticamente le altre competenze della Stanza.
+Il superamento del Mostro conquista la Stanza e sblocca permanentemente i tesori associati. Il superamento complessivo non assegna automaticamente un livello a ogni competenza: ciascuna certificazione deve essere sostenuta da evidenze specifiche e adeguate.
 
 ## 7. Valutazione del Drago
 
-Il Drago verifica l'integrazione delle competenze della Stanza attraverso esercizi o problemi che richiedono, quando pertinente, di collegare più abilità.
+Ogni Dungeon ha un solo Drago. La prova del Drago è unica e segue il modello misto:
 
-La prova:
+1. una sezione diagnostica per ciascuna Stanza del Dungeon;
+2. un problema finale integrato che richiede di combinare competenze provenienti da più Stanze senza indicare quali strumenti matematici utilizzare.
 
-- è coerente con gli obiettivi complessivi della Stanza;
-- adotta il livello I, II o III scelto dal giocatore;
-- valuta correttezza, comprensione, autonomia e capacità di integrare le competenze;
-- produce un esito distinto dai risultati dei singoli Mostri.
+Le sezioni e il problema finale appartengono alla stessa prova e producono un unico esito complessivo. Le evidenze per sezione vengono conservate per individuare le aree da consolidare. Il problema finale fornisce evidenza della capacità di trasferimento e selezione autonoma delle strategie.
 
-Il risultato del Drago determina il livello di padronanza della Stanza secondo le evidenze della prova integrata. Non aggiorna automaticamente il livello delle singole competenze e non sostituisce le prove dei Mostri.
+La prova adotta il livello I, II o III scelto dallo studente. Il risultato del Drago determina il grado del Dungeon, ma non aggiorna automaticamente le singole competenze e non sostituisce le prove dei Mostri.
 
-Per ottenere il titolo di **Maestro della Stanza** è necessario superare tutti i Mostri e il Drago al livello III.
+Il grado del Dungeon corrisponde al livello della prova superata più recentemente. Un tentativo non superato non modifica il grado già conseguito. Per il titolo di Maestro del Dungeon occorre superare al livello III tutti i Mostri del Dungeon e il Drago.
 
-## 8. Oracolo e completamento della Stanza
+## 8. Oracolo e completamento del Dungeon
 
-L'Oracolo viene liberato quando il giocatore ha superato tutti i Mostri della Stanza e il relativo Drago, indipendentemente dal livello (I, II o III) scelto per ciascuna prova.
+L'Oracolo del Dungeon viene liberato quando lo studente ha superato tutti i Mostri di tutte le Stanze del Dungeon e il Drago del Dungeon, indipendentemente dal livello scelto per ciascuna prova.
 
-La liberazione dell'Oracolo e il titolo di Maestro della Stanza sono risultati distinti:
+La conquista di una singola Stanza avviene invece al superamento del suo Mostro e sblocca i relativi tesori. Non è necessario attendere il superamento del Drago o la liberazione dell'Oracolo per consultare quei materiali.
 
-- **Oracolo liberato:** tutti i Mostri e il Drago sono stati superati.
-- **Maestro della Stanza:** tutti i Mostri e il Drago sono stati superati al livello III.
+La liberazione dell'Oracolo e il titolo di Maestro del Dungeon sono risultati distinti:
+- **Oracolo liberato:** tutti i Mostri del Dungeon e il Drago sono stati superati.
+- **Maestro del Dungeon:** tutti i Mostri del Dungeon e il Drago sono stati superati al livello III.
 
-Una Stanza conquistata rimane accessibile. Il giocatore può affrontare prove di livello superiore per dimostrare una padronanza più elevata, senza perdere risultati precedentemente acquisiti.
+Una volta liberato, l'Oracolo è un tutor permanente. La consultazione ordinaria non certifica nuove competenze.
 
 ## 9. Ripetizione delle prove e consolidamento
 
@@ -155,8 +153,8 @@ La cronologia dei tentativi e delle evidenze viene conservata. Un nuovo tentativ
 Per ogni prova formale il Campaign Journal registra almeno:
 
 - identificativo della prova;
-- Dungeon e Stanza;
-- Mostro e competenza associata, oppure Drago;
+- Dungeon e Stanza/e coinvolte;
+- Mostro e insieme delle competenze della Stanza, oppure Drago del Dungeon;
 - livello della prova;
 - attività proposte e obiettivi verificati;
 - esito;
@@ -197,4 +195,5 @@ La consultazione ordinaria di un Oracolo, la spiegazione di un argomento e lo sv
 
 | Versione | Stato | Modifiche |
 |---|---|---|
-| 1.0 | Approvata | Prima emissione del Protocollo di Valutazione. |
+| 1.0 | Superata | Prima emissione del Protocollo di Valutazione. |
+| 2.0 | Approvata | Allineamento al Regolamento v3.0 e al Curriculum v2.1: un Mostro per Stanza, prova del Drago a modello misto per Dungeon, Oracolo per Dungeon e sblocco dei tesori per Stanza. |
