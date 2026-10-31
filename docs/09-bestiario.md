@@ -21,7 +21,7 @@ La nuova architettura prevede 25 Mostri (uno per Stanza), 4 Draghi (uno per Dung
 - Oracolo: `ORA-U[Dungeon]`, per esempio `ORA-U01`.
 - Illustrazione composita: `IMG-U[Dungeon]`, per esempio `IMG-U01`.
 
-Gli identificativi delle competenze restano quelli del Curriculum. Le denominazioni descrittive dei Mostri, dei Draghi e degli Oracoli sono etichette operative provvisorie, non nomi fantasy definitivi approvati.
+Gli identificativi delle competenze restano quelli del Curriculum. Le denominazioni dei Mostri, dei Draghi e degli Oracoli possono avere una forma fantasy-matematica. Per D-U01 sono approvati i nomi dei quattro Mostri riportati nella tabella; le altre denominazioni restano etichette operative provvisorie finché non vengono approvate.
 
 # 3. Dungeon e creature
 
@@ -29,15 +29,15 @@ Gli identificativi delle competenze restano quelli del Curriculum. Le denominazi
 
 - **Drago:** DRA-U01 — Drago di Biblioteca delle Funzioni.
 - **Oracolo:** ORA-U01 — Oracolo di Biblioteca delle Funzioni.
-- **Illustrazione composita:** IMG-U01 — NON GENERATA.
+- **Illustrazione composita:** IMG-U01 — GENERATA E APPROVATA.
 - **Numero di Stanze e Mostri:** 4.
 
 | ID Mostro | Stanza | Nome mnemonico | Competenze verificate |
 |---|---|---|---|
-| MON-U01-01 | R-U01-01 — La Natura delle Funzioni | Il Custode della Stanza R-U01-01 | A-U01-01, A-U01-02, A-U01-03, A-U01-04 |
-| MON-U01-02 | R-U01-02 — Il Dominio | Il Custode della Stanza R-U01-02 | A-U01-05, A-U01-06, A-U01-07, A-U01-08 |
-| MON-U01-03 | R-U01-03 — Le Proprietà delle Funzioni | Il Custode della Stanza R-U01-03 | A-U01-09, A-U01-10, A-U01-11, A-U01-12, A-U01-13, A-U01-14, A-U01-15 |
-| MON-U01-04 | R-U01-04 — Le Trasformazioni dei Grafici | Il Custode della Stanza R-U01-04 | A-U01-16, A-U01-17 |
+| MON-U01-01 | R-U01-01 — La Natura delle Funzioni | Il Tessitore delle Funzioni | A-U01-01, A-U01-02, A-U01-03, A-U01-04 |
+| MON-U01-02 | R-U01-02 — Il Dominio | Il Custode del Dominio | A-U01-05, A-U01-06, A-U01-07, A-U01-08 |
+| MON-U01-03 | R-U01-03 — Le Proprietà delle Funzioni | Il Veggente delle Proprietà | A-U01-09, A-U01-10, A-U01-11, A-U01-12, A-U01-13, A-U01-14, A-U01-15 |
+| MON-U01-04 | R-U01-04 — Le Trasformazioni dei Grafici | Il Mutafaccia dei Grafici | A-U01-16, A-U01-17 |
 
 ## D-U02 — Soglia dell'Infinito
 
@@ -112,7 +112,7 @@ Le quattro immagini saranno realizzate on demand e sottoposte singolarmente all'
 
 | Asset | Dungeon | Stato |
 |---|---|---|
-| IMG-U01 | Biblioteca delle Funzioni | NON GENERATA |
+| IMG-U01 | Biblioteca delle Funzioni | GENERATA E APPROVATA — `assets/bestiary/IMG-U01.webp` |
 | IMG-U02 | Soglia dell'Infinito | NON GENERATA |
 | IMG-U03 | Forgia dei Limiti | NON GENERATA |
 | IMG-U04 | Torre delle Successioni | NON GENERATA |
