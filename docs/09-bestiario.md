@@ -1,10 +1,10 @@
 # THE FORGOTTEN ACADEMY
 ## Bestiario ufficiale — Modulo U
 
-**Identificativo:** TFA-BESTIARY-U  
-**Stato:** Ufficiale  
-**Regolamento di riferimento:** TFA-RULEBOOK   
-**Curriculum di riferimento:** TFA-CURRICULUM-U 
+**Identificativo:** TFA-BESTIARY-U
+**Stato:** Ufficiale
+**Regolamento di riferimento:** TFA-RULEBOOK
+**Curriculum di riferimento:** TFA-CURRICULUM-U
 
 ---
 
@@ -116,7 +116,6 @@ Le quattro immagini saranno realizzate on demand e sottoposte singolarmente all'
 | IMG-U02 | Soglia dell'Infinito | NON GENERATA |
 | IMG-U03 | Forgia dei Limiti | NON GENERATA |
 | IMG-U04 | Torre delle Successioni | NON GENERATA |
-
 
 
 # 6. Modello standard della scheda Mostro
