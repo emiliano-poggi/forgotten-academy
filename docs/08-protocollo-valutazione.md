@@ -3,7 +3,7 @@
 
 - **ID:** TFA-EVALUATION
 - **Stato:** Approvato
-- **Riferimenti:** Regolamento Ufficiale ; Curriculum Modulo U 
+- **Riferimenti:** Regolamento Ufficiale ; Curriculum Modulo U
 
 ---
 
