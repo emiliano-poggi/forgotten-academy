@@ -2,9 +2,9 @@
 ## Campaign Journal
 
 **Identificativo:** TFA-JOURNAL  
-**Versione:** 2.0  
+**Versione:** 2.1  
 **Stato:** Ufficiale — stato iniziale  
-**Regolamento di riferimento:** TFA-RULEBOOK v2.1  
+**Regolamento di riferimento:** TFA-RULEBOOK v3.0  
 **Data di inizializzazione:** 2026-10-31
 
 ---
@@ -15,12 +15,12 @@
 |---|---|
 | Campagna | The Forgotten Academy |
 | Modulo attivo | Modulo U — Matematica |
-| Regolamento | TFA-RULEBOOK v2.1 |
+| Regolamento | TFA-RULEBOOK v3.0 |
 | Stato della campagna | INIZIALE |
 | Sessione attiva | Nessuna |
 | Sessione in pausa | Nessuna |
 
-La campagna è stata inizializzata secondo il Regolamento ufficiale v2.1.
+La campagna è stata inizializzata secondo il Regolamento ufficiale v2.1; la struttura didattica è stata successivamente riallineata al Regolamento v3.0. Il reset iniziale e l'assenza di progressi certificati restano invariati.
 
 Questo Journal costituisce il registro iniziale della nuova campagna. Non eredita progressi o risultati da versioni precedenti.
 
@@ -31,7 +31,7 @@ Questo Journal costituisce il registro iniziale della nuova campagna. Non eredit
 | Indicatore | Stato iniziale |
 |---|---:|
 | Competenze certificate | 0 |
-| Verifiche registrate | 0 |
+| Verifiche registrate | 1 pendente — migrazione da chiarire |
 | Mostri sconfitti | 0 |
 | Draghi sconfitti | 0 |
 | Oracoli liberati | 0 |
@@ -103,16 +103,24 @@ Gli Oracoli associati alle Stanze saranno registrati qui quando la relativa Stan
 
 # 6. Verifiche ed evidenze
 
-Non risultano verifiche svolte.
+È stata avviata una prova formale sul precedente identificativo di Mostro MON-U01-01-01. La prova è ancora in attesa delle risposte dello studente; non è stata valutata, superata o registrata come certificazione. È conservata come attività pendente di migrazione e non viene automaticamente convertita nella nuova prova del Mostro di Stanza.
 
 | Indicatore | Valore |
 |---|---|
-| Verifiche tentate | 0 |
+| Verifiche tentate | 1 — in corso, non valutata |
 | Verifiche superate | 0 |
 | Verifiche non superate | 0 |
 | Certificazioni assegnate | 0 |
 
 Non sono presenti evidenze di prestazioni autonome, assistite o guidate.
+
+# 6.1 Prova formale pendente — migrazione architetturale
+
+- **Identificativo legacy:** MON-U01-01-01 — Il Tessitore di Legami.
+- **Competenza originaria:** A-U01-01 — Comprendere il concetto di funzione reale di variabile reale.
+- **Livello:** I — Apprendista.
+- **Stato:** avviata; risposte non ancora consegnate; nessun esito.
+- **Migrazione:** la prova è stata avviata secondo la precedente architettura (un Mostro per competenza). Rimane sospesa come prova legacy e non viene considerata prova completa del nuovo Mostro della Stanza R-U01-01, che dovrà verificare tutte le competenze della Stanza. Prima di riprendere la valutazione, lo studente sceglierà se completare la prova legacy come evidenza limitata alla competenza A-U01-01 oppure interromperla e iniziare in seguito la nuova prova di Stanza. Nessuna scelta viene effettuata automaticamente.
 
 # 7. Registro degli errori e delle difficoltà
 
@@ -135,7 +143,7 @@ Gli obiettivi saranno definiti sulla base delle attività svolte, delle verifich
 
 # 9. Sessioni e attività
 
-Non esistono sessioni aperte o attività in corso.
+Non è registrata una sessione generale ACTIVE o PAUSED. È tuttavia pendente la prova formale descritta nella sezione 6.1.
 
 | Indicatore | Stato |
 |---|---|
@@ -188,6 +196,6 @@ La struttura geografica e tematica di riferimento, se presente nelle fonti, non 
 
 | Versione | Stato | Modifiche |
 |---|---|---|
-| 2.0 | Ufficiale | Inizializzazione della campagna secondo TFA-RULEBOOK v2.1; profilo, progressi, mappa e inventario azzerati |
+| 2.0 | Ufficiale | Inizializzazione della campagna secondo TFA-RULEBOOK v3.0; profilo, progressi, mappa e inventario azzerati |
 
-**Fine documento — TFA-JOURNAL v2.0**
+**Fine documento — TFA-JOURNAL v2.1**
