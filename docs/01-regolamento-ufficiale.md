@@ -2,7 +2,6 @@
 ## Regolamento ufficiale
 
 **Identificativo:** TFA-RULEBOOK  
-**Versione:** 3.0  
 **Stato:** Ufficiale — approvato  
 **Ambito:** Sistema didattico tematizzato dark fantasy — Matematica, quinto anno del liceo scientifico
 
@@ -187,7 +186,7 @@ La semplice consultazione di una spiegazione non equivale alla certificazione de
 
 Tutte le competenze del programma iniziano al livello 0 — Unknown.
 
-Non vengono trasferiti progressi, verifiche, certificazioni o risultati provenienti da precedenti versioni della campagna.
+La campagna viene inizializzata da zero, senza progressi o risultati pregressi.
 
 Il profilo iniziale è privo di progressi certificati.
 
@@ -458,7 +457,7 @@ Ogni modifica persistente deve:
 
 ## 11.2 GitHub
 
-Il repository `forgotten-academy` costituisce l'archivio versionato delle fonti ufficiali.
+Il repository `forgotten-academy`, sul branch `main`, costituisce l'archivio delle fonti ufficiali. I commit identificano le modifiche e la loro cronologia.
 
 Ogni documento deve essere mantenuto in formato leggibile e modificabile, preferibilmente Markdown.
 
@@ -484,19 +483,10 @@ La nuova campagna parte da uno stato nullo.
 - Nessuna verifica registrata.
 - Nessun errore precedentemente osservato.
 - Nessun materiale acquisito come risultato di attività.
-- Nessun progresso ereditato da precedenti versioni.
+- Nessun progresso pregresso.
 
 La preparazione delle fonti e la configurazione del repository non costituiscono attività didattiche.
 
 ---
 
-## 13. Registro delle revisioni
-
-| Versione | Stato | Modifiche |
-|---|---|---|
-| 1.0 | Superata | Regolamento RPG originario |
-| 2.0 | Superata | Conversione in sistema didattico tematizzato, rimozione delle meccaniche RPG e introduzione del modello Stanze, Mostri, Draghi e Oracoli |
-| 2.1 | Superata | Allineamento al Protocollo di Valutazione v1.0; distinzione tra livello della prova, padronanza delle competenze e grado della Stanza; criteri qualitativi di superamento |
-| 3.0 | Ufficiale — approvata | Un Mostro per Stanza, un Drago e un Oracolo per Dungeon; prova del Drago a modello misto; illustrazione composita per Dungeon; tesori associati e sbloccati permanentemente per Stanza |
-
-**Fine documento — TFA-RULEBOOK v3.0**
+**Fine documento — TFA-RULEBOOK**
