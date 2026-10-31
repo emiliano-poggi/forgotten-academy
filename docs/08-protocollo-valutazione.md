@@ -2,9 +2,8 @@
 ## Protocollo di Valutazione
 
 - **ID:** TFA-EVALUATION
-- **Versione:** 2.0
 - **Stato:** Approvato
-- **Riferimenti:** Regolamento Ufficiale v3.0; Curriculum Modulo U v2.1
+- **Riferimenti:** Regolamento Ufficiale ; Curriculum Modulo U 
 
 ---
 
@@ -191,9 +190,3 @@ La consultazione ordinaria di un Oracolo, la spiegazione di un argomento e lo sv
 - Nessuna padronanza viene certificata senza evidenze adeguate.
 - Nessun insuccesso comporta la perdita di progressi già acquisiti.
 
-## Cronologia delle revisioni
-
-| Versione | Stato | Modifiche |
-|---|---|---|
-| 1.0 | Superata | Prima emissione del Protocollo di Valutazione. |
-| 2.0 | Approvata | Allineamento al Regolamento v3.0 e al Curriculum v2.1: un Mostro per Stanza, prova del Drago a modello misto per Dungeon, Oracolo per Dungeon e sblocco dei tesori per Stanza. |
