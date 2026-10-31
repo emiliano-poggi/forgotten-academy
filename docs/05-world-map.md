@@ -251,7 +251,7 @@ In caso di conflitto, ogni fonte mantiene la propria responsabilità specifica. 
 
 # 13. Registro dei luoghi canonici
 
-Gli identificativi geografici della versione 1.0 vengono conservati.
+Gli identificativi geografici sono stabili e vengono mantenuti.
 
 | ID | Nome | Territorio |
 |---|---|---|
