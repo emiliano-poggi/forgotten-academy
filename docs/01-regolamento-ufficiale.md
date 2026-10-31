@@ -256,7 +256,7 @@ Una volta liberato, l'Oracolo diventa un tutor permanente per l'intero Dungeon. 
 
 A ogni Dungeon è associata una sola illustrazione composita in stile infografica, comprendente ambiente, Mostri delle sue Stanze, Drago e Oracolo. L'immagine è una sintesi visiva e non sostituisce schede didattiche o Curriculum.
 
-Le quattro illustrazioni saranno realizzate e approvate singolarmente. Le precedenti immagini individuali, se presenti, sono materiali d'archivio e non immagini canoniche della nuova struttura.
+Le quattro illustrazioni saranno realizzate e approvate singolarmente.
 
 # 7. Valutazione e certificazione
 
@@ -450,7 +450,6 @@ Ogni modifica persistente deve:
 
 1. Essere motivata da un risultato o da una decisione approvata.
 2. Conservare gli identificativi stabili.
-3. Incrementare la versione del documento interessato.
 4. Conservare la cronologia delle modifiche.
 5. Mantenere la coerenza con le altre fonti.
 6. Essere verificata prima di diventare ufficiale.
