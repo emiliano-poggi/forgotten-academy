@@ -1,12 +1,12 @@
 # THE FORGOTTEN ACADEMY
 ## Curriculum ufficiale — Modulo U
 
-**Identificativo:** TFA-CURRICULUM-U  
-**Stato:** Ufficiale  
-**Regolamento di riferimento:** TFA-RULEBOOK   
-**Campaign Journal di riferimento:** TFA-JOURNAL  
-**Fonte didattica principale:** Massimo Bergamini, Anna Trifone, Graziella Barozzi, *Manuale blu 2.0 di matematica*, Confezione 4, Volume U, Zanichelli, 2012.  
-**Ambito:** Capitoli 20–23  
+**Identificativo:** TFA-CURRICULUM-U
+**Stato:** Ufficiale
+**Regolamento di riferimento:** TFA-RULEBOOK
+**Campaign Journal di riferimento:** TFA-JOURNAL
+**Fonte didattica principale:** Massimo Bergamini, Anna Trifone, Graziella Barozzi, *Manuale blu 2.0 di matematica*, Confezione 4, Volume U, Zanichelli, 2012.
+**Ambito:** Capitoli 20–23
 **Stato iniziale delle competenze:** 0 — Unknown
 
 ---
@@ -137,10 +137,10 @@ Questi prerequisiti sono diagnostici e non costituiscono capitoli aggiuntivi del
 
 # 4. Dungeon I — Biblioteca delle Funzioni
 
-**ID:** D-U01  
-**Capitolo:** 20 — Le funzioni e le loro proprietà  
-**Pagine principali:** 1354–1369  
-**Esercizi:** da p. 1370  
+**ID:** D-U01
+**Capitolo:** 20 — Le funzioni e le loro proprietà
+**Pagine principali:** 1354–1369
+**Esercizi:** da p. 1370
 **Obiettivo generale:** comprendere il concetto di funzione reale di variabile reale, determinarne le proprietà e interpretarne la rappresentazione analitica e grafica.
 
 ## R-U01-01 — La Natura delle Funzioni
@@ -196,10 +196,10 @@ Obiettivi: comprendere come cambia il grafico al variare dell'espressione; colle
 
 # 5. Dungeon II — Soglia dell'Infinito
 
-**ID:** D-U02  
-**Capitolo:** 21 — I limiti delle funzioni  
-**Pagine principali:** 1404–1435  
-**Esercizi:** da p. 1441  
+**ID:** D-U02
+**Capitolo:** 21 — I limiti delle funzioni
+**Pagine principali:** 1404–1435
+**Esercizi:** da p. 1441
 **Obiettivo generale:** comprendere il concetto di limite e interpretarne le definizioni, descrivendo il comportamento di una funzione quando la variabile si avvicina a un valore oppure tende all'infinito.
 
 ## R-U02-01 — La Geometria della Retta Reale
@@ -274,10 +274,10 @@ Obiettivi: comprendere il significato dei teoremi introdotti; distinguere ipotes
 
 # 6. Dungeon III — Forgia dei Limiti
 
-**ID:** D-U03  
-**Capitolo:** 22 — Il calcolo dei limiti  
-**Pagine principali:** 1476–1510  
-**Esercizi:** da p. 1514  
+**ID:** D-U03
+**Capitolo:** 22 — Il calcolo dei limiti
+**Pagine principali:** 1476–1510
+**Esercizi:** da p. 1514
 **Obiettivo generale:** calcolare limiti utilizzando proprietà, operazioni, tecniche e risultati studiati; affrontare continuità, discontinuità, asintoti e grafico probabile.
 
 ## R-U03-01 — Le Operazioni sui Limiti
@@ -380,10 +380,10 @@ Obiettivi: integrare dominio, segno e proprietà; utilizzare limiti e continuit�
 
 # 7. Dungeon IV — Torre delle Successioni
 
-**ID:** D-U04  
-**Capitolo:** 23 — Le successioni e le serie  
-**Pagine principali:** 1568–1586  
-**Esercizi:** da p. 1591  
+**ID:** D-U04
+**Capitolo:** 23 — Le successioni e le serie
+**Pagine principali:** 1568–1586
+**Esercizi:** da p. 1591
 **Obiettivo generale:** comprendere il concetto di successione numerica, studiarne il comportamento e analizzare limiti di successioni, progressioni e serie numeriche.
 
 ## R-U04-01 — La Natura delle Successioni
