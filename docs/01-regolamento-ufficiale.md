@@ -1,8 +1,8 @@
 # THE FORGOTTEN ACADEMY
 ## Regolamento ufficiale
 
-**Identificativo:** TFA-RULEBOOK  
-**Stato:** Ufficiale — approvato  
+**Identificativo:** TFA-RULEBOOK
+**Stato:** Ufficiale — approvato
 **Ambito:** Sistema didattico tematizzato dark fantasy — Matematica, quinto anno del liceo scientifico
 
 ---
@@ -283,7 +283,7 @@ Non sono previste soglie percentuali automatiche o medie ponderate. Il GM valuta
 
 Una prova superata con aiuti sostanziali non può essere registrata come dimostrazione autonoma del livello richiesto.
 
-Il livello della prova, il livello di padronanza della singola competenza e il grado della Stanza sono risultati distinti e devono essere registrati separatamente.
+Il livello della prova, il livello di padronanza della singola competenza e il grado del Dungeon sono risultati distinti e devono essere registrati separatamente.
 
 ## 7.2 Registrazione delle evidenze
 
@@ -298,9 +298,9 @@ Ogni verifica deve registrare:
 - Aiuti eventualmente forniti.
 - Esito.
 - Livello di padronanza certificato.
-- Per le prove dei Draghi, grado della Stanza conseguito (I, II o III), distinto dai livelli di padronanza delle singole competenze.
+- Per le prove dei Draghi, grado del Dungeon conseguito (I, II o III), distinto dai livelli di padronanza delle singole competenze.
 
-Per le prove dei Draghi, il grado della Stanza corrisponde al livello della prova superata più recentemente. Un tentativo non superato non modifica il grado già conseguito.
+Per le prove dei Draghi, il grado del Dungeon corrisponde al livello della prova superata più recentemente. Un tentativo non superato non modifica il grado già conseguito.
 
 Una ripetizione della prova può migliorare il livello certificato, ma non deve cancellare la cronologia dei risultati precedenti.
 
