@@ -1,11 +1,11 @@
 # THE FORGOTTEN ACADEMY
 ## Inventory Catalog — Catalogo degli artefatti didattici
 
-**Identificativo:** TFA-INVENTORY  
-**Stato:** Ufficiale  
-**Regolamento di riferimento:** TFA-RULEBOOK   
-**Campaign Journal di riferimento:** TFA-JOURNAL   
-**Curriculum di riferimento:** TFA-CURRICULUM-U 
+**Identificativo:** TFA-INVENTORY
+**Stato:** Ufficiale
+**Regolamento di riferimento:** TFA-RULEBOOK
+**Campaign Journal di riferimento:** TFA-JOURNAL
+**Curriculum di riferimento:** TFA-CURRICULUM-U
 
 ---
 
