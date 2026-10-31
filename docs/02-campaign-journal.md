@@ -21,7 +21,7 @@
 
 La campagna è stata inizializzata con stato nullo. La struttura didattica è attualmente regolata da TFA-RULEBOOK . Il reset iniziale e l'assenza di progressi certificati restano invariati.
 
-Questo Journal costituisce il registro iniziale della nuova campagna. Non eredita progressi o risultati da versioni precedenti.
+Questo Journal costituisce il registro iniziale della nuova campagna. Non registra progressi o risultati pregressi.
 
 # 2. Profilo dello studente
 
@@ -30,7 +30,7 @@ Questo Journal costituisce il registro iniziale della nuova campagna. Non eredit
 | Indicatore | Stato iniziale |
 |---|---:|
 | Competenze certificate | 0 |
-| Verifiche registrate | 1 pendente — non valutata |
+| Verifiche registrate | 0 |
 | Mostri sconfitti | 0 |
 | Draghi sconfitti | 0 |
 | Oracoli liberati | 0 |
@@ -181,6 +181,6 @@ La struttura geografica e tematica di riferimento, se presente nelle fonti, non 
 3. Lo studente può scegliere liberamente le Stanze.
 4. Le verifiche di certificazione non vengono avviate senza richiesta esplicita.
 5. I progressi sono registrati soltanto quando sostenuti da evidenze.
-6. Nessun progresso precedente viene trasferito nella nuova campagna.
+6. La campagna parte da uno stato nullo.
 7. La struttura didattica e gli identificativi delle competenze dipendono dal Curriculum ufficiale.
 
