@@ -2,7 +2,7 @@
 ## Bestiario ufficiale — Modulo U
 
 **Identificativo:** TFA-BESTIARY-U  
-**Versione:** 1.0  
+**Versione:** 1.1  
 **Stato:** Ufficiale  
 **Regolamento di riferimento:** TFA-RULEBOOK v2.1  
 **Curriculum di riferimento:** TFA-CURRICULUM-U v2.0  
@@ -411,10 +411,70 @@ La verifica del Mostro segue il Regolamento ufficiale e il Protocollo di Valutaz
 
 Il Bestiario non assegna livelli di padronanza e non registra sconfitte o certificazioni: tali informazioni appartengono al Campaign Journal.
 
-# 10. Registro delle revisioni
+
+# 10. Modello standard della scheda Mostro
+
+Le schede dei Mostri adottano una struttura a prevalenza didattica. La componente narrativa è limitata a quanto serve a identificare il personaggio e a rendere memorabile il concetto; non deve sostituire né diluire la spiegazione matematica.
+
+Ogni scheda comprende:
+
+1. **Identità:** ID, nome, Dungeon, Stanza, competenza associata e riferimento al manuale.
+2. **Rappresentazione visiva e mnemotecnica:** illustrazione e spiegazione sintetica del rapporto tra gli elementi visivi e il concetto matematico.
+3. **Nucleo didattico:** spiegazione del concetto, con definizioni, proprietà e notazione aderenti alla fonte scolastica. Non si introducono contenuti non documentati dal manuale.
+4. **Comportamento didattico:** capacità e prestazioni osservabili che lo studente deve sviluppare in relazione alla competenza. Non descrive il comportamento narrativo della creatura.
+5. **Errori e attenzioni:** confusioni e difficoltà da monitorare, da precisare sulla base delle evidenze didattiche e senza attribuire allo studente errori non ancora osservati.
+6. **Verifica della competenza:** rimando al Regolamento e al Protocollo di Valutazione. La scheda non anticipa né sostituisce l'esito della verifica.
+
+La descrizione fantasy estesa non è un campo standard. Il simbolismo visivo è invece mantenuto perché svolge una funzione mnemotecnica.
+
+## 10.1 Scheda pilota — MON-U01-01-01
+
+### Identità
+
+- **Nome:** Il Tessitore di Legami
+- **Dungeon:** D-U01 — Biblioteca delle Funzioni
+- **Stanza:** R-U01-01 — La Natura delle Funzioni
+- **Competenza:** A-U01-01 — Comprendere il concetto di funzione reale di variabile reale.
+- **Riferimento:** Capitolo 20, §1, p. 1354 del *Manuale blu 2.0 di matematica*, Volume U.
+- **Immagine:** approvata dallo studente; percorso previsto: `assets/bestiario/dungeon-u01/MON-U01-01-01.webp`.
+
+### Rappresentazione visiva e mnemotecnica
+
+L'illustrazione raffigura una figura incappucciata che dispone fili luminosi tra sfere sospese.
+
+- **Fili:** richiamano le corrispondenze tra gli elementi.
+- **Sfere:** rappresentano visivamente i valori coinvolti nella relazione.
+- **Collegamenti ordinati:** richiamano la condizione caratteristica della funzione: a ogni elemento del dominio deve corrispondere uno e un solo valore.
+- **Trama complessiva:** evoca la struttura di una funzione come corrispondenza tra variabili.
+
+Questa lettura è un ausilio mnemonico e non sostituisce la definizione matematica.
+
+### Nucleo didattico
+
+Da sviluppare sulla base del paragrafo del manuale indicato. Definizioni, proprietà, notazione ed eventuali esempi dovranno rispettare il testo della fonte scolastica, senza integrazioni non verificate.
+
+### Comportamento didattico
+
+Lo studente deve saper:
+- riconoscere una funzione reale di variabile reale;
+- individuare la variabile indipendente e quella dipendente;
+- interpretare la corrispondenza tra i valori di ingresso e i valori associati;
+- comprendere la condizione che distingue una funzione da una relazione generica.
+
+Questi punti esplicitano operativamente la competenza A-U01-01 e non costituiscono nuove competenze del Curriculum.
+
+### Errori e attenzioni
+
+Nessun errore individuale viene attribuito in anticipo. Le eventuali difficoltà saranno registrate nel Campaign Journal soltanto quando emergeranno durante attività o verifiche.
+
+### Verifica della competenza
+
+La verifica segue il Protocollo di Valutazione vigente. La scheda non assegna livelli di padronanza e non registra un esito didattico.
+
+# 11. Registro delle revisioni
 
 | Versione | Stato | Modifiche |
 |---|---|---|
-| 1.0 | Ufficiale | Prima catalogazione dei 93 Mostri; identificativi stabili; collegamento alle 93 competenze; regole per generazione on demand e approvazione delle illustrazioni; registro iniziale delle immagini |
+| 1.0 | Ufficiale | Prima catalogazione dei 93 Mostri; identificativi stabili; collegamento alle 93 competenze; regole per generazione on demand e approvazione delle illustrazioni; registro iniziale delle immagini |\n| 1.1 | Ufficiale | Introdotto il modello standard a prevalenza didattica delle schede; aggiunta la scheda pilota del Tessitore di Legami |
 
-**Fine documento — TFA-BESTIARY-U v1.0**
+**Fine documento — TFA-BESTIARY-U v1.1**
