@@ -2,7 +2,7 @@
 ## Regolamento ufficiale
 
 **Identificativo:** TFA-RULEBOOK  
-**Versione:** 2.1  
+**Versione:** 3.0  
 **Stato:** Ufficiale — approvato  
 **Ambito:** Sistema didattico tematizzato dark fantasy — Matematica, quinto anno del liceo scientifico
 
@@ -197,157 +197,67 @@ Questo stato non costituisce una valutazione delle conoscenze scolastiche effett
 
 # 5. Struttura didattica del mondo
 
-La struttura didattica è:
+La struttura è **Modulo → Dungeon → Stanze → Competenze**. Nel Modulo U comprende 4 Dungeon, 25 Stanze e 93 competenze. Le competenze restano distinte e invariate nel Curriculum.
 
-**Modulo → Dungeon → Stanze → Competenze**
-
-Il Dungeon rappresenta un capitolo o una grande area del programma.
-
-La Stanza rappresenta un'unità didattica specifica.
-
-Le competenze associate alla Stanza sono definite dal Curriculum ufficiale.
-
-La componente fantasy non deve modificare la struttura o la suddivisione del programma scolastico.
+Ogni Stanza è associata a un solo Mostro, che verifica congiuntamente tutte le competenze assegnate a quella Stanza. Ogni Dungeon comprende un solo Drago e un solo Oracolo. Il Drago verifica l'integrazione delle competenze dell'intero Dungeon.
 
 ## 5.1 Libertà di scelta
 
-Lo studente può scegliere qualsiasi Stanza disponibile nel Curriculum.
-
-Non esiste un percorso obbligatorio di sblocco progressivo.
-
-L'eventuale mancanza di prerequisiti non impedisce di tentare lo studio di una Stanza.
-
-Il GM deve diagnosticare le lacune e proporre eventuali attività di recupero.
+Lo studente può scegliere qualsiasi Stanza disponibile. Non esiste un percorso obbligatorio di sblocco didattico. La mancanza di prerequisiti non impedisce di tentare lo studio: il GM diagnostica le lacune e propone eventuali attività di recupero.
 
 ## 5.2 Stati delle Stanze
 
-Ogni Stanza può trovarsi nei seguenti stati:
+- **INESPLORATA:** non ancora affrontata.
+- **IN STUDIO:** attività di apprendimento in corso.
+- **CONQUISTATA:** il Mostro della Stanza è stato superato; i tesori associati sono sbloccati permanentemente.
+- **COMPLETATA:** il Dungeon ha soddisfatto le condizioni di liberazione del proprio Oracolo.
 
-- **INESPLORATA:** non è ancora stata affrontata.
-- **IN STUDIO:** sono in corso attività di apprendimento.
-- **ORACOLO LIBERATO:** sono stati sconfitti tutti i Mostri e il Drago.
-- **PADRONEGGIATA:** sono state raggiunte le condizioni previste per il grado Maestro.
+La conquista della Stanza e il completamento del Dungeon sono eventi distinti. La conquista non richiede il superamento del Drago. Le Stanze restano accessibili e possono essere riprese.
 
-La liberazione dell'Oracolo non equivale automaticamente alla padronanza Maestro.
-
-Una Stanza completata rimane permanentemente accessibile.
-
-Lo studente può ritornare su una Stanza per migliorare i risultati precedenti.
-
----
-
-# 6. Struttura di una Stanza
-
-Ogni Stanza comprende quattro elementi principali:
-
-1. Guardiano della Soglia.
-2. Mostri.
-3. Drago.
-4. Oracolo.
-
-Può inoltre essere associata a materiali didattici e tesori.
+# 6. Struttura di Stanze e Dungeon
 
 ## 6.1 Guardiano della Soglia
 
-Il Guardiano verifica brevemente i prerequisiti necessari per affrontare la Stanza.
+Il Guardiano verifica i prerequisiti pertinenti. La verifica è diagnostica, non blocca l'accesso. Il GM identifica eventuali lacune e propone chiarimenti o recupero; lo studente può comunque proseguire.
 
-La verifica è diagnostica e non costituisce un blocco di accesso.
+## 6.2 Mostro della Stanza
 
-In caso di risposta errata, il GM:
+Ogni Stanza ha **un solo Mostro**, associato a tutte le competenze elencate per quella Stanza nel Curriculum. La prova è scritta e strutturata, con più esercizi o problemi sufficienti a verificare tutte le competenze della Stanza.
 
-1. Identifica la lacuna.
-2. Spiega il prerequisito non compreso.
-3. Propone un nuovo tentativo.
-4. Suggerisce un eventuale recupero.
+Lo studente sceglie il livello I — Apprendista, II — Adepto oppure III — Arcimago. Il livello della prova non coincide con la padronanza 0–5 delle singole competenze.
 
-Lo studente può comunque proseguire nella Stanza anche se non possiede ancora tutti i prerequisiti.
+Il superamento complessivo del Mostro conquista la Stanza e sblocca i tesori associati. Le competenze restano valutate analiticamente: il Journal registra quali sono state effettivamente dimostrate e con quale livello. Il superamento complessivo non certifica automaticamente una competenza per la quale manchino evidenze specifiche. I livelli scelti possono variare tra Mostri.
 
-## 6.2 Mostri
+## 6.3 Drago del Dungeon
 
-Ogni Mostro rappresenta una sezione del programma o una specifica competenza.
+Ogni Dungeon ha **un solo Drago**, che verifica l'integrazione delle competenze di tutte le sue Stanze. La prova è unica e segue il modello misto:
 
-Il collegamento tra Mostro e competenza deve essere esplicito nel Curriculum.
+1. una sezione diagnostica riconoscibile per ciascuna Stanza del Dungeon;
+2. almeno un problema finale integrato, che richiede di combinare competenze di più Stanze senza indicare quali strumenti o procedimenti selezionare.
 
-Un Mostro viene affrontato attraverso una verifica scritta strutturata, composta da più esercizi o problemi.
+Le sezioni e il problema finale fanno parte della stessa prova e producono un unico esito complessivo. Le evidenze per sezione sono conservate a fini diagnostici; il problema integrato verifica trasferimento e selezione autonoma delle strategie.
 
-Una singola domanda non è sufficiente per certificare il superamento.
+Lo studente sceglie il livello I, II o III. Il superamento del Drago determina il grado del Dungeon, pari al livello della prova superata più recentemente. Un tentativo non superato non modifica il grado già conseguito. Il risultato non aggiorna automaticamente le singole competenze e non sostituisce le prove dei Mostri.
 
-### Livelli delle verifiche
+## 6.4 Condizione per il grado Maestro del Dungeon
 
-Lo studente sceglie il livello della prova:
+Il grado III del Dungeon richiede:
+- superamento di tutti i Mostri del Dungeon al livello III — Arcimago;
+- superamento del Drago del Dungeon al livello III — Arcimago.
 
-| Livello | Denominazione |
-|---|---|
-| I | Apprendista |
-| II | Adepto |
-| III | Arcimago |
+Il superamento del solo Drago al livello III non conferisce il titolo di Maestro se anche uno solo dei Mostri non è stato superato al livello III.
 
-Il livello della prova indica la difficoltà e la profondità della verifica. Non coincide con il livello di padronanza della competenza, che viene certificato separatamente secondo la scala 0–5 definita nella sezione 4.1 e secondo il Protocollo di Valutazione.
+## 6.5 Oracolo del Dungeon
 
-Il superamento della prova certifica il risultato relativo alla competenza associata al Mostro. Il GM assegna o aggiorna il livello di padronanza della competenza esclusivamente sulla base delle evidenze raccolte.
+Ogni Dungeon ha un solo Oracolo. Viene liberato quando lo studente ha superato **tutti i Mostri di tutte le Stanze del Dungeon e il Drago del Dungeon**, indipendentemente dal livello scelto per ciascuna prova.
 
-Non è obbligatorio scegliere lo stesso livello per tutti i Mostri.
+Una volta liberato, l'Oracolo diventa un tutor permanente per l'intero Dungeon. Può spiegare definizioni, proprietà e teoremi, presentare dimostrazioni, svolgere esercizi con lo studente, proporre attività e chiarire errori. La consultazione ordinaria non certifica nuove competenze.
 
-Le prove devono rispettare, quando disponibili, le gradazioni di difficoltà e la tipologia degli esercizi presenti nel manuale.
+## 6.6 Illustrazione composita del Dungeon
 
-## 6.3 Drago
+A ogni Dungeon è associata una sola illustrazione composita in stile infografica, comprendente ambiente, Mostri delle sue Stanze, Drago e Oracolo. L'immagine è una sintesi visiva e non sostituisce schede didattiche o Curriculum.
 
-Il Drago rappresenta l'intera Stanza e verifica la capacità di integrare le competenze associate.
-
-La sua prova è scritta, strutturata e comprende esercizi e problemi coerenti con il contenuto complessivo della Stanza.
-
-Sono previsti tre livelli:
-
-- I — Apprendista.
-- II — Adepto.
-- III — Arcimago.
-
-Il livello della prova del Drago determina direttamente il grado di padronanza complessiva della Stanza, purché la prova sia superata.
-
-Il grado della Stanza è registrato separatamente dalla scala 0–5 delle singole competenze:
-
-| Prova del Drago superata | Grado della Stanza |
-|---|---|
-| Livello I — Apprendista | Grado I |
-| Livello II — Adepto | Grado II |
-| Livello III — Arcimago | Grado III |
-
-Il risultato del Drago non aggiorna automaticamente il livello delle singole competenze e non sostituisce le prove dei Mostri.
-
-Esempio: uno studente può aver superato tutti i Mostri al livello I e successivamente superare il Drago al livello III. La Stanza raggiunge il grado III, mentre le singole competenze conservano i livelli di padronanza certificati attraverso le rispettive prove.
-
-Il mancato superamento del Drago non assegna il grado corrispondente al livello tentato. Il grado della Stanza resta quello dell'ultima prova del Drago superata, se presente.
-
-## 6.4 Condizione per il grado Maestro
-
-Il grado III della Stanza corrisponde al grado Maestro e richiede contemporaneamente:
-
-- Superamento di tutti i Mostri al livello III — Arcimago.
-- Superamento del Drago al livello III — Arcimago.
-
-Il superamento del solo Drago al livello III assegna il grado III alla Stanza, ma non conferisce il titolo di Maestro se anche uno solo dei Mostri non è stato superato al livello III.
-
-## 6.5 Oracolo
-
-L'Oracolo è associato alla Stanza e viene liberato dopo il superamento di tutti i Mostri e del Drago.
-
-Una volta liberato, diventa un tutor permanente e consultabile in qualsiasi momento.
-
-L'Oracolo può:
-
-- Spiegare definizioni, proprietà e teoremi.
-- Presentare dimostrazioni.
-- Risolvere esercizi insieme allo studente.
-- Proporre esercizi aggiuntivi.
-- Chiarire errori e difficoltà.
-- Collegare concetti della Stanza ad altri argomenti.
-- Proporre approfondimenti.
-
-La consultazione ordinaria dell'Oracolo non certifica nuove competenze.
-
-Per ottenere una nuova certificazione è necessaria una verifica adeguata.
-
----
+Le quattro illustrazioni saranno realizzate e approvate singolarmente. Le precedenti immagini individuali, se presenti, sono materiali d'archivio e non immagini canoniche della nuova struttura.
 
 # 7. Valutazione e certificazione
 
@@ -433,70 +343,27 @@ Il GM non avvia autonomamente una verifica formale.
 
 ---
 
-# 9. Artefatti didattici
+# 9. Artefatti didattici e tesori
 
-Il patrimonio didattico è organizzato in quattro categorie.
+Le quattro categorie di artefatti sono associate alle singole Stanze.
 
 ## 9.1 Grimorio
-
-**Funzione:** raccogliere conoscenze matematiche.
-
-Contiene:
-- Definizioni.
-- Formule.
-- Proprietà.
-- Teoremi.
-- Dimostrazioni.
-- Risultati teorici.
-
-Comando: `/grimorio`
+Definizioni, formule, proprietà, teoremi, dimostrazioni e risultati teorici. Comando: `/grimorio`.
 
 ## 9.2 Pergamena
-
-**Funzione:** rappresentare le relazioni tra concetti.
-
-Contiene:
-- Mappe concettuali.
-- Collegamenti tra argomenti.
-- Gerarchie.
-- Schemi di sintesi.
-- Relazioni logiche.
-
-Comando: `/pergamena`
+Mappe concettuali, gerarchie, schemi e collegamenti tra concetti. Comando: `/pergamena`.
 
 ## 9.3 Runario
-
-**Funzione:** raccogliere procedimenti e strategie operative.
-
-Contiene:
-- Algoritmi.
-- Procedimenti risolutivi.
-- Sequenze operative.
-- Condizioni di applicabilità.
-- Controlli.
-- Errori ricorrenti.
-- Esempi svolti.
-
-Ogni procedura deve indicare quando utilizzarla, quali prerequisiti richiede, quali condizioni devono essere soddisfatte e quali controlli effettuare.
-
-Comando: `/runario`
+Procedimenti, algoritmi, strategie, condizioni di applicabilità, controlli, errori ricorrenti ed esempi svolti. Comando: `/runario`.
 
 ## 9.4 Cristallo
+Esempi, problemi, applicazioni, casi particolari ed esercizi rappresentativi. Comando: `/cristallo`.
 
-**Funzione:** raccogliere esempi e applicazioni significative.
+## 9.5 Associazione e sblocco
 
-Contiene:
-- Esempi svolti.
-- Problemi.
-- Applicazioni.
-- Casi particolari.
-- Esercizi rappresentativi.
+Gli artefatti sono organizzati per Stanza e collegati alle relative competenze. Una Stanza può avere più artefatti della stessa categoria.
 
-Comando: `/cristallo`
-
-La consultazione degli artefatti è libera e non comporta penalità.
-
----
+I tesori di una Stanza vengono sbloccati quando il relativo Mostro è superato e la Stanza è conquistata. Lo sblocco comprende Grimori, Pergamene, Runari e Cristalli associati ed è permanente. Non è necessario superare il Drago o liberare l'Oracolo del Dungeon. La consultazione non certifica automaticamente competenze.
 
 # 10. Comandi
 
@@ -636,6 +503,7 @@ La preparazione delle fonti e la configurazione del repository non costituiscono
 |---|---|---|
 | 1.0 | Superata | Regolamento RPG originario |
 | 2.0 | Superata | Conversione in sistema didattico tematizzato, rimozione delle meccaniche RPG e introduzione del modello Stanze, Mostri, Draghi e Oracoli |
-| 2.1 | Ufficiale | Allineamento al Protocollo di Valutazione v1.0; distinzione tra livello della prova, padronanza delle competenze e grado della Stanza; criteri qualitativi di superamento |
+| 2.1 | Superata | Allineamento al Protocollo di Valutazione v1.0; distinzione tra livello della prova, padronanza delle competenze e grado della Stanza; criteri qualitativi di superamento |
+| 3.0 | Ufficiale — approvata | Un Mostro per Stanza, un Drago e un Oracolo per Dungeon; prova del Drago a modello misto; illustrazione composita per Dungeon; tesori associati e sbloccati permanentemente per Stanza |
 
-**Fine documento — TFA-RULEBOOK v2.1**
+**Fine documento — TFA-RULEBOOK v3.0**
