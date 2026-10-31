@@ -160,7 +160,7 @@ Gli esempi sono identificativi dimostrativi, non oggetti già creati.
 
 L'identificativo non deve cambiare quando il contenuto viene revisionato.
 
-Una nuova edizione distinta può ricevere un identificativo specifico, mantenendo il collegamento con l'artefatto precedente.
+Una nuova edizione distinta può ricevere un identificativo specifico, se costituisce un artefatto autonomo.
 
 # 5. Struttura di una scheda
 
@@ -179,7 +179,6 @@ Ogni artefatto deve avere una scheda con i seguenti campi, ove applicabili:
 | Contenuto | Materiale effettivo |
 | Fonti | Manuale, capitolo, paragrafo e pagina |
 | Provenienza | Originale, derivato dal manuale o adattato |
-| Versione | Versione del contenuto |
 | Data di creazione | Data di registrazione |
 | Cronologia | Modifiche successive |
 
@@ -236,7 +235,6 @@ Prima di registrare un nuovo artefatto:
 4. Definire la funzione e il contenuto effettivo.
 5. Verificare la correttezza matematica.
 6. Registrare fonti e provenienza.
-7. Definire la versione iniziale.
 8. Inserire l'artefatto nel catalogo.
 
 ## 9.2 Assegnazione
@@ -254,11 +252,9 @@ Prima dell'assegnazione:
 Le revisioni devono conservare:
 - identificativo;
 - provenienza;
-- cronologia;
-- versioni precedenti;
 - collegamenti didattici.
 
-Una revisione del contenuto non deve generare un secondo oggetto, salvo che si tratti esplicitamente di una nuova edizione distinta.
+Una modifica del contenuto mantiene lo stesso identificativo. Una nuova edizione distinta può essere registrata come nuovo artefatto solo se ha una funzione didattica autonoma.
 
 # 10. Rapporto con le altre fonti
 
@@ -308,12 +304,4 @@ L'inventario iniziale è vuoto.
 
 Nessun oggetto viene considerato posseduto fino alla sua effettiva acquisizione e registrazione nel Campaign Journal.
 
-# 13. Registro delle revisioni
-
-| Versione | Modifiche |
-|---|---|
-| 1.0 | Catalogo originario con cinque categorie |
-| 2.0 | Superata | Nuova classificazione didattica in Grimori, Pergamene, Runari e Cristalli; definizione delle funzioni, della struttura delle schede e della provenienza; inventario iniziale vuoto |
-| 2.1 | Ufficiale | Associazione degli artefatti alle Stanze e sblocco permanente di tutti i tesori della Stanza al superamento del relativo Mostro |
-
-**Fine documento — TFA-INVENTORY **
+**Fine documento — TFA-INVENTORY**
