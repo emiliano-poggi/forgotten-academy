@@ -2,10 +2,9 @@
 ## Curriculum ufficiale — Modulo U
 
 **Identificativo:** TFA-CURRICULUM-U  
-**Versione:** 2.1  
 **Stato:** Ufficiale  
-**Regolamento di riferimento:** TFA-RULEBOOK v3.0  
-**Campaign Journal di riferimento:** TFA-JOURNAL v2.1  
+**Regolamento di riferimento:** TFA-RULEBOOK   
+**Campaign Journal di riferimento:** TFA-JOURNAL  
 **Fonte didattica principale:** Massimo Bergamini, Anna Trifone, Graziella Barozzi, *Manuale blu 2.0 di matematica*, Confezione 4, Volume U, Zanichelli, 2012.  
 **Ambito:** Capitoli 20–23  
 **Stato iniziale delle competenze:** 0 — Unknown
@@ -534,7 +533,7 @@ Il GM può proporre ripassi quando le prestazioni evidenziano difficoltà. Quest
 
 Il precedente Curriculum descriveva prove di Dungeon e Boss Battle con soglia di 80/100. Tali meccaniche appartengono al modello precedente e non vengono trasferite.
 
-In conformità al Regolamento v3.0:
+In conformità al Regolamento :
 
 - Ogni Stanza ha un solo Mostro, che verifica tutte le competenze elencate nella Stanza.
 - Il superamento del Mostro conquista la Stanza e sblocca permanentemente i tesori associati.
@@ -547,7 +546,7 @@ La prova del Mostro deve verificare le competenze elencate nella relativa Stanza
 
 ## 9.1 Nomenclatura tematica preesistente
 
-I nomi dei 93 Mostri della precedente architettura sono identificativi legacy e non sono più creature attive. Il nuovo Bestiario definisce 25 Mostri, 4 Draghi e 4 Oracoli, con identificativi riferiti alle Stanze e ai Dungeon.
+Il Bestiario definisce 25 Mostri, 4 Draghi e 4 Oracoli, con identificativi riferiti alle Stanze e ai Dungeon.
 
 ---
 
@@ -621,20 +620,10 @@ Questa è una correzione documentale del conteggio, non un'aggiunta di contenuti
 | Dungeon definiti | 4 | 0 completati |
 | Stanze definite | 25 | 0 affrontate |
 | Competenze elencate | 93 | 0 certificate |
-| Verifiche registrate | — | 1 pendente — legacy, non valutata |
+| Verifiche registrate | — | 0 |
 | Oracoli liberati | — | 0 |
 
-Tutte le competenze iniziano al livello 0 — Unknown, in coerenza con TFA-JOURNAL v2.1.
+Tutte le competenze iniziano al livello 0 — Unknown, in coerenza con TFA-JOURNAL .
 
 ---
 
-# 14. Registro delle revisioni
-
-| Versione | Stato | Modifiche |
-|---|---|---|
-| 1.0 | Superata | Prima struttura del Curriculum, elaborata nel precedente modello RPG |
-| 2.0 | Superata | Allineamento al Regolamento v3.0; mantenimento di 4 Dungeon e 25 Stanze; rimozione delle vecchie condizioni di conquista; chiarimento della libertà di scelta; correzione del conteggio delle competenze da 80 dichiarate a 93 effettivamente elencate |
-
-| 2.1 | Ufficiale | Allineamento al Regolamento v3.0: un Mostro per Stanza, un Drago e un Oracolo per Dungeon; competenze invariate. |
-
-**Fine documento — TFA-CURRICULUM-U v2.1**
