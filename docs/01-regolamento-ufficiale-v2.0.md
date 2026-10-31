@@ -2,7 +2,7 @@
 ## Regolamento ufficiale
 
 **Identificativo:** TFA-RULEBOOK  
-**Versione:** 2.0  
+**Versione:** 2.1  
 **Stato:** Ufficiale — approvato  
 **Ambito:** Sistema didattico tematizzato dark fantasy — Matematica, quinto anno del liceo scientifico
 
@@ -282,9 +282,9 @@ Lo studente sceglie il livello della prova:
 | II | Adepto |
 | III | Arcimago |
 
-Il livello indica la profondità della verifica e il grado di padronanza che lo studente intende dimostrare.
+Il livello della prova indica la difficoltà e la profondità della verifica. Non coincide con il livello di padronanza della competenza, che viene certificato separatamente secondo la scala 0–5 definita nella sezione 4.1 e secondo il Protocollo di Valutazione.
 
-Il superamento di una prova certifica il risultato relativo alla competenza associata a quel Mostro.
+Il superamento della prova certifica il risultato relativo alla competenza associata al Mostro. Il GM assegna o aggiorna il livello di padronanza della competenza esclusivamente sulla base delle evidenze raccolte.
 
 Non è obbligatorio scegliere lo stesso livello per tutti i Mostri.
 
@@ -296,26 +296,36 @@ Il Drago rappresenta l'intera Stanza e verifica la capacità di integrare le com
 
 La sua prova è scritta, strutturata e comprende esercizi e problemi coerenti con il contenuto complessivo della Stanza.
 
-Sono previsti gli stessi tre livelli:
+Sono previsti tre livelli:
 
 - I — Apprendista.
 - II — Adepto.
 - III — Arcimago.
 
-Il risultato del Drago determina il livello complessivo di padronanza della Stanza.
+Il livello della prova del Drago determina direttamente il grado di padronanza complessiva della Stanza, purché la prova sia superata.
 
-Il risultato del Drago è indipendente dai livelli raggiunti contro i singoli Mostri.
+Il grado della Stanza è registrato separatamente dalla scala 0–5 delle singole competenze:
 
-Esempio: uno studente può aver superato tutti i Mostri al livello Apprendista e successivamente superare il Drago al livello Arcimago. La Stanza raggiunge così il livello complessivo corrispondente alla prova del Drago, mentre le singole competenze conservano i risultati ottenuti contro i rispettivi Mostri.
+| Prova del Drago superata | Grado della Stanza |
+|---|---|
+| Livello I — Apprendista | Grado I |
+| Livello II — Adepto | Grado II |
+| Livello III — Arcimago | Grado III |
+
+Il risultato del Drago non aggiorna automaticamente il livello delle singole competenze e non sostituisce le prove dei Mostri.
+
+Esempio: uno studente può aver superato tutti i Mostri al livello I e successivamente superare il Drago al livello III. La Stanza raggiunge il grado III, mentre le singole competenze conservano i livelli di padronanza certificati attraverso le rispettive prove.
+
+Il mancato superamento del Drago non assegna il grado corrispondente al livello tentato. Il grado della Stanza resta quello dell'ultima prova del Drago superata, se presente.
 
 ## 6.4 Condizione per il grado Maestro
 
-Il grado Maestro di una Stanza richiede contemporaneamente:
+Il grado III della Stanza corrisponde al grado Maestro e richiede contemporaneamente:
 
 - Superamento di tutti i Mostri al livello III — Arcimago.
 - Superamento del Drago al livello III — Arcimago.
 
-Il grado Maestro rappresenta la massima padronanza prevista dal sistema per quella Stanza.
+Il superamento del solo Drago al livello III assegna il grado III alla Stanza, ma non conferisce il titolo di Maestro se anche uno solo dei Mostri non è stato superato al livello III.
 
 ## 6.5 Oracolo
 
@@ -356,11 +366,15 @@ Le prove devono essere coerenti con il programma e con le fonti didattiche.
 
 ## 7.1 Criteri di superamento
 
-Le soglie numeriche e gli eventuali requisiti obbligatori delle prove devono essere definiti in un protocollo di valutazione coerente con il Curriculum.
+I criteri di superamento delle prove sono definiti dal Protocollo di Valutazione ufficiale.
 
-Non devono essere inventate soglie o ponderazioni non approvate.
+La valutazione si basa su criteri qualitativi e su un giudizio complessivo motivato, fondato sulle evidenze raccolte.
+
+Non sono previste soglie percentuali automatiche o medie ponderate. Il GM valuta correttezza, comprensione, autonomia e capacità di trasferimento, secondo le disposizioni del Protocollo.
 
 Una prova superata con aiuti sostanziali non può essere registrata come dimostrazione autonoma del livello richiesto.
+
+Il livello della prova, il livello di padronanza della singola competenza e il grado della Stanza sono risultati distinti e devono essere registrati separatamente.
 
 ## 7.2 Registrazione delle evidenze
 
@@ -375,6 +389,9 @@ Ogni verifica deve registrare:
 - Aiuti eventualmente forniti.
 - Esito.
 - Livello di padronanza certificato.
+- Per le prove dei Draghi, grado della Stanza conseguito (I, II o III), distinto dai livelli di padronanza delle singole competenze.
+
+Per le prove dei Draghi, il grado della Stanza corrisponde al livello della prova superata più recentemente. Un tentativo non superato non modifica il grado già conseguito.
 
 Una ripetizione della prova può migliorare il livello certificato, ma non deve cancellare la cronologia dei risultati precedenti.
 
@@ -613,4 +630,12 @@ La preparazione delle fonti e la configurazione del repository non costituiscono
 | 1.0 | Superata | Regolamento RPG originario |
 | 2.0 | Ufficiale | Conversione in sistema didattico tematizzato, rimozione delle meccaniche RPG e introduzione del modello Stanze, Mostri, Draghi e Oracoli |
 
-**Fine documento — TFA-RULEBOOK v2.0**
+## 13.1 Registro delle revisioni
+
+| Versione | Stato | Modifiche |
+|---|---|---|
+| 1.0 | Superata | Regolamento RPG originario |
+| 2.0 | Superata | Conversione in sistema didattico tematizzato, rimozione delle meccaniche RPG e introduzione del modello Stanze, Mostri, Draghi e Oracoli |
+| 2.1 | Ufficiale | Allineamento al Protocollo di Valutazione v1.0; distinzione tra livello della prova, padronanza delle competenze e grado della Stanza; criteri qualitativi di superamento |
+
+**Fine documento — TFA-RULEBOOK v2.1**
