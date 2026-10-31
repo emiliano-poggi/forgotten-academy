@@ -35,10 +35,10 @@ Gli identificativi dei precedenti 93 Mostri sono legacy e non identificano più 
 
 | ID Mostro | Stanza | Nome mnemonico | Competenze verificate |
 |---|---|---|---|
-| MON-U01-01 | R-U01-01 — La Natura delle Funzioni | Custode la natura delle funzioni | A-U01-01, A-U01-02, A-U01-03, A-U01-04 |
-| MON-U01-02 | R-U01-02 — Il Dominio | Custode il dominio | A-U01-05, A-U01-06, A-U01-07, A-U01-08 |
-| MON-U01-03 | R-U01-03 — Le Proprietà delle Funzioni | Custode le proprietà delle funzioni | A-U01-09, A-U01-10, A-U01-11, A-U01-12, A-U01-13, A-U01-14, A-U01-15 |
-| MON-U01-04 | R-U01-04 — Le Trasformazioni dei Grafici | Custode le trasformazioni dei grafici | A-U01-16, A-U01-17 |
+| MON-U01-01 | R-U01-01 — La Natura delle Funzioni | Il Custode della Stanza R-U01-01 | A-U01-01, A-U01-02, A-U01-03, A-U01-04 |
+| MON-U01-02 | R-U01-02 — Il Dominio | Il Custode della Stanza R-U01-02 | A-U01-05, A-U01-06, A-U01-07, A-U01-08 |
+| MON-U01-03 | R-U01-03 — Le Proprietà delle Funzioni | Il Custode della Stanza R-U01-03 | A-U01-09, A-U01-10, A-U01-11, A-U01-12, A-U01-13, A-U01-14, A-U01-15 |
+| MON-U01-04 | R-U01-04 — Le Trasformazioni dei Grafici | Il Custode della Stanza R-U01-04 | A-U01-16, A-U01-17 |
 
 ## D-U02 — Soglia dell'Infinito
 
@@ -49,12 +49,12 @@ Gli identificativi dei precedenti 93 Mostri sono legacy e non identificano più 
 
 | ID Mostro | Stanza | Nome mnemonico | Competenze verificate |
 |---|---|---|---|
-| MON-U02-01 | R-U02-01 — La Geometria della Retta Reale | Custode la geometria della retta reale | A-U02-01, A-U02-02, A-U02-03, A-U02-04 |
-| MON-U02-02 | R-U02-02 — Il Limite Finito in un Punto | Custode il limite finito in un punto | A-U02-05, A-U02-06, A-U02-07, A-U02-08 |
-| MON-U02-03 | R-U02-03 — Il Limite Infinito in un Punto | Custode il limite infinito in un punto | A-U02-09, A-U02-10, A-U02-11 |
-| MON-U02-04 | R-U02-04 — Il Limite Finito all'Infinito | Custode il limite finito all'infinito | A-U02-12, A-U02-13, A-U02-14 |
-| MON-U02-05 | R-U02-05 — Il Limite Infinito all'Infinito | Custode il limite infinito all'infinito | A-U02-15, A-U02-16, A-U02-17 |
-| MON-U02-06 | R-U02-06 — I Primi Teoremi sui Limiti | Custode i primi teoremi sui limiti | A-U02-18, A-U02-19, A-U02-20 |
+| MON-U02-01 | R-U02-01 — La Geometria della Retta Reale | Il Custode della Stanza R-U02-01 | A-U02-01, A-U02-02, A-U02-03, A-U02-04 |
+| MON-U02-02 | R-U02-02 — Il Limite Finito in un Punto | Il Custode della Stanza R-U02-02 | A-U02-05, A-U02-06, A-U02-07, A-U02-08 |
+| MON-U02-03 | R-U02-03 — Il Limite Infinito in un Punto | Il Custode della Stanza R-U02-03 | A-U02-09, A-U02-10, A-U02-11 |
+| MON-U02-04 | R-U02-04 — Il Limite Finito all'Infinito | Il Custode della Stanza R-U02-04 | A-U02-12, A-U02-13, A-U02-14 |
+| MON-U02-05 | R-U02-05 — Il Limite Infinito all'Infinito | Il Custode della Stanza R-U02-05 | A-U02-15, A-U02-16, A-U02-17 |
+| MON-U02-06 | R-U02-06 — I Primi Teoremi sui Limiti | Il Custode della Stanza R-U02-06 | A-U02-18, A-U02-19, A-U02-20 |
 
 ## D-U03 — Forgia dei Limiti
 
@@ -65,14 +65,14 @@ Gli identificativi dei precedenti 93 Mostri sono legacy e non identificano più 
 
 | ID Mostro | Stanza | Nome mnemonico | Competenze verificate |
 |---|---|---|---|
-| MON-U03-01 | R-U03-01 — Le Operazioni sui Limiti | Custode le operazioni sui limiti | A-U03-01, A-U03-02, A-U03-03, A-U03-04 |
-| MON-U03-02 | R-U03-02 — Le Forme Indeterminate | Custode le forme indeterminate | A-U03-05, A-U03-06, A-U03-07 |
-| MON-U03-03 | R-U03-03 — I Limiti Notevoli | Custode i limiti notevoli | A-U03-08, A-U03-09, A-U03-10, A-U03-11 |
-| MON-U03-04 | R-U03-04 — Infinitesimi e Infiniti | Custode infinitesimi e infiniti | A-U03-12, A-U03-13, A-U03-14, A-U03-15 |
-| MON-U03-05 | R-U03-05 — La Continuità | Custode la continuità | A-U03-16, A-U03-17, A-U03-18, A-U03-19 |
-| MON-U03-06 | R-U03-06 — Le Discontinuità | Custode le discontinuità | A-U03-20, A-U03-21, A-U03-22, A-U03-23 |
-| MON-U03-07 | R-U03-07 — La Ricerca degli Asintoti | Custode la ricerca degli asintoti | A-U03-24, A-U03-25, A-U03-26, A-U03-27, A-U03-28 |
-| MON-U03-08 | R-U03-08 — Il Grafico Probabile | Custode il grafico probabile | A-U03-29, A-U03-30, A-U03-31, A-U03-32 |
+| MON-U03-01 | R-U03-01 — Le Operazioni sui Limiti | Il Custode della Stanza R-U03-01 | A-U03-01, A-U03-02, A-U03-03, A-U03-04 |
+| MON-U03-02 | R-U03-02 — Le Forme Indeterminate | Il Custode della Stanza R-U03-02 | A-U03-05, A-U03-06, A-U03-07 |
+| MON-U03-03 | R-U03-03 — I Limiti Notevoli | Il Custode della Stanza R-U03-03 | A-U03-08, A-U03-09, A-U03-10, A-U03-11 |
+| MON-U03-04 | R-U03-04 — Infinitesimi e Infiniti | Il Custode della Stanza R-U03-04 | A-U03-12, A-U03-13, A-U03-14, A-U03-15 |
+| MON-U03-05 | R-U03-05 — La Continuità | Il Custode della Stanza R-U03-05 | A-U03-16, A-U03-17, A-U03-18, A-U03-19 |
+| MON-U03-06 | R-U03-06 — Le Discontinuità | Il Custode della Stanza R-U03-06 | A-U03-20, A-U03-21, A-U03-22, A-U03-23 |
+| MON-U03-07 | R-U03-07 — La Ricerca degli Asintoti | Il Custode della Stanza R-U03-07 | A-U03-24, A-U03-25, A-U03-26, A-U03-27, A-U03-28 |
+| MON-U03-08 | R-U03-08 — Il Grafico Probabile | Il Custode della Stanza R-U03-08 | A-U03-29, A-U03-30, A-U03-31, A-U03-32 |
 
 ## D-U04 — Torre delle Successioni
 
@@ -83,13 +83,13 @@ Gli identificativi dei precedenti 93 Mostri sono legacy e non identificano più 
 
 | ID Mostro | Stanza | Nome mnemonico | Competenze verificate |
 |---|---|---|---|
-| MON-U04-01 | R-U04-01 — La Natura delle Successioni | Custode la natura delle successioni | A-U04-01, A-U04-02, A-U04-03 |
-| MON-U04-02 | R-U04-02 — Tipologie di Successioni | Custode tipologie di successioni | A-U04-04, A-U04-05, A-U04-06 |
-| MON-U04-03 | R-U04-03 — Il Limite di una Successione | Custode il limite di una successione | A-U04-07, A-U04-08, A-U04-09, A-U04-10 |
-| MON-U04-04 | R-U04-04 — I Teoremi sui Limiti delle Successioni | Custode i teoremi sui limiti delle successioni | A-U04-11, A-U04-12, A-U04-13 |
-| MON-U04-05 | R-U04-05 — I Limiti delle Progressioni | Custode i limiti delle progressioni | A-U04-14, A-U04-15, A-U04-16, A-U04-17 |
-| MON-U04-06 | R-U04-06 — La Nascita di una Serie | Custode la nascita di una serie | A-U04-18, A-U04-19, A-U04-20 |
-| MON-U04-07 | R-U04-07 — Convergenza e Divergenza delle Serie | Custode convergenza e divergenza delle serie | A-U04-21, A-U04-22, A-U04-23, A-U04-24 |
+| MON-U04-01 | R-U04-01 — La Natura delle Successioni | Il Custode della Stanza R-U04-01 | A-U04-01, A-U04-02, A-U04-03 |
+| MON-U04-02 | R-U04-02 — Tipologie di Successioni | Il Custode della Stanza R-U04-02 | A-U04-04, A-U04-05, A-U04-06 |
+| MON-U04-03 | R-U04-03 — Il Limite di una Successione | Il Custode della Stanza R-U04-03 | A-U04-07, A-U04-08, A-U04-09, A-U04-10 |
+| MON-U04-04 | R-U04-04 — I Teoremi sui Limiti delle Successioni | Il Custode della Stanza R-U04-04 | A-U04-11, A-U04-12, A-U04-13 |
+| MON-U04-05 | R-U04-05 — I Limiti delle Progressioni | Il Custode della Stanza R-U04-05 | A-U04-14, A-U04-15, A-U04-16, A-U04-17 |
+| MON-U04-06 | R-U04-06 — La Nascita di una Serie | Il Custode della Stanza R-U04-06 | A-U04-18, A-U04-19, A-U04-20 |
+| MON-U04-07 | R-U04-07 — Convergenza e Divergenza delle Serie | Il Custode della Stanza R-U04-07 | A-U04-21, A-U04-22, A-U04-23, A-U04-24 |
 
 # 4. Regole didattiche delle creature
 
