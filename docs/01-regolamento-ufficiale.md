@@ -490,14 +490,7 @@ La preparazione delle fonti e la configurazione del repository non costituiscono
 
 ---
 
-# 13. Registro delle revisioni
-
-| Versione | Stato | Modifiche |
-|---|---|---|
-| 1.0 | Superata | Regolamento RPG originario |
-| 2.0 | Ufficiale | Conversione in sistema didattico tematizzato, rimozione delle meccaniche RPG e introduzione del modello Stanze, Mostri, Draghi e Oracoli |
-
-## 13.1 Registro delle revisioni
+## 13. Registro delle revisioni
 
 | Versione | Stato | Modifiche |
 |---|---|---|
