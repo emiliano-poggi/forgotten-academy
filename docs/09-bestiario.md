@@ -22,7 +22,7 @@ La nuova architettura prevede 25 Mostri (uno per Stanza), 4 Draghi (uno per Dung
 - Oracolo: `ORA-U[Dungeon]`, per esempio `ORA-U01`.
 - Illustrazione composita: `IMG-U[Dungeon]`, per esempio `IMG-U01`.
 
-Gli identificativi dei precedenti 93 Mostri sono legacy e non identificano più creature attive. Gli identificativi delle competenze restano quelli del Curriculum.
+Gli identificativi dei precedenti 93 Mostri sono legacy e non identificano più creature attive. Gli identificativi delle competenze restano quelli del Curriculum. Le denominazioni descrittive dei Mostri, dei Draghi e degli Oracoli in questa versione sono etichette operative provvisorie, non nomi fantasy definitivi approvati.
 
 # 3. Dungeon e creature
 
