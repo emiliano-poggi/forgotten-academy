@@ -621,7 +621,7 @@ Questa è una correzione documentale del conteggio, non un'aggiunta di contenuti
 | Dungeon definiti | 4 | 0 completati |
 | Stanze definite | 25 | 0 affrontate |
 | Competenze elencate | 93 | 0 certificate |
-| Verifiche registrate | — | 0 |
+| Verifiche registrate | — | 1 pendente — legacy, non valutata |
 | Oracoli liberati | — | 0 |
 
 Tutte le competenze iniziano al livello 0 — Unknown, in coerenza con TFA-JOURNAL v2.1.
