@@ -607,7 +607,7 @@ La struttura dettagliata effettivamente elencata nella stessa fonte contiene inv
 | D-U04 — Torre delle Successioni | 7 | 24 |
 | **Totale** | **25** | **93** |
 
-Il conteggio di 80 competenze presente nella precedente sintesi è quindi incongruente con gli identificativi e gli elenchi dettagliati. La versione 2.0 conserva le competenze dettagliate e gli identificativi esistenti, che risultano 93. Non vengono eliminate competenze per adeguare artificialmente il totale dichiarato.
+Il conteggio ricavato dagli identificativi e dagli elenchi dettagliati è pari a 93 competenze. Non vengono eliminate competenze per adeguare artificialmente un totale differente.
 
 Questa è una correzione documentale del conteggio, non un'aggiunta di contenuti matematici.
 
