@@ -20,7 +20,7 @@
 | Sessione attiva | Nessuna |
 | Sessione in pausa | Nessuna |
 
-La campagna è stata inizializzata secondo il Regolamento ufficiale v2.1; la struttura didattica è stata successivamente riallineata al Regolamento v3.0. Il reset iniziale e l'assenza di progressi certificati restano invariati.
+La campagna è stata inizializzata con stato nullo. La struttura didattica è attualmente regolata da TFA-RULEBOOK v3.0. Il reset iniziale e l'assenza di progressi certificati restano invariati.
 
 Questo Journal costituisce il registro iniziale della nuova campagna. Non eredita progressi o risultati da versioni precedenti.
 
@@ -31,7 +31,7 @@ Questo Journal costituisce il registro iniziale della nuova campagna. Non eredit
 | Indicatore | Stato iniziale |
 |---|---:|
 | Competenze certificate | 0 |
-| Verifiche registrate | 1 pendente — migrazione da chiarire |
+| Verifiche registrate | 1 pendente — non valutata |
 | Mostri sconfitti | 0 |
 | Draghi sconfitti | 0 |
 | Oracoli liberati | 0 |
@@ -99,7 +99,7 @@ Nessun Drago è stato affrontato o sconfitto.
 
 Nessun Oracolo è stato liberato.
 
-Gli Oracoli associati alle Stanze saranno registrati qui quando la relativa Stanza soddisferà le condizioni previste dal Regolamento.
+Gli Oracoli associati ai Dungeon saranno registrati qui quando il relativo Dungeon soddisferà le condizioni previste dal Regolamento.
 
 # 6. Verifiche ed evidenze
 
@@ -184,7 +184,7 @@ La struttura geografica e tematica di riferimento, se presente nelle fonti, non 
 
 # 12. Decisioni e note permanenti
 
-1. La campagna segue il Regolamento ufficiale v2.1.
+1. La campagna segue il Regolamento ufficiale v3.0.
 2. Il percorso è didattico e non utilizza statistiche RPG o punti esperienza.
 3. Lo studente può scegliere liberamente le Stanze.
 4. Le verifiche di certificazione non vengono avviate senza richiesta esplicita.
