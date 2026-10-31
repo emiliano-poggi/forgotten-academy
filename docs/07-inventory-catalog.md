@@ -2,11 +2,10 @@
 ## Inventory Catalog — Catalogo degli artefatti didattici
 
 **Identificativo:** TFA-INVENTORY  
-**Versione:** 2.1  
 **Stato:** Ufficiale  
-**Regolamento di riferimento:** TFA-RULEBOOK v3.0  
-**Campaign Journal di riferimento:** TFA-JOURNAL v2.1  
-**Curriculum di riferimento:** TFA-CURRICULUM-U v2.1
+**Regolamento di riferimento:** TFA-RULEBOOK   
+**Campaign Journal di riferimento:** TFA-JOURNAL   
+**Curriculum di riferimento:** TFA-CURRICULUM-U 
 
 ---
 
@@ -295,7 +294,7 @@ La presenza del manuale scolastico tra le fonti del progetto non equivale all'ac
 
 # 12. Inventario iniziale
 
-Secondo TFA-JOURNAL v2.1:
+Secondo TFA-JOURNAL :
 
 | Categoria | Oggetti posseduti |
 |---|---:|
@@ -317,4 +316,4 @@ Nessun oggetto viene considerato posseduto fino alla sua effettiva acquisizione 
 | 2.0 | Superata | Nuova classificazione didattica in Grimori, Pergamene, Runari e Cristalli; definizione delle funzioni, della struttura delle schede e della provenienza; inventario iniziale vuoto |
 | 2.1 | Ufficiale | Associazione degli artefatti alle Stanze e sblocco permanente di tutti i tesori della Stanza al superamento del relativo Mostro |
 
-**Fine documento — TFA-INVENTORY v2.1**
+**Fine documento — TFA-INVENTORY **
