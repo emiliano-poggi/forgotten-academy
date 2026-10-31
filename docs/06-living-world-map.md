@@ -2,11 +2,10 @@
 ## Living World Map — Mappa didattica e conoscenze geografiche
 
 **Identificativo:** TFA-LIVING-MAP  
-**Versione:** 2.0  
 **Stato:** Ufficiale — baseline iniziale  
-**World Map di riferimento:** TFA-WORLD-MAP v2.0  
-**Campaign Journal di riferimento:** TFA-JOURNAL v2.0  
-**Curriculum di riferimento:** TFA-CURRICULUM-U v2.0
+**World Map di riferimento:** TFA-WORLD-MAP   
+**Campaign Journal di riferimento:** TFA-JOURNAL   
+**Curriculum di riferimento:** TFA-CURRICULUM-U 
 
 ---
 
@@ -21,7 +20,7 @@ La mappa distingue due livelli che non devono essere confusi:
 
 La presenza di un territorio o di un Dungeon nell'indice didattico non significa che il personaggio lo abbia scoperto, visitato o raggiunto geograficamente.
 
-La World Map v2.0 resta la fonte della geografia canonica completa. La Living World Map non modifica la geografia e non rivela automaticamente informazioni riservate al Game Master.
+La World Map  resta la fonte della geografia canonica completa. La Living World Map non modifica la geografia e non rivela automaticamente informazioni riservate al Game Master.
 
 # 2. Regole di visualizzazione
 
@@ -61,13 +60,13 @@ Il Modulo U comprende:
 - 25 Rooms;
 - 93 competenze.
 
-La Living World Map non duplica l'elenco delle competenze e non sostituisce il Curriculum. Per nomi, identificativi, obiettivi e riferimenti didattici si deve consultare TFA-CURRICULUM-U v2.0.
+La Living World Map non duplica l'elenco delle competenze e non sostituisce il Curriculum. Per nomi, identificativi, obiettivi e riferimenti didattici si deve consultare TFA-CURRICULUM-U .
 
 # 4. Mappa geografica del personaggio
 
 ## 4.1 Stato iniziale
 
-Secondo TFA-JOURNAL v2.0, la campagna inizia con una baseline geografica nulla.
+Secondo TFA-JOURNAL , la campagna inizia con una baseline geografica nulla.
 
 | Indicatore | Stato |
 |---|---:|
@@ -95,7 +94,7 @@ Un percorso potrà essere registrato soltanto quando il personaggio ne avrà eff
 
 # 5. Territori e luoghi non ancora conosciuti
 
-La World Map v2.0 definisce sette territori canonici. La loro esistenza non comporta che il personaggio li conosca.
+La World Map  definisce sette territori canonici. La loro esistenza non comporta che il personaggio li conosca.
 
 Alla baseline iniziale:
 - nessun territorio è registrato come geograficamente scoperto;
@@ -158,7 +157,6 @@ Le immagini definitive dei luoghi potranno essere estratte dal manuale visivo ch
 
 # 9. Stato iniziale ufficiale
 
-**Versione:** 2.0  
 **Indice didattico:** Modulo U disponibile, quattro Dungeon selezionabili liberamente.  
 **Luoghi scoperti:** 0.  
 **Percorsi scoperti:** 0.  
@@ -168,11 +166,3 @@ Le immagini definitive dei luoghi potranno essere estratte dal manuale visivo ch
 
 La mappa didattica è disponibile come strumento di orientamento. La mappa geografica del personaggio resta vuota fino a nuove scoperte effettivamente registrate.
 
-# 10. Registro delle revisioni
-
-| Versione | Modifiche |
-|---|---|
-| 1.0 | Prima Living World Map; baseline da riconciliare con il Journal |
-| 2.0 | Separazione tra indice didattico e conoscenza geografica; baseline nulla riconciliata con TFA-JOURNAL v2.0; nessuna scoperta geografica pregressa trasferita |
-
-**Fine documento — TFA-LIVING-MAP v2.0**
