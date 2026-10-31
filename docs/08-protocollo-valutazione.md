@@ -163,7 +163,7 @@ Per ogni prova formale il Campaign Journal registra almeno:
 - livello di padronanza della competenza, quando pertinente;
 - aspetti da consolidare e indicazioni per il seguito.
 
-Il Journal mantiene distinti: esito della prova, livello di padronanza della competenza, risultato del Drago, stato di completamento della Stanza e titolo di Maestro.
+Il Journal mantiene distinti: esito della prova, livelli di padronanza delle singole competenze, risultato del Drago, grado e stato di completamento del Dungeon, stato di conquista delle singole Stanze e titolo di Maestro del Dungeon.
 
 ## 11. Briefing delle prove
 
