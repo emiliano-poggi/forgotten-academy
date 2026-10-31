@@ -2,10 +2,9 @@
 ## World Map — Geografia e Palazzo della Memoria
 
 **Identificativo:** TFA-WORLD-MAP  
-**Versione:** 2.0  
 **Stato:** Canonica  
 **Ambito:** Geografia canonica e organizzazione mnemonica del Modulo U  
-**Riferimenti:** Rulebook v2.0; Curriculum Modulo U v2.0
+**Riferimenti:** Rulebook ; Curriculum Modulo U 
 
 ---
 
@@ -174,7 +173,7 @@ Per il Modulo U:
 - 25 Rooms;
 - 93 competenze.
 
-La struttura interna dei Dungeon è determinata esclusivamente dal Curriculum Modulo U v2.0.
+La struttura interna dei Dungeon è determinata esclusivamente dal Curriculum Modulo U .
 
 La World Map non duplica né modifica gli obiettivi didattici, le competenze o i criteri di valutazione.
 
@@ -278,13 +277,5 @@ Gli identificativi geografici della versione 1.0 vengono conservati.
 
 Le aree interne dell'Accademia mantengono gli identificativi TFA-L01-A fino a TFA-L01-E.
 
-**Nota di verifica:** la precedente versione dichiara 20 luoghi canonici, ma il registro geografico elenca 19 identificativi principali, oltre alle cinque aree interne dell'Accademia. Il conteggio dovrà essere riconciliato nel registro definitivo, senza modificare gli identificativi esistenti.
 
-# 14. Registro delle revisioni
 
-| Versione | Modifiche |
-|---|---|
-| 1.0 | Definizione iniziale della geografia canonica |
-| 2.0 | Conversione della funzione della mappa in palazzo della memoria; separazione tra geografia, organizzazione didattica e padronanza; conservazione dei sette territori e degli identificativi; libertà di scelta delle Rooms |
-
-**Fine documento — TFA-WORLD-MAP v2.0**
