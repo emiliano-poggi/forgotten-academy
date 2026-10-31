@@ -5,7 +5,7 @@
 **Versione:** 2.1  
 **Stato:** Ufficiale  
 **Regolamento di riferimento:** TFA-RULEBOOK v3.0  
-**Campaign Journal di riferimento:** TFA-JOURNAL v2.0  
+**Campaign Journal di riferimento:** TFA-JOURNAL v2.1  
 **Fonte didattica principale:** Massimo Bergamini, Anna Trifone, Graziella Barozzi, *Manuale blu 2.0 di matematica*, Confezione 4, Volume U, Zanichelli, 2012.  
 **Ambito:** Capitoli 20–23  
 **Stato iniziale delle competenze:** 0 — Unknown
@@ -532,21 +532,22 @@ Il GM può proporre ripassi quando le prestazioni evidenziano difficoltà. Quest
 
 # 9. Organizzazione delle verifiche nel nuovo sistema
 
-Il precedente Curriculum descriveva prove di Dungeon e Boss Battle con soglia di 80/100. Tali meccaniche appartengono al modello precedente e non vengono trasferite automaticamente.
+Il precedente Curriculum descriveva prove di Dungeon e Boss Battle con soglia di 80/100. Tali meccaniche appartengono al modello precedente e non vengono trasferite.
 
-In conformità al Regolamento v2.0:
+In conformità al Regolamento v3.0:
 
-- Ogni competenza è associata a un Mostro e verificata secondo i livelli I — Apprendista, II — Adepto e III — Arcimago.
-- Ogni Stanza prevede un Drago con prova integrata, anch'essa articolata nei tre livelli.
-- L'Oracolo viene liberato dopo il superamento di tutti i Mostri e del Drago.
-- Il grado Maestro della Stanza richiede tutti i Mostri e il Drago superati al livello III.
-- Le soglie numeriche, la ponderazione degli esercizi e i requisiti obbligatori saranno definiti nel Protocollo di Valutazione, non in questo Curriculum.
+- Ogni Stanza ha un solo Mostro, che verifica tutte le competenze elencate nella Stanza.
+- Il superamento del Mostro conquista la Stanza e sblocca permanentemente i tesori associati.
+- Ogni Dungeon ha un solo Drago, con prova integrata a modello misto: una sezione diagnostica per ciascuna Stanza e un problema finale trasversale.
+- Ogni Dungeon ha un solo Oracolo, liberato dopo il superamento di tutti i Mostri del Dungeon e del relativo Drago.
+- Il grado Maestro del Dungeon richiede tutti i Mostri e il Drago superati al livello III.
+- Il livello di prova e la padronanza delle singole competenze restano dimensioni distinte.
 
-La prova deve verificare le competenze elencate nella relativa Stanza e rimanere coerente con il manuale.
+La prova del Mostro deve verificare le competenze elencate nella relativa Stanza e rimanere coerente con il manuale. La prova del Drago deve coprire le Stanze del Dungeon e includere il problema integrato previsto dal Regolamento.
 
 ## 9.1 Nomenclatura tematica preesistente
 
-Nel materiale di progettazione precedente erano presenti nomi di Mini Boss e Boss per alcuni Dungeon. Non vengono considerati automaticamente nomi ufficiali di Mostri, Draghi o Oracoli nel nuovo sistema. I nomi delle creature saranno assegnati o confermati in un catalogo coerente con il Regolamento v2.0.
+I nomi dei 93 Mostri della precedente architettura sono identificativi legacy e non sono più creature attive. Il nuovo Bestiario definisce 25 Mostri, 4 Draghi e 4 Oracoli, con identificativi riferiti alle Stanze e ai Dungeon.
 
 ---
 
@@ -623,7 +624,7 @@ Questa è una correzione documentale del conteggio, non un'aggiunta di contenuti
 | Verifiche registrate | — | 0 |
 | Oracoli liberati | — | 0 |
 
-Tutte le competenze iniziano al livello 0 — Unknown, in coerenza con TFA-JOURNAL v2.0.
+Tutte le competenze iniziano al livello 0 — Unknown, in coerenza con TFA-JOURNAL v2.1.
 
 ---
 
@@ -632,7 +633,7 @@ Tutte le competenze iniziano al livello 0 — Unknown, in coerenza con TFA-JOURN
 | Versione | Stato | Modifiche |
 |---|---|---|
 | 1.0 | Superata | Prima struttura del Curriculum, elaborata nel precedente modello RPG |
-| 2.0 | Superata | Allineamento al Regolamento v2.0; mantenimento di 4 Dungeon e 25 Stanze; rimozione delle vecchie condizioni di conquista; chiarimento della libertà di scelta; correzione del conteggio delle competenze da 80 dichiarate a 93 effettivamente elencate |
+| 2.0 | Superata | Allineamento al Regolamento v3.0; mantenimento di 4 Dungeon e 25 Stanze; rimozione delle vecchie condizioni di conquista; chiarimento della libertà di scelta; correzione del conteggio delle competenze da 80 dichiarate a 93 effettivamente elencate |
 
 | 2.1 | Ufficiale | Allineamento al Regolamento v3.0: un Mostro per Stanza, un Drago e un Oracolo per Dungeon; competenze invariate. |
 
