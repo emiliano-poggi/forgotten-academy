@@ -2,9 +2,9 @@
 ## Curriculum ufficiale — Modulo U
 
 **Identificativo:** TFA-CURRICULUM-U  
-**Versione:** 2.0  
+**Versione:** 2.1  
 **Stato:** Ufficiale  
-**Regolamento di riferimento:** TFA-RULEBOOK v2.1  
+**Regolamento di riferimento:** TFA-RULEBOOK v3.0  
 **Campaign Journal di riferimento:** TFA-JOURNAL v2.0  
 **Fonte didattica principale:** Massimo Bergamini, Anna Trifone, Graziella Barozzi, *Manuale blu 2.0 di matematica*, Confezione 4, Volume U, Zanichelli, 2012.  
 **Ambito:** Capitoli 20–23  
@@ -102,6 +102,18 @@ Sezioni complementari:
 - Laboratorio di matematica: *Le successioni*, p. 1587.
 - Realtà e modelli, p. 1611.
 - Verso l'esame di Stato, p. 1612.
+
+---
+
+## 1.2 Struttura di verifica e progressione
+
+Le 93 competenze restano distinte e mantengono gli identificativi e le descrizioni riportati nelle sezioni successive. Sono raggruppate nelle 25 Stanze già definite in questo Curriculum.
+
+A ogni Stanza corrisponde un solo Mostro. La prova del Mostro verifica congiuntamente tutte le competenze della Stanza; l'esito complessivo determina la conquista della Stanza, mentre la certificazione delle singole competenze richiede evidenze specifiche.
+
+Ogni Dungeon ha un solo Drago, la cui prova integra le competenze di tutte le Stanze del Dungeon secondo il modello misto: sezioni diagnostiche per Stanza e problema finale integrato. Ogni Dungeon ha inoltre un solo Oracolo, liberato dopo il superamento di tutti i Mostri del Dungeon e del relativo Drago.
+
+La struttura non modifica il programma del manuale né introduce o elimina competenze. I dettagli delle verifiche e delle meccaniche sono definiti dal Regolamento e dal Protocollo di Valutazione.
 
 ---
 
@@ -620,6 +632,8 @@ Tutte le competenze iniziano al livello 0 — Unknown, in coerenza con TFA-JOURN
 | Versione | Stato | Modifiche |
 |---|---|---|
 | 1.0 | Superata | Prima struttura del Curriculum, elaborata nel precedente modello RPG |
-| 2.0 | Ufficiale | Allineamento al Regolamento v2.0; mantenimento di 4 Dungeon e 25 Stanze; rimozione delle vecchie condizioni di conquista; chiarimento della libertà di scelta; correzione del conteggio delle competenze da 80 dichiarate a 93 effettivamente elencate |
+| 2.0 | Superata | Allineamento al Regolamento v2.0; mantenimento di 4 Dungeon e 25 Stanze; rimozione delle vecchie condizioni di conquista; chiarimento della libertà di scelta; correzione del conteggio delle competenze da 80 dichiarate a 93 effettivamente elencate |
 
-**Fine documento — TFA-CURRICULUM-U v2.0**
+| 2.1 | Ufficiale | Allineamento al Regolamento v3.0: un Mostro per Stanza, un Drago e un Oracolo per Dungeon; competenze invariate. |
+
+**Fine documento — TFA-CURRICULUM-U v2.1**
