@@ -5,7 +5,7 @@
 **Versione:** 2.1  
 **Stato:** Ufficiale  
 **Regolamento di riferimento:** TFA-RULEBOOK v3.0  
-**Campaign Journal di riferimento:** TFA-JOURNAL v2.0  
+**Campaign Journal di riferimento:** TFA-JOURNAL v2.1  
 **Curriculum di riferimento:** TFA-CURRICULUM-U v2.1
 
 ---
@@ -295,7 +295,7 @@ La presenza del manuale scolastico tra le fonti del progetto non equivale all'ac
 
 # 12. Inventario iniziale
 
-Secondo TFA-JOURNAL v2.0:
+Secondo TFA-JOURNAL v2.1:
 
 | Categoria | Oggetti posseduti |
 |---|---:|
