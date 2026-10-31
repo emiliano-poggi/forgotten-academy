@@ -2,11 +2,11 @@
 ## Inventory Catalog — Catalogo degli artefatti didattici
 
 **Identificativo:** TFA-INVENTORY  
-**Versione:** 2.0  
+**Versione:** 2.1  
 **Stato:** Ufficiale  
-**Regolamento di riferimento:** TFA-RULEBOOK v2.1  
+**Regolamento di riferimento:** TFA-RULEBOOK v3.0  
 **Campaign Journal di riferimento:** TFA-JOURNAL v2.0  
-**Curriculum di riferimento:** TFA-CURRICULUM-U v2.0
+**Curriculum di riferimento:** TFA-CURRICULUM-U v2.1
 
 ---
 
@@ -29,7 +29,7 @@ Possono contenere:
 
 Gli artefatti non sostituiscono il manuale di matematica e non costituiscono certificazioni di competenza.
 
-La loro funzione è rendere disponibili materiali organizzati, consultabili e coerenti con il Curriculum.
+La loro funzione è rendere disponibili materiali organizzati, consultabili e coerenti con il Curriculum. Ogni artefatto è associato a una Stanza e alle relative competenze.
 
 # 2. Categorie ufficiali
 
@@ -211,21 +211,13 @@ La correttezza matematica prevale su qualsiasi esigenza narrativa o grafica.
 
 # 7. Relazione con il Curriculum
 
-Gli artefatti possono essere associati a:
-- un intero Modulo;
-- un Dungeon;
-- una Room;
-- una o più competenze.
+Gli artefatti sono associati a una specifica Stanza e alle competenze elencate per quella Stanza nel Curriculum. Ogni Stanza può avere più artefatti della stessa categoria. L'associazione rende i materiali reperibili durante lo studio e non implica che le competenze siano state acquisite.
 
-L'associazione serve a rendere il materiale facilmente reperibile durante lo studio.
+La presenza di un artefatto nel catalogo non significa che sia già sbloccato o posseduto dallo studente: lo sblocco segue le condizioni del Regolamento e il possesso effettivo è registrato nel Campaign Journal.
 
-La presenza di un artefatto non implica che la relativa competenza sia stata acquisita.
+# 8. Consultazione, sblocco e disponibilità
 
-La consultazione di un artefatto non assegna automaticamente certificazioni o progressi didattici.
-
-# 8. Consultazione e disponibilità
-
-Gli artefatti effettivamente disponibili possono essere consultati durante le attività didattiche ordinarie.
+Gli artefatti associati a una Stanza sono sbloccati quando il relativo Mostro viene superato e la Stanza è conquistata. Lo sblocco è permanente e riguarda tutte le categorie associate: Grimorio, Pergamena, Runario e Cristallo. Non è necessario superare il Drago o liberare l'Oracolo del Dungeon. Gli artefatti effettivamente sbloccati possono essere consultati durante le attività didattiche ordinarie.
 
 Le eventuali limitazioni durante verifiche formali o prove di autonomia devono essere definite nel briefing e applicate secondo il Regolamento.
 
@@ -322,6 +314,7 @@ Nessun oggetto viene considerato posseduto fino alla sua effettiva acquisizione 
 | Versione | Modifiche |
 |---|---|
 | 1.0 | Catalogo originario con cinque categorie |
-| 2.0 | Nuova classificazione didattica in Grimori, Pergamene, Runari e Cristalli; definizione delle funzioni, della struttura delle schede e della provenienza; inventario iniziale vuoto |
+| 2.0 | Superata | Nuova classificazione didattica in Grimori, Pergamene, Runari e Cristalli; definizione delle funzioni, della struttura delle schede e della provenienza; inventario iniziale vuoto |
+| 2.1 | Ufficiale | Associazione degli artefatti alle Stanze e sblocco permanente di tutti i tesori della Stanza al superamento del relativo Mostro |
 
-**Fine documento — TFA-INVENTORY v2.0**
+**Fine documento — TFA-INVENTORY v2.1**
