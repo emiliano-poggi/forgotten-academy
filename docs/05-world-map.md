@@ -1,10 +1,10 @@
 # THE FORGOTTEN ACADEMY
 ## World Map — Geografia e Palazzo della Memoria
 
-**Identificativo:** TFA-WORLD-MAP  
-**Stato:** Canonica  
-**Ambito:** Geografia canonica e organizzazione mnemonica del Modulo U  
-**Riferimenti:** Rulebook ; Curriculum Modulo U 
+**Identificativo:** TFA-WORLD-MAP
+**Stato:** Canonica
+**Ambito:** Geografia canonica e organizzazione mnemonica del Modulo U
+**Riferimenti:** Rulebook ; Curriculum Modulo U
 
 ---
 
@@ -43,8 +43,8 @@ I territori TFA-T06 e TFA-T07 restano parte della geografia canonica. Non appart
 
 # 3. The Forgotten Academy
 
-**ID:** TFA-L01  
-**Territorio:** Cuore di Eryndor  
+**ID:** TFA-L01
+**Territorio:** Cuore di Eryndor
 **Funzione:** Hub centrale del sistema.
 
 L'Accademia è il punto di riferimento del giocatore e il centro organizzativo del percorso di studio.
@@ -71,7 +71,7 @@ La corrispondenza è stabile e ha funzione mnemonica.
 
 ## 4.1 Selva di Veyr — Capitolo 20
 
-**Dungeon:** D-U01 — Biblioteca delle Funzioni  
+**Dungeon:** D-U01 — Biblioteca delle Funzioni
 **Argomento:** Le funzioni e le loro proprietà.
 
 La Selva rappresenta un ambiente di relazioni, ramificazioni, classificazioni e rappresentazioni.
@@ -85,7 +85,7 @@ Luoghi canonici:
 
 ## 4.2 Terre dell'Infinito — Capitolo 21
 
-**Dungeon:** D-U02 — Soglia dell'Infinito  
+**Dungeon:** D-U02 — Soglia dell'Infinito
 **Argomento:** I limiti delle funzioni.
 
 Il territorio richiama l'idea di avvicinamento, orizzonte, soglia e comportamento in prossimità di un punto.
@@ -98,7 +98,7 @@ Luoghi canonici:
 
 ## 4.3 Cintura delle Braci — Capitolo 22
 
-**Dungeon:** D-U03 — Forgia dei Limiti  
+**Dungeon:** D-U03 — Forgia dei Limiti
 **Argomento:** Il calcolo dei limiti.
 
 Il territorio richiama trasformazione, calcolo, passaggi algebrici e risoluzione delle forme indeterminate.
@@ -111,7 +111,7 @@ Luoghi canonici:
 
 ## 4.4 Dominio di Nhal — Capitolo 23
 
-**Dungeon:** D-U04 — Torre delle Successioni  
+**Dungeon:** D-U04 — Torre delle Successioni
 **Argomento:** Le successioni e le serie.
 
 Il territorio richiama ordine, successione, progressione e accumulazione.
@@ -276,6 +276,5 @@ Gli identificativi geografici sono stabili e vengono mantenuti.
 | TFA-D-U04 | Torre delle Successioni | Dominio di Nhal |
 
 Le aree interne dell'Accademia mantengono gli identificativi TFA-L01-A fino a TFA-L01-E.
-
 
 
