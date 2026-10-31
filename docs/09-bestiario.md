@@ -2,10 +2,9 @@
 ## Bestiario ufficiale — Modulo U
 
 **Identificativo:** TFA-BESTIARY-U  
-**Versione:** 2.0  
 **Stato:** Ufficiale  
-**Regolamento di riferimento:** TFA-RULEBOOK v3.0  
-**Curriculum di riferimento:** TFA-CURRICULUM-U v2.1
+**Regolamento di riferimento:** TFA-RULEBOOK   
+**Curriculum di riferimento:** TFA-CURRICULUM-U 
 
 ---
 
@@ -22,7 +21,7 @@ La nuova architettura prevede 25 Mostri (uno per Stanza), 4 Draghi (uno per Dung
 - Oracolo: `ORA-U[Dungeon]`, per esempio `ORA-U01`.
 - Illustrazione composita: `IMG-U[Dungeon]`, per esempio `IMG-U01`.
 
-Gli identificativi dei precedenti 93 Mostri sono legacy e non identificano più creature attive. Gli identificativi delle competenze restano quelli del Curriculum. Le denominazioni descrittive dei Mostri, dei Draghi e degli Oracoli in questa versione sono etichette operative provvisorie, non nomi fantasy definitivi approvati.
+Gli identificativi delle competenze restano quelli del Curriculum. Le denominazioni descrittive dei Mostri, dei Draghi e degli Oracoli in questa versione sono etichette operative provvisorie, non nomi fantasy definitivi approvati.
 
 # 3. Dungeon e creature
 
@@ -118,7 +117,7 @@ Le quattro immagini saranno realizzate on demand e sottoposte singolarmente all'
 | IMG-U03 | Forgia dei Limiti | NON GENERATA |
 | IMG-U04 | Torre delle Successioni | NON GENERATA |
 
-Le illustrazioni individuali create per la precedente architettura sono archiviate come materiali legacy. Non sono conteggiate tra i quattro asset compositi e non costituiscono illustrazioni canoniche della nuova struttura.
+
 
 # 6. Modello standard della scheda Mostro
 
@@ -130,12 +129,3 @@ Ogni scheda comprende:
 5. **Errori e attenzioni:** soltanto difficoltà documentate o aspetti da monitorare; nessun errore individuale è attribuito in anticipo.
 6. **Verifica:** rimando al Regolamento e al Protocollo di Valutazione.
 
-# 7. Registro delle revisioni
-
-| Versione | Stato | Modifiche |
-|---|---|---|
-| 1.0 | Superata | Catalogazione originaria di 93 Mostri, uno per competenza |
-| 1.1 | Superata | Modello didattico standard delle schede e scheda pilota del Tessitore di Legami |
-| 2.0 | Ufficiale | Nuova architettura: 25 Mostri per Stanza, 4 Draghi e 4 Oracoli per Dungeon, 4 illustrazioni composite; le 93 competenze restano invariate |
-
-**Fine documento — TFA-BESTIARY-U v2.0**
