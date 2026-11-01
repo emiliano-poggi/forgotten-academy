@@ -542,13 +542,23 @@ Ogni modifica persistente deve:
 5. Mantenere la coerenza con le altre fonti.
 6. Essere verificata prima di diventare ufficiale.
 
-## 11.2 GitHub
+## 11.2 GitHub e archivi individuali
 
-Il repository `forgotten-academy`, sul branch `main`, costituisce l'archivio delle fonti ufficiali. I commit identificano le modifiche e la loro cronologia.
+Il repository comune `emiliano-poggi/forgotten-academy`, sul branch `main`, costituisce l'archivio delle fonti canoniche condivise: Regolamento, Curriculum, manuali di riferimento, mappe canoniche, Bestiario, Catalogo degli artefatti e modelli.
 
-Ogni documento deve essere mantenuto in formato leggibile e modificabile, preferibilmente Markdown.
+Ogni studente crea e mantiene un proprio repository GitHub **privato**, separato dal repository comune. Tale repository è l'archivio persistente della sua campagna individuale e contiene almeno il Campaign Journal e la Living World Map. Contiene inoltre gli artefatti didattici effettivamente generati per quello studente e il relativo indice.
 
-Le modifiche devono essere organizzate in commit descrittivi.
+Il repository individuale deve essere accessibile al GM tramite un'autorizzazione GitHub esplicita e verificabile. Lo studente mantiene la titolarità e il controllo del repository e può revocare l'accesso. Il GM non deve presumere di poter accedere a un repository privato soltanto perché conosce il suo nome o URL.
+
+Il GM identifica il repository individuale corretto prima di leggere o modificare dati persistenti. Se l'identità dello studente o l'associazione al repository non è certa, deve chiedere conferma e non deve consultare o aggiornare un archivio per supposizione. Non deve mai trasferire progressi, risultati, errori o artefatti tra studenti.
+
+Il repository comune non deve contenere Journal individuali, dati personali degli studenti o artefatti privati. Il Journal presente nel repository comune è un modello o riferimento iniziale e non deve essere usato come registro condiviso di più studenti.
+
+Gli artefatti prodotti su richiesta devono essere conservati nel repository privato dello studente, insieme a un indice che ne consenta il recupero. Prima di crearne uno nuovo, il GM consulta l'indice e verifica se esiste già un materiale adeguato. Se esiste, lo riutilizza o lo aggiorna; evita copie ridondanti. Le revisioni mantengono l'identificativo stabile e la cronologia Git. I formati derivati dello stesso contenuto sono collegati alla scheda dell'artefatto e non diventano automaticamente nuovi artefatti.
+
+La struttura, le procedure di accesso, i contenuti minimi e le regole di archiviazione sono definiti nel documento `docs/08-protocollo-repository-individuali.md`.
+
+Ogni documento deve essere mantenuto in formato leggibile e modificabile, preferibilmente Markdown. Le modifiche devono essere organizzate in commit descrittivi.
 
 Nessuna modifica deve essere dichiarata pubblicata o salvata se l'operazione su GitHub non è stata effettivamente completata.
 
