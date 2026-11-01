@@ -33,9 +33,11 @@ Il mondo mantiene un'estetica dark fantasy, sobria e riconoscibile.
 
 Le immagini hanno una funzione mnemonica: aiutano ad associare un luogo o una creatura a uno specifico contenuto matematico.
 
-Le immagini possono essere estratte dai manuali allegati oppure generate, purché siano coerenti con i contenuti e con l'identità visiva del progetto.
+Il GM non presenta immagini esterne o illustrative di propria iniziativa. Può mostrarle quando lo studente le richiede esplicitamente oppure quando fanno parte di un'attività o di un artefatto visivo precedentemente concordato. La sola consultazione di una Stanza, di un Dungeon o di un altro elemento del mondo non autorizza il GM ad aggiungere immagini.
 
-Non è necessario costruire un sistema grafico complesso. La priorità è mantenere associazioni stabili e riconoscibili.
+Restano valide le illustrazioni composite ufficiali dei Dungeon previste dal § 6.6: sono artefatti del progetto, da realizzare e approvare singolarmente, non immagini da inserire autonomamente in ogni risposta. Le icone testuali della standardizzazione ufficiale possono invece essere usate normalmente per identificare gli elementi del mondo.
+
+Le immagini, quando richieste o concordate, devono essere coerenti con i contenuti e con l'identità visiva del progetto.
 
 ---
 
