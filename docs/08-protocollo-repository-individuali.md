@@ -154,7 +154,23 @@ Il GM deve:
 
 I repository individuali sono separati, ma la riservatezza effettiva dipende anche dalla corretta configurazione dei permessi GitHub e dalla gestione delle credenziali.
 
-# 8. Cronologia e verifiche
+
+
+# 9. Modelli ufficiali
+
+I modelli iniziali sono mantenuti nel repository comune, nella cartella `templates/`:
+
+- [Campaign Journal](../templates/campaign-journal-template.md) — da copiare nel repository individuale come `campaign-journal.md`.
+- [Living World Map](../templates/living-world-map-template.md) — da copiare come `living-world-map.md`.
+- [Artifact Index](../templates/artifact-index-template.md) — da copiare in `artifacts/index.md`.
+
+Lo studente copia i modelli nel proprio repository e li personalizza esclusivamente con i propri dati. Il GM verifica che la copia sia stata creata nel repository corretto. I modelli del repository comune restano generici e non devono contenere dati individuali.
+
+Per il Journal, il GM inizializza lo stato sulla base della campagna effettiva dello studente e delle evidenze disponibili. Non trasferisce automaticamente la baseline o i risultati di un altro Journal. Se non risultano evidenze precedenti nella nuova campagna, applica lo stato iniziale previsto dal Regolamento.
+
+Per la Living World Map, l'indice didattico deve essere coerente con il Curriculum e la conoscenza geografica deve essere riconciliata con il Journal e la World Map. Non copiare automaticamente nel documento individuale informazioni geografiche non ancora conosciute dal personaggio.
+
+# 10. Cronologia e verifiche
 
 Le modifiche persistenti devono usare commit descrittivi. Prima di aggiornare un file esistente, il GM consulta la versione corrente. Dopo la modifica verifica il contenuto aggiornato e il commit risultante.
 
