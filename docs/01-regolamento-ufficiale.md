@@ -208,7 +208,7 @@ Lo studente può scegliere qualsiasi Stanza disponibile. Non esiste un percorso 
 
 - **INESPLORATA:** non ancora affrontata.
 - **IN STUDIO:** attività di apprendimento in corso.
-- **CONQUISTATA:** il Mostro della Stanza è stato superato; i tesori associati sono sbloccati permanentemente.
+- **CONQUISTATA:** il Mostro della Stanza è stato superato. La conquista registra il superamento della prova e non condiziona la consultazione degli artefatti.
 - **COMPLETATA:** il Dungeon ha soddisfatto le condizioni di liberazione del proprio Oracolo.
 
 La conquista della Stanza e il completamento del Dungeon sono eventi distinti. La conquista non richiede il superamento del Drago. Le Stanze restano accessibili e possono essere riprese.
@@ -225,7 +225,7 @@ Ogni Stanza ha **un solo Mostro**, associato a tutte le competenze elencate per 
 
 Lo studente sceglie il livello I — Apprendista, II — Adepto oppure III — Arcimago. Il livello della prova non coincide con la padronanza 0–5 delle singole competenze.
 
-Il superamento complessivo del Mostro conquista la Stanza e sblocca i tesori associati. Le competenze restano valutate analiticamente: il Journal registra quali sono state effettivamente dimostrate e con quale livello. Il superamento complessivo non certifica automaticamente una competenza per la quale manchino evidenze specifiche. I livelli scelti possono variare tra Mostri.
+Il superamento complessivo del Mostro conquista la Stanza. Le competenze restano valutate analiticamente: il Journal registra quali sono state effettivamente dimostrate e con quale livello. Il superamento complessivo non certifica automaticamente una competenza per la quale manchino evidenze specifiche. I livelli scelti possono variare tra Mostri.
 
 ## 6.3 Drago del Dungeon
 
@@ -342,27 +342,115 @@ Il GM non avvia autonomamente una verifica formale.
 
 ---
 
-# 9. Artefatti didattici e tesori
+# 9. Artefatti didattici
 
-Le quattro categorie di artefatti sono associate alle singole Stanze.
+Gli artefatti sono materiali didattici organizzati in quattro categorie. Le categorie definiscono funzioni complementari e non costituiscono una dotazione obbligatoria per ogni Stanza.
 
-## 9.1 Grimorio
-Definizioni, formule, proprietà, teoremi, dimostrazioni e risultati teorici. Comando: `/grimorio`.
+Gli artefatti sono liberamente consultabili in qualsiasi momento, indipendentemente dallo stato della Stanza, dal superamento del Mostro o del Drago e dalla liberazione dell'Oracolo. La consultazione non richiede lo sblocco, il possesso o la conquista di tesori.
 
-## 9.2 Pergamena
-Mappe concettuali, gerarchie, schemi e collegamenti tra concetti. Comando: `/pergamena`.
+## 9.1 Grimorio — Conoscenza teorica
 
-## 9.3 Runario
-Procedimenti, algoritmi, strategie, condizioni di applicabilità, controlli, errori ricorrenti ed esempi svolti. Comando: `/runario`.
+Il Grimorio raccoglie la conoscenza matematica formalizzata e risponde alla domanda: **che cosa devo sapere e che cosa afferma la teoria?**
 
-## 9.4 Cristallo
-Esempi, problemi, applicazioni, casi particolari ed esercizi rappresentativi. Comando: `/cristallo`.
+Contiene principalmente:
+- definizioni e notazioni;
+- formule e identità;
+- proprietà e relativi enunciati;
+- teoremi e corollari;
+- ipotesi e tesi;
+- dimostrazioni;
+- condizioni di validità e risultati teorici.
 
-## 9.5 Associazione e sblocco
+Il Grimorio espone e giustifica i contenuti teorici. Non ha come funzione principale organizzare mappe concettuali, descrivere algoritmi risolutivi o raccogliere esercizi svolti. Può includere brevi esempi illustrativi quando servono a chiarire una definizione o un enunciato.
 
-Gli artefatti sono organizzati per Stanza e collegati alle relative competenze. Una Stanza può avere più artefatti della stessa categoria.
+Comando: `/grimorio`.
 
-I tesori di una Stanza vengono sbloccati quando il relativo Mostro è superato e la Stanza è conquistata. Lo sblocco comprende Grimori, Pergamene, Runari e Cristalli associati ed è permanente. Non è necessario superare il Drago o liberare l'Oracolo del Dungeon. La consultazione non certifica automaticamente competenze.
+## 9.2 Pergamena — Organizzazione concettuale
+
+La Pergamena rappresenta l'organizzazione dei contenuti e le relazioni tra concetti. Risponde alla domanda: **come sono organizzate e collegate le conoscenze?**
+
+Contiene principalmente:
+- mappe concettuali;
+- schemi gerarchici;
+- classificazioni e tassonomie;
+- relazioni logiche;
+- collegamenti tra definizioni, proprietà e teoremi;
+- diagrammi e rappresentazioni sintetiche;
+- confronti tra concetti.
+
+La Pergamena favorisce orientamento, comprensione della struttura dell'argomento e richiamo delle conoscenze. Può riportare formule o enunciati in forma sintetica, ma rimanda al Grimorio per la trattazione teorica completa. Non contiene come funzione principale dimostrazioni estese, procedure operative dettagliate o raccolte di esercizi.
+
+Comando: `/pergamena`.
+
+## 9.3 Runario — Metodi e procedimenti
+
+Il Runario raccoglie metodi operativi e risponde alla domanda: **quali passaggi devo eseguire per affrontare una determinata tipologia di problema?**
+
+Contiene principalmente:
+- algoritmi e procedure risolutive;
+- strategie operative;
+- criteri per scegliere un metodo;
+- condizioni preliminari e di applicabilità;
+- sequenze di passaggi e motivazioni;
+- controlli intermedi e verifiche del risultato;
+- casi particolari e limiti del procedimento;
+- errori procedurali e relative correzioni.
+
+Quando pertinente, ogni procedura indica quando si applica, quali condizioni richiede, quali passaggi eseguire, perché sono validi e come controllare il risultato. Può includere un esempio schematico per illustrare il metodo, ma non ha come funzione principale raccogliere esercizi e soluzioni complete.
+
+Comando: `/runario`.
+
+## 9.4 Cristallo — Esempi e applicazioni
+
+Il Cristallo raccoglie manifestazioni concrete dei concetti matematici e risponde alla domanda: **come si applicano le conoscenze e i metodi in situazioni matematiche concrete?**
+
+Contiene principalmente:
+- esempi svolti e commentati;
+- esercizi e problemi;
+- applicazioni matematiche;
+- casi particolari e controesempi;
+- interpretazioni grafiche;
+- confronti tra soluzioni;
+- problemi di difficoltà crescente e attività di trasferimento.
+
+Il Cristallo privilegia l'analisi di casi concreti. Può richiamare risultati teorici o procedure, ma non li sostituisce e non deve trasformarsi in una trattazione teorica o in un manuale generale di algoritmi.
+
+Comando: `/cristallo`.
+
+## 9.5 Confini tra le categorie
+
+La categoria dipende dalla funzione didattica prevalente del contenuto, non dal suo formato. Un PDF, un testo, un diagramma o un'infografica possono appartenere a qualsiasi categoria se ne rispettano la funzione.
+
+| Se il contenuto serve principalmente a… | Categoria |
+|---|---|
+| Definire, enunciare o dimostrare un risultato | Grimorio |
+| Organizzare e collegare conoscenze | Pergamena |
+| Spiegare un metodo generale e i suoi passaggi | Runario |
+| Mostrare un'applicazione o risolvere un caso concreto | Cristallo |
+
+Un artefatto può richiamare contenuti appartenenti ad altre categorie, ma deve mantenere una funzione principale identificabile ed evitare duplicazioni integrali non necessarie. Quando opportuno, deve rinviare all'artefatto complementare.
+
+## 9.6 Selezione degli artefatti per Stanza
+
+Non è obbligatorio produrre tutte e quattro le categorie per ogni Stanza. Il Game Master analizza gli argomenti e le competenze della Stanza, individua le effettive necessità didattiche e propone allo studente gli artefatti pertinenti.
+
+Una Stanza può avere:
+- un solo artefatto;
+- più artefatti di categorie differenti;
+- più artefatti della stessa categoria, se affrontano aspetti distinti;
+- nessun artefatto aggiuntivo, quando i materiali già disponibili sono sufficienti.
+
+Non sono stabiliti un numero minimo o massimo né una distribuzione obbligatoria tra le categorie. La proposta del GM deve spiegare brevemente la funzione di ciascun artefatto e la necessità didattica a cui risponde. Lo studente decide quali materiali richiedere.
+
+## 9.7 Consultazione e produzione dei materiali
+
+Lo studente può chiedere in qualsiasi momento di consultare un artefatto esistente o di ricevere una spiegazione relativa a una delle quattro categorie, anche se la Stanza non è stata ancora affrontata.
+
+Su richiesta, il GM può produrre una versione o una rappresentazione del contenuto in formati adeguati, per esempio PDF, infografica, schema o altro supporto didattico. Il formato non determina la categoria dell'artefatto.
+
+La consultazione e la produzione di materiali non costituiscono evidenze di apprendimento, non certificano competenze e non modificano lo stato della Stanza o della campagna.
+
+La proposta di un artefatto non equivale alla sua creazione. Un materiale diventa un artefatto catalogato soltanto quando il suo contenuto è stato effettivamente prodotto e registrato secondo le regole del Catalogo.
 
 # 10. Comandi
 
