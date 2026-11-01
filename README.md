@@ -69,6 +69,7 @@ Questo è il **repository canonico condiviso**: contiene regole, curriculum, man
 | [Protocollo repository](docs/08-protocollo-repository-individuali.md) | Archiviazione e privacy delle campagne |
 | [Protocollo di valutazione](docs/08-protocollo-valutazione.md) | Struttura delle verifiche |
 | [Bestiario](docs/09-bestiario.md) | Creature e associazioni didattiche |
+| [Standard di iconografia](docs/10-standard-iconografia.md) | Simboli e icone canonici del mondo |
 | [Modelli](templates/) | File iniziali per i repository individuali |
 
 ## Principio fondamentale
