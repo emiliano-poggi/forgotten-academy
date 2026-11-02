@@ -5,12 +5,12 @@ ruleset: "Call of Cthulhu 7th Edition"
 repository:
   full_name: "emiliano-poggi/forgotten-academy"
   branch: "main"
-state_status: "initialized"
-session_status: "not_started"
+state_status: "active"
+session_status: "in_progress"
 checkpoint:
-  sequence: 0
-  label: "Runtime initialization"
-  description: "Initial state created before the first narrated scene. No gameplay events have occurred."
+  sequence: 1
+  label: "Quick Save 1"
+  description: "Intermediate checkpoint after the Investigator's arrival at Beacon Island, meeting with Warren Thomas, and receipt of his briefing."
 adventure:
   source_file: "The Lightless Beacon - Call of Cthulhu.pdf"
   source_trace:
@@ -88,26 +88,64 @@ investigator:
       major_wound: false
       temporary_injuries: []
       ongoing_effects: []
-      notes: []
-  snapshot_note: "Initial snapshot copied from the verified character-sheet.yaml. The character sheet remains the authoritative live record."
+      notes:
+        - "No injuries or mechanical condition changes recorded."
+  snapshot_note: "Character snapshot remains unchanged from the verified character sheet. No ammunition was fired; revolver cylinder count has not been checked."
 opening:
   date: "1926-04-12"
-  current_location: "Aboard a passenger vessel bound for Rockport, Massachusetts"
-  location_status: "Pre-narration opening position; no scene has yet been played."
-  immediate_objective: "Reach Beacon Island and meet Warren Thomas, undercover as lighthouse keeper Michael Turner, to obtain his report and briefing about evidence of smuggling."
-  session_started: false
+  current_location: "Lighthouse keeper's cottage, Beacon Island"
+  location_status: "Inside the cottage with Warren Thomas after arriving from the north shore pier."
+  immediate_objective: "Investigate why the lighthouse lantern/main light is off."
+  session_started: true
 known_npcs:
   - name: "Warren Thomas"
     cover_identity: "Michael Turner"
     role: "Undercover Bureau agent stationed on Beacon Island as a lighthouse keeper"
     relationship: "Friend and fellow agent"
-    known_location: "Beacon Island"
-    state_note: "Only information established in the Investigator's profile and adventure setup is recorded here."
-events: []
+    known_location: "Lighthouse keeper's cottage, Beacon Island"
+    state_note: "Met the Investigator in the cottage and delivered a briefing about the missing unmarked vessel, the lighthouse situation, and a discovery on the north shore. He offered to show the Investigator that discovery."
+events:
+  - id: "event-001"
+    date: "1926-04-12"
+    summary: "The SS Essex County foundered near Beacon Island during a storm. The Investigator was directed with other passengers toward the island in a rowboat."
+    details:
+      - "The Investigator was alone in his rowboat."
+      - "He observed twisted metal wreckage near a sandbank, with further fragments beneath the water."
+      - "He used an oar as a lever to free the rowboat. The boat was freed; the oar remained usable but its blade was deeply scraped."
+      - "He rowed to the north shore pier and tied the rowboat to an iron ring."
+  - id: "event-002"
+    date: "1926-04-12"
+    summary: "The Investigator approached the lighthouse keeper's cottage and was admitted by Warren Thomas."
+    details:
+      - "The lighthouse tower was dark; a small light was visible near the base of the lighthouse."
+      - "The Investigator identified himself as a Special Agent of the Bureau of Investigation and explained that he had been shipwrecked."
+      - "The Investigator recognized the man as Warren Thomas."
+  - id: "event-003"
+    date: "1926-04-12"
+    summary: "Warren Thomas briefed the Investigator and handed him a folder of notes."
+    details:
+      - "Thomas described an unmarked vessel sighted near Rockport on February 12, 1926, during a violent storm, which subsequently disappeared."
+      - "Thomas reported strange noises at sea at night and occasions when he thought something was near the rocks; these remain his unverified impressions."
+      - "Thomas said lighthouse personnel were unaccounted for and the main light was off."
+      - "Thomas said he had found something on the north shore that might relate to the case and offered to show it."
+      - "The folder has been handed over but has not yet been read or examined."
 clues: []
+objectives:
+  completed:
+    - description: "Obtain Warren Thomas's report and briefing about suspected smuggling."
+      completion: "Thomas met the Investigator, delivered his briefing, and handed over a folder of notes."
+  active:
+    - description: "Investigate why the lighthouse lantern/main light is off."
+    - description: "Inspect the discovery Warren Thomas found on the north shore."
+  superseded: []
+  abandoned: []
 open_threads:
-  - "Obtain Warren Thomas's report and briefing about suspected smuggling."
-  - "Investigate the disappearance of the unmarked vessel spotted near Rockport in early February."
+  - "Review the folder of notes handed over by Warren Thomas."
+  - "Clarify the disappearance or unavailability of the lighthouse staff."
+  - "Investigate the disappearance of the unmarked vessel spotted near Rockport on February 12, 1926."
 notes:
-  - "The profile's former meeting location, Rockport, was aligned to Beacon Island to match Warren Thomas's established undercover posting. Rockport remains the passenger vessel's destination."
-  - "No player actions, discoveries, injuries, losses, or other in-game events have been recorded."
+  - "The Investigator has never visited Beacon Island before."
+  - "The rowboat remains tied to the north shore pier. Its oars are aboard; one oar blade is deeply scraped but usable."
+  - "No other survivors have been positively identified by the Investigator."
+  - "The Investigator has not yet inspected the lighthouse lantern, the north shore discovery, or the contents of Thomas's folder."
+  - "No dice or simulated rolls have been used. No character statistics, HP, SAN, MP, Luck, ammunition, or equipment have otherwise changed."
