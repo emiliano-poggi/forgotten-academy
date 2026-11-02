@@ -1,0 +1,113 @@
+schema_version: "1.0"
+adventure_id: "the-lightless-beacon"
+adventure_title: "The Lightless Beacon"
+ruleset: "Call of Cthulhu 7th Edition"
+repository:
+  full_name: "emiliano-poggi/forgotten-academy"
+  branch: "main"
+state_status: "initialized"
+session_status: "not_started"
+checkpoint:
+  sequence: 0
+  label: "Runtime initialization"
+  description: "Initial state created before the first narrated scene. No gameplay events have occurred."
+adventure:
+  source_file: "The Lightless Beacon - Call of Cthulhu.pdf"
+  source_trace:
+    available: false
+    note: "No Adventure Trace was present in the repository at initialization. The original adventure PDF remains the primary narrative reference."
+  quick_start_rules:
+    source_file: "Call of Cthulhu 7th Edition Quick-Start Rules.pdf"
+    available: true
+investigator:
+  character_id: "bureau-agent"
+  display_name: "Bureau Agent"
+  profile_file: "character-profile.yaml"
+  sheet_file: "character-sheet.yaml"
+  snapshot:
+    characteristics:
+      STR: 85
+      CON: 50
+      SIZ: 70
+      DEX: 75
+      APP: 55
+      INT: 65
+      POW: 65
+      EDU: 70
+    derived:
+      hit_points: { current: 12, maximum: 12 }
+      sanity: { current: 65, starting: 65 }
+      magic_points: { current: 13, maximum: 13 }
+      luck: { current: 50, starting: 50 }
+      movement_rate: 9
+      build: 1
+      damage_bonus: "+1D4"
+    skills:
+      Appraise: 50
+      Climb: 20
+      Credit_Rating: 30
+      Dodge: 40
+      Drive_Auto: 30
+      Electrical_Repair: 50
+      Fighting_Brawl: 55
+      Firearms_Handgun: 50
+      First_Aid: 30
+      Jump: 20
+      Language_English: 70
+      Law: 55
+      Listen: 20
+      Mechanical_Repair: 50
+      Occult: 45
+      Persuade: 60
+      Pilot_Boat: 50
+      Psychology: 10
+      Spot_Hidden: 65
+      Stealth: 50
+      Swim: 20
+      Throw: 20
+      Track: 40
+    weapons:
+      - name: "Unarmed"
+        skill: "Fighting (Brawl)"
+        skill_value: 55
+        damage: "1D3 + damage bonus"
+        attacks_per_round: 1
+      - name: "Smith & Wesson .38 Special revolver"
+        skill: "Firearms (Handgun)"
+        skill_value: 50
+        damage: "1D10"
+        range: "15 yards"
+        attacks_per_round: "1 (3)"
+        ammunition_capacity: 6
+        malfunction: 100
+    equipment:
+      - "Bureau of Investigation credentials (warrant card and badge)"
+      - "Smith & Wesson .38 Special revolver"
+      - "One box of spare .38 ammunition (12 cartridges)"
+    conditions:
+      major_wound: false
+      temporary_injuries: []
+      ongoing_effects: []
+      notes: []
+  snapshot_note: "Initial snapshot copied from the verified character-sheet.yaml. The character sheet remains the authoritative live record."
+opening:
+  date: "1926-04-12"
+  current_location: "Aboard a passenger vessel bound for Rockport, Massachusetts"
+  location_status: "Pre-narration opening position; no scene has yet been played."
+  immediate_objective: "Reach Beacon Island and meet Warren Thomas, undercover as lighthouse keeper Michael Turner, to obtain his report and briefing about evidence of smuggling."
+  session_started: false
+known_npcs:
+  - name: "Warren Thomas"
+    cover_identity: "Michael Turner"
+    role: "Undercover Bureau agent stationed on Beacon Island as a lighthouse keeper"
+    relationship: "Friend and fellow agent"
+    known_location: "Beacon Island"
+    state_note: "Only information established in the Investigator's profile and adventure setup is recorded here."
+events: []
+clues: []
+open_threads:
+  - "Obtain Warren Thomas's report and briefing about suspected smuggling."
+  - "Investigate the disappearance of the unmarked vessel spotted near Rockport in early February."
+notes:
+  - "The profile's former meeting location, Rockport, was aligned to Beacon Island to match Warren Thomas's established undercover posting. Rockport remains the passenger vessel's destination."
+  - "No player actions, discoveries, injuries, losses, or other in-game events have been recorded."
