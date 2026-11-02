@@ -124,51 +124,50 @@ The objective may be bypassed if the investigators reach the island without reso
 
 PDF pp. 6, 9–10.
 
-## CORE-02 — Discover What Happened on the Island
+## CORE-02 — Identificare la causa dell'interruzione del faro
 
 **Classification:** DERIVED objective based on CANON investigative material.
 
 **GM Objective**
 
-Reconstruct the events surrounding the sinking, the recovery of the gold coins, the murders of the lighthouse personnel and the confrontation with the amphibious creatures.
+Scoprire che il faro è stato danneggiato durante lo scontro tra Cassidy e gli Younglings: un proiettile ha colpito lente e lampadina, causando l'interruzione del segnale.
 
 **Description**
 
-Investigate the lighthouse and island to understand the events that caused the deaths and the disappearance of the lighthouse beacon.
+Ricostruire la causa concreta del malfunzionamento.
 
 **Completion Condition**
 
-The investigators acquire sufficient information to understand the principal causes of the events. Discovering every clue is not required.
+Gli investigatori identificano il danno balistico alla lente e alla lampadina come causa dell'interruzione del fascio luminoso.
 
-**Player-facing Objective**
+**Player-facing Objective, pre-disclosure**
 
-"Find out what happened to the lighthouse personnel and why the lighthouse stopped working."
+"Capite perché il faro ha smesso di funzionare."
 
-**Requirements**
+**Player-facing Objective, post-disclosure**
 
-- Access to the lighthouse and/or island.
-- Investigation of available evidence.
-- Examination of bodies, documents, tracks or other relevant objects.
+"Ricostruite come il faro sia stato danneggiato e verificate se sia possibile ripristinarne il funzionamento."
 
 **Disclosure Condition**
 
-Progressive, based on discovered evidence.
+Osservazione della lanterna, identificazione del foro di proiettile e collegamento con la lampadina distrutta.
 
-**Pre-disclosure Guidance**
+**Requirements**
 
-"Look for clues that might explain what happened."
+- Accesso alla lanterna.
+- Osservazione e, per alcune informazioni, Spot Hidden o Mechanical Repair.
 
 **Transition**
 
-The acquired information may help investigators understand the emerging threat and prepare for the assault.
+Il risultato può orientare gli investigatori verso interventi operativi o verso la ricostruzione degli eventi.
 
 **Skip Conditions**
 
-Partial or complete bypass is possible. The investigators can survive or conclude the adventure without reconstructing the entire mystery.
+Possibile. L'assalto può avvenire senza che gli investigatori abbiano identificato la causa del guasto.
 
 **Source References**
 
-PDF pp. 8–9, 11–14, 18–21.
+PDF pp. 19–21.
 
 ## CORE-03 — Confront the Threat and Survive
 
