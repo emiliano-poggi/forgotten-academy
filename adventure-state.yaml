@@ -8,9 +8,9 @@ repository:
 state_status: "active"
 session_status: "in_progress"
 checkpoint:
-  sequence: 1
-  label: "Quick Save 1"
-  description: "Intermediate checkpoint after the Investigator's arrival at Beacon Island, meeting with Warren Thomas, and receipt of his briefing."
+  sequence: 2
+  label: "Quick Save 2"
+  description: "Intermediate checkpoint in the lighthouse lantern room, after investigating the service systems and discovering the bodies and dead amphibious creatures."
 adventure:
   source_file: "The Lightless Beacon - Call of Cthulhu.pdf"
   source_trace:
@@ -79,22 +79,23 @@ investigator:
         range: "15 yards"
         attacks_per_round: "1 (3)"
         ammunition_capacity: 6
+        ammunition_loaded: 6
         malfunction: 100
     equipment:
       - "Bureau of Investigation credentials (warrant card and badge)"
       - "Smith & Wesson .38 Special revolver"
-      - "One box of spare .38 ammunition (12 cartridges)"
+      - "Spare .38 ammunition: 6 cartridges remaining in the box"
     conditions:
       major_wound: false
       temporary_injuries: []
       ongoing_effects: []
       notes:
-        - "No injuries or mechanical condition changes recorded."
-  snapshot_note: "Character snapshot remains unchanged from the verified character sheet. No ammunition was fired; revolver cylinder count has not been checked."
+        - "No injuries or ongoing effects recorded."
+  snapshot_note: "The revolver was loaded to its six-round capacity. Six spare cartridges remain in the ammunition box. No shots have been fired."
 opening:
   date: "1926-04-12"
-  current_location: "Lighthouse keeper's cottage, Beacon Island"
-  location_status: "Inside the cottage with Warren Thomas after arriving from the north shore pier."
+  current_location: "Lighthouse lantern room, Beacon Island"
+  location_status: "The Investigator is beside the dead amphibious creatures in the lantern room. Warren Thomas has joined him and is carrying the lantern. Two human corpses and two dead amphibious creatures are present; two window panes are broken and rain enters the room."
   immediate_objective: "Investigate why the lighthouse lantern/main light is off."
   session_started: true
 known_npcs:
@@ -102,8 +103,8 @@ known_npcs:
     cover_identity: "Michael Turner"
     role: "Undercover Bureau agent stationed on Beacon Island as a lighthouse keeper"
     relationship: "Friend and fellow agent"
-    known_location: "Lighthouse keeper's cottage, Beacon Island"
-    state_note: "Met the Investigator in the cottage and delivered a briefing about the missing unmarked vessel, the lighthouse situation, and a discovery on the north shore. He offered to show the Investigator that discovery."
+    known_location: "Lighthouse lantern room, beside the Investigator"
+    state_note: "Accompanied the Investigator to the lighthouse. After being asked to wait at the doorway, he remained near the stairs with his lantern. The Investigator called him into the lantern room after discovering the bodies and creatures; Warren approached, saw the scene, and reacted with shock. He is now nearby."
 events:
   - id: "event-001"
     date: "1926-04-12"
@@ -128,24 +129,45 @@ events:
       - "Thomas reported strange noises at sea at night and occasions when he thought something was near the rocks; these remain his unverified impressions."
       - "Thomas said lighthouse personnel were unaccounted for and the main light was off."
       - "Thomas said he had found something on the north shore that might relate to the case and offered to show it."
-      - "The folder has been handed over but has not yet been read or examined."
-clues: []
+      - "The Investigator briefly skimmed the folder; it concerns the unmarked vessel sighted on February 12, 1926, and its disappearance. It has not been examined in depth."
+  - id: "event-004"
+    date: "1926-04-12"
+    summary: "The Investigator and Warren entered the lighthouse and inspected the service room and lantern systems."
+    details:
+      - "A deep, steady mechanical hum with a rhythmic metallic beat and slight floor vibration was audible before entering the service room."
+      - "The generator was running and the rotation mechanism was operating."
+      - "The Investigator traced the lamp circuit and found an interruption at the final connection toward the lamp."
+      - "The lamp itself was completely off; no beam or flickering was observed."
+      - "The cause, timing and intent behind the circuit interruption remain undetermined. Sabotage is only a hypothesis."
+  - id: "event-005"
+    date: "1926-04-12"
+    summary: "The Investigator discovered a violent death scene in the lantern room."
+    details:
+      - "The Investigator drew and loaded his Smith & Wesson .38 Special revolver to six rounds before searching the lantern room. No shots were fired."
+      - "He initially took cover behind the rotation mechanism and observed two human corpses and two fish-like amphibious creatures on the wet, bloodied floor."
+      - "Two window panes are broken and rain blows into the lantern room."
+      - "Both creatures are dead and show apparent firearm wounds. One remains latched onto the neck of a human corpse."
+      - "The Investigator approached the creatures cautiously with his revolver ready and inspected one at close range. It has slick gray-green skin, a vaguely humanoid body, webbed long-fingered hands, a broad mouth and small sharp teeth. It is cold, motionless and shows no breathing."
+      - "The Investigator called Warren over and told him there were dead people and non-human beings in the room. Warren approached with his lantern, saw the scene and reacted with shock."
 objectives:
   completed:
     - description: "Obtain Warren Thomas's report and briefing about suspected smuggling."
-      completion: "Thomas met the Investigator, delivered his briefing, and handed over a folder of notes."
+      completion: "Thomas delivered his briefing and handed over the folder of notes."
   active:
     - description: "Investigate why the lighthouse lantern/main light is off."
     - description: "Inspect the discovery Warren Thomas found on the north shore."
   superseded: []
   abandoned: []
 open_threads:
-  - "Review the folder of notes handed over by Warren Thomas."
+  - "Examine the folder of notes in depth."
   - "Clarify the disappearance or unavailability of the lighthouse staff."
   - "Investigate the disappearance of the unmarked vessel spotted near Rockport on February 12, 1926."
+  - "Determine why the lamp circuit is interrupted and what caused the lantern room damage."
+  - "Identify the two dead men and the two amphibious creatures, and reconstruct the violence in the lantern room."
 notes:
   - "The Investigator has never visited Beacon Island before."
   - "The rowboat remains tied to the north shore pier. Its oars are aboard; one oar blade is deeply scraped but usable."
   - "No other survivors have been positively identified by the Investigator."
-  - "The Investigator has not yet inspected the lighthouse lantern, the north shore discovery, or the contents of Thomas's folder."
-  - "No dice or simulated rolls have been used. No character statistics, HP, SAN, MP, Luck, ammunition, or equipment have otherwise changed."
+  - "The north shore discovery Warren mentioned has not yet been inspected."
+  - "The folder has been skimmed but not read in depth."
+  - "No dice or simulated rolls have been used. No shots have been fired. HP, SAN, MP and Luck remain at their starting values."
