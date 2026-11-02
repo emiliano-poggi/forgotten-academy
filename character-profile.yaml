@@ -20,7 +20,7 @@ concept:
     - "Justice is important, whether natural or mandated by the rule of law."
   treasured_possession: "The Bureau badge, earned through hard work and a symbol of that effort."
   motivation: "Obtain Warren Thomas's report and, if possible, secure reassignment away from the unsettling region."
-  roleplaying_hook: "Get the report from the undercover colleague, in the hope it is enough to secure reassignment."
+  roleplaying_hook: "Reach the undercover colleague on Beacon Island and obtain his report, in the hope it is enough to secure reassignment."
 
 background:
   assignment: "Monitor illegal activity along the popular East Coast shipping routes."
@@ -30,8 +30,10 @@ background:
     cover_identity: "Michael Turner"
     role: "Undercover Bureau agent stationed on Beacon Island as a lighthouse keeper."
     relationship: "Friend and fellow agent"
-  immediate_objective: "Meet Warren Thomas in Rockport tomorrow morning and obtain his report about evidence of smuggling."
-  source_note: "Background transcribed and condensed from The Lightless Beacon, Bureau Agent character sheet."
+    established_location: "Beacon Island"
+  immediate_objective: "Reach Beacon Island and meet Warren Thomas, undercover as lighthouse keeper Michael Turner, to obtain his report and briefing about evidence of smuggling."
+  travel_context: "The Investigator is aboard a passenger vessel bound for Rockport, Massachusetts, at the opening of the adventure."
+  source_note: "Background transcribed and condensed from The Lightless Beacon, Bureau Agent character sheet. The meeting location and opening travel context are aligned with the adventure scenario."
 
 source:
   adventure: "The Lightless Beacon"
@@ -43,3 +45,4 @@ source:
   background_pdf_page: 39
   background_printed_page: 38
   solo_adjustments: "The scenario recommends the Bureau Agent for a solo player and increasing Appraise and Pilot (Boat) to 50%."
+  alignment_note: "Corrected the immediate meeting location from Rockport to Beacon Island to match Warren Thomas's established undercover posting in the adventure. Rockport remains the destination of the passenger vessel."
