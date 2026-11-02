@@ -85,7 +85,8 @@ conditions:
 
 provenance:
   source_file: "The Lightless Beacon - Call of Cthulhu.pdf"
-  character_sheet_page: 37
+  character_sheet_pdf_page: 37
+  character_sheet_printed_page: 36
   solo_adjustments:
     Appraise: "50% (scenario solo recommendation)"
     Pilot_Boat: "50% (scenario solo recommendation)"
