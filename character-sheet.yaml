@@ -1,0 +1,95 @@
+schema_version: "1.0"
+character_id: "bureau-agent"
+display_name: "Bureau Agent"
+ruleset: "Call of Cthulhu 7th Edition"
+adventure: "The Lightless Beacon"
+state_scope: "adventure"
+
+characteristics:
+  STR: 85
+  CON: 50
+  SIZ: 70
+  DEX: 75
+  APP: 55
+  INT: 65
+  POW: 65
+  EDU: 70
+
+derived:
+  hit_points:
+    current: 12
+    maximum: 12
+  sanity:
+    current: 65
+    starting: 65
+  magic_points:
+    current: 13
+    maximum: 13
+  luck:
+    current: 50
+    starting: 50
+  movement_rate: 9
+  build: 1
+  damage_bonus: "+1D4"
+
+skills:
+  Appraise: 50
+  Climb: 20
+  Credit_Rating: 30
+  Dodge: 40
+  Drive_Auto: 30
+  Electrical_Repair: 50
+  Fighting_Brawl: 55
+  Firearms_Handgun: 50
+  First_Aid: 30
+  Jump: 20
+  Language_English: 70
+  Law: 55
+  Listen: 20
+  Mechanical_Repair: 50
+  Occult: 45
+  Persuade: 60
+  Pilot_Boat: 50
+  Psychology: 10
+  Spot_Hidden: 65
+  Stealth: 50
+  Swim: 20
+  Throw: 20
+  Track: 40
+
+weapons:
+  - name: "Unarmed"
+    skill: "Fighting (Brawl)"
+    skill_value: 55
+    damage: "1D3 + damage bonus"
+    attacks_per_round: 1
+  - name: "Smith & Wesson .38 Special revolver"
+    skill: "Firearms (Handgun)"
+    skill_value: 50
+    damage: "1D10"
+    range: "15 yards"
+    attacks_per_round: "1 (3)"
+    ammunition_capacity: 6
+    malfunction: 100
+
+equipment:
+  - "Bureau of Investigation credentials (warrant card and badge)"
+  - "Smith & Wesson .38 Special revolver"
+  - "One box of spare .38 ammunition (12 cartridges)"
+
+conditions:
+  major_wound: false
+  temporary_injuries: []
+  ongoing_effects: []
+  notes: []
+
+provenance:
+  source_file: "The Lightless Beacon - Call of Cthulhu.pdf"
+  character_sheet_page: 37
+  solo_adjustments:
+    Appraise: "50% (scenario solo recommendation)"
+    Pilot_Boat: "50% (scenario solo recommendation)"
+  luck: "50, selected as agreed with the player; the published sheet leaves Luck to be determined."
+  notes:
+    - "Only skills with a filled value on the published Bureau Agent sheet are listed, plus the two explicit solo adjustments."
+    - "Current and maximum HP, SAN, and MP begin at the published starting values."
