@@ -1,0 +1,43 @@
+schema_version: "1.0"
+character_id: "bureau-agent"
+display_name: "Bureau Agent"
+ruleset: "Call of Cthulhu 7th Edition"
+adventure: "The Lightless Beacon"
+status: "active"
+
+identity:
+  occupation: "Special Agent, Bureau of Investigation"
+  age: 29
+  gender: null
+  residence: null
+  player_name: null
+
+concept:
+  traits:
+    - "Somewhat twitchy and watchful."
+    - "The assignment has this character on edge."
+  beliefs:
+    - "Justice is important, whether natural or mandated by the rule of law."
+  treasured_possession: "The Bureau badge, earned through hard work and a symbol of that effort."
+  motivation: "Obtain Warren Thomas's report and, if possible, secure reassignment away from the unsettling region."
+  roleplaying_hook: "Get the report from the undercover colleague, in the hope it is enough to secure reassignment."
+
+background:
+  assignment: "Monitor illegal activity along the popular East Coast shipping routes."
+  known_incident: "An unmarked vessel was spotted passing Rockport during a storm in early February and then vanished without a trace."
+  contact:
+    name: "Warren Thomas"
+    cover_identity: "Michael Turner"
+    role: "Undercover Bureau agent stationed on Beacon Island as a lighthouse keeper."
+    relationship: "Friend and fellow agent"
+  immediate_objective: "Meet Warren Thomas in Rockport tomorrow morning and obtain his report about evidence of smuggling."
+  source_note: "Background transcribed and condensed from The Lightless Beacon, Bureau Agent character sheet."
+
+source:
+  adventure: "The Lightless Beacon"
+  author: "Leigh Carr, with Lynne Hardy"
+  publication_year: 2019
+  source_file: "The Lightless Beacon - Call of Cthulhu.pdf"
+  character_sheet_page: 37
+  background_page: 38
+  solo_adjustments: "The scenario recommends the Bureau Agent for a solo player and increasing Appraise and Pilot (Boat) to 50%."
