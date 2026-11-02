@@ -38,6 +38,8 @@ source:
   author: "Leigh Carr, with Lynne Hardy"
   publication_year: 2019
   source_file: "The Lightless Beacon - Call of Cthulhu.pdf"
-  character_sheet_page: 37
-  background_page: 38
+  character_sheet_pdf_page: 37
+  character_sheet_printed_page: 36
+  background_pdf_page: 39
+  background_printed_page: 38
   solo_adjustments: "The scenario recommends the Bureau Agent for a solo player and increasing Appraise and Pilot (Boat) to 50%."
