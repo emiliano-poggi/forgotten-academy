@@ -5,17 +5,17 @@ ruleset: "Call of Cthulhu 7th Edition"
 repository:
   full_name: "emiliano-poggi/forgotten-academy"
   branch: "main"
-state_status: "active"
-session_status: "in_progress"
+  state_status: "active"
+  session_status: "in_progress"
 checkpoint:
-  sequence: 2
-  label: "Quick Save 2"
-  description: "Intermediate checkpoint in the lighthouse lantern room, after investigating the service systems and discovering the bodies and dead amphibious creatures."
+  sequence: 3
+  label: "Quick Save 3"
+  description: "The lighthouse main light has been restored after replacing the destroyed bulb and repairing the interrupted final cable connection."
 adventure:
   source_file: "The Lightless Beacon - Call of Cthulhu.pdf"
   source_trace:
     available: false
-    note: "No Adventure Trace was present in the repository at initialization. The original adventure PDF remains the primary narrative reference."
+    note: "No Adventure Trace was present at initialization. The original adventure PDF remains the primary narrative reference."
   quick_start_rules:
     source_file: "Call of Cthulhu 7th Edition Quick-Start Rules.pdf"
     available: true
@@ -25,15 +25,7 @@ investigator:
   profile_file: "character-profile.yaml"
   sheet_file: "character-sheet.yaml"
   snapshot:
-    characteristics:
-      STR: 85
-      CON: 50
-      SIZ: 70
-      DEX: 75
-      APP: 55
-      INT: 65
-      POW: 65
-      EDU: 70
+    characteristics: { STR: 85, CON: 50, SIZ: 70, DEX: 75, APP: 55, INT: 65, POW: 65, EDU: 70 }
     derived:
       hit_points: { current: 12, maximum: 12 }
       sanity: { current: 65, starting: 65 }
@@ -89,22 +81,21 @@ investigator:
       major_wound: false
       temporary_injuries: []
       ongoing_effects: []
-      notes:
-        - "No injuries or ongoing effects recorded."
-  snapshot_note: "The revolver was loaded to its six-round capacity. Six spare cartridges remain in the ammunition box. No shots have been fired."
+      notes: []
+  snapshot_note: "The revolver is loaded to six rounds. Six spare .38 cartridges remain. No shots have been fired by the Investigator."
 opening:
   date: "1926-04-12"
-  current_location: "Lighthouse lantern room, Beacon Island"
-  location_status: "The Investigator is beside the dead amphibious creatures in the lantern room. Warren Thomas has joined him and is carrying the lantern. Two human corpses and two dead amphibious creatures are present; two window panes are broken and rain enters the room."
-  immediate_objective: "Investigate why the lighthouse lantern/main light is off."
+  current_location: "Lighthouse service room, Beacon Island"
+  location_status: "The Investigator and Warren Thomas are in the service room. The generator is running again and the rotation mechanism is operating. The replacement bulb is installed and illuminated; the final cable connection has been repaired. The lighthouse main light is on. The lantern lens remains damaged by a bullet hole."
+  immediate_objective: "Inspect the discovery Warren Thomas found on the north shore."
   session_started: true
 known_npcs:
   - name: "Warren Thomas"
     cover_identity: "Michael Turner"
     role: "Undercover Bureau agent stationed on Beacon Island as a lighthouse keeper"
     relationship: "Friend and fellow agent"
-    known_location: "Lighthouse lantern room, beside the Investigator"
-    state_note: "Accompanied the Investigator to the lighthouse. After being asked to wait at the doorway, he remained near the stairs with his lantern. The Investigator called him into the lantern room after discovering the bodies and creatures; Warren approached, saw the scene, and reacted with shock. He is now nearby."
+    known_location: "Lighthouse service room, with the Investigator"
+    state_note: "Accompanied the Investigator during the investigation of the lantern room and service room. He read the maintenance log, helped illuminate the work area, and remains with the Investigator."
 events:
   - id: "event-001"
     date: "1926-04-12"
@@ -138,7 +129,7 @@ events:
       - "The generator was running and the rotation mechanism was operating."
       - "The Investigator traced the lamp circuit and found an interruption at the final connection toward the lamp."
       - "The lamp itself was completely off; no beam or flickering was observed."
-      - "The cause, timing and intent behind the circuit interruption remain undetermined. Sabotage is only a hypothesis."
+      - "The cause, timing and intent behind the circuit interruption were initially undetermined. Sabotage remained only a hypothesis."
   - id: "event-005"
     date: "1926-04-12"
     summary: "The Investigator discovered a violent death scene in the lantern room."
@@ -147,27 +138,47 @@ events:
       - "He initially took cover behind the rotation mechanism and observed two human corpses and two fish-like amphibious creatures on the wet, bloodied floor."
       - "Two window panes are broken and rain blows into the lantern room."
       - "Both creatures are dead and show apparent firearm wounds. One remains latched onto the neck of a human corpse."
-      - "The Investigator approached the creatures cautiously with his revolver ready and inspected one at close range. It has slick gray-green skin, a vaguely humanoid body, webbed long-fingered hands, a broad mouth and small sharp teeth. It is cold, motionless and shows no breathing."
-      - "The Investigator called Warren over and told him there were dead people and non-human beings in the room. Warren approached with his lantern, saw the scene and reacted with shock."
+      - "The Investigator inspected one creature at close range. It has slick gray-green skin, a vaguely humanoid body, webbed long-fingered hands, a broad mouth and small sharp teeth. It is cold, motionless and shows no breathing."
+      - "The Investigator called Warren over. Warren approached with his lantern, saw the scene and reacted with shock."
+      - "Warren identified the corpse with a creature clamped to its neck as George Cassidy. He said lighthouse staff included himself, Cassidy and Samuel Smith, who had disappeared before the Investigator arrived."
+      - "The second corpse wore a heavy hooded raincoat and had gray, rough, unusually folded skin around the neck and jowls, a narrow head and abnormal hands. It had two gunshot wounds; Warren did not recognize it and said it was not Samuel Smith."
+      - "Cassidy's Colt M1877 revolver was found in his hand and completely empty. The two creatures and the second corpse had apparent gunshot wounds. A bullet had passed through the lantern lens, destroyed the bulb and broken one window pane; another shot had broken the second pane. The six-shot reconstruction is coherent but has not been ballistically proven."
+      - "No Investigator injury, SAN loss, ammunition expenditure or condition resulted from this investigation."
+  - id: "event-006"
+    date: "1926-04-12"
+    summary: "The Investigator and Warren inspected the service room, read the maintenance log, and restored the lighthouse main light."
+    details:
+      - "Warren read a maintenance log entry dated February 12, 1926: wiring problems caused a bulb to burn out prematurely; a short circuit and severe storm delayed repairs, leaving the lighthouse dark for several hours."
+      - "The Investigator found replacement bulbs in boxes near the workbench."
+      - "The Investigator installed a replacement bulb. The installation took approximately forty minutes. The bulb was intact but could not illuminate while the final cable connection remained interrupted."
+      - "The Investigator and Warren switched off the generator before attempting electrical repair. The generator and rotation mechanism stopped."
+      - "Using Electrical Repair (50%), the Investigator repaired the interrupted final cable connection. The precise original cause of the cable damage remains undetermined."
+      - "The Investigator restarted the generator. The mechanical hum returned, the rotation mechanism resumed operation, and the replacement bulb illuminated. The lighthouse main light is now on."
+      - "The lantern lens remains damaged by a bullet hole and requires repair or replacement for full restoration of the optical system."
+      - "Warren remained with the Investigator throughout."
 objectives:
   completed:
     - description: "Obtain Warren Thomas's report and briefing about suspected smuggling."
       completion: "Thomas delivered his briefing and handed over the folder of notes."
-  active:
     - description: "Investigate why the lighthouse lantern/main light is off."
+      completion: "The replacement bulb was installed and the interrupted final cable connection repaired with the generator switched off. The generator was restarted and the lighthouse main light illuminated. The lantern lens remains damaged and requires repair or replacement."
+  active:
     - description: "Inspect the discovery Warren Thomas found on the north shore."
   superseded: []
   abandoned: []
 open_threads:
+  - "Repair or replace the bullet-damaged lantern lens for full optical restoration."
   - "Examine the folder of notes in depth."
-  - "Clarify the disappearance or unavailability of the lighthouse staff."
+  - "Clarify the disappearance or unavailability of the lighthouse staff, including Samuel Smith."
   - "Investigate the disappearance of the unmarked vessel spotted near Rockport on February 12, 1926."
-  - "Determine why the lamp circuit is interrupted and what caused the lantern room damage."
-  - "Identify the two dead men and the two amphibious creatures, and reconstruct the violence in the lantern room."
+  - "Identify the second dead man and the two amphibious creatures, and reconstruct the violence in the lantern room."
+  - "Determine the cause of the cable damage; its precise cause remains undetermined."
 notes:
   - "The Investigator has never visited Beacon Island before."
   - "The rowboat remains tied to the north shore pier. Its oars are aboard; one oar blade is deeply scraped but usable."
-  - "No other survivors have been positively identified by the Investigator."
   - "The north shore discovery Warren mentioned has not yet been inspected."
   - "The folder has been skimmed but not read in depth."
-  - "No dice or simulated rolls have been used. No shots have been fired. HP, SAN, MP and Luck remain at their starting values."
+  - "The service-room maintenance log entry dated February 12, 1926, has been read."
+  - "The replacement bulb is installed and illuminated; the generator and rotation mechanism are running."
+  - "The lantern lens remains damaged by a bullet hole."
+  - "No dice or simulated rolls have been used. No shots have been fired by the Investigator. HP, SAN, MP and Luck remain at their starting values."
