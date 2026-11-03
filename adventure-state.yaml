@@ -9,8 +9,8 @@ repository:
   session_status: "ended"
 checkpoint:
   sequence: 5
-  label: "End Session 5"
-  description: "Session closed in the lighthouse service room after examining Turner, surviving and neutralizing the Younglings encountered in the woods, repairing the radio and transmitting a distress call. The Coast Guard acknowledged the call; rescue has not yet arrived. CORE-04 remains active."
+  label: "End Session 5 — Adventure Completed"
+  description: "The Coast Guard arrived at Beacon Island and rescued the Investigator. The Lightless Beacon playthrough is complete; CORE-01 through CORE-04 are completed. Several investigative threads remained unresolved at rescue."
 adventure:
   source_file: "The Lightless Beacon - Call of Cthulhu.pdf"
   source_trace:
@@ -178,7 +178,7 @@ events:
       - "A weak response from a coastal station acknowledged reception and asked how many survivors remained and for confirmation of position and signalling."
       - "The Investigator reported that he was the only survivor, that the lighthouse had been restored, and requested immediate rescue and recovery of the bodies."
       - "The Coast Guard acknowledged the message and stated that a boat would be sent when sea conditions permitted. The Investigator was asked to remain in contact."
-      - "No rescue vessel has yet arrived; transmission of the request does not itself constitute rescue."
+      - "The Coast Guard subsequently arrived at Beacon Island and rescued the Investigator, concluding the adventure."
 objectives:
   completed:
     - description: "CORE-01 — Reach Beacon Island."
@@ -187,6 +187,8 @@ objectives:
       completion: "The Investigator observed the lantern damage and identified the bullet's passage through the lens and destruction of the bulb as the cause of the interrupted beacon."
     - description: "CORE-03 — Confront the Threat and Survive."
       completion: "The Investigator encountered two Younglings in the woods and killed both. The immediate threat posed by that attacking pair can no longer attack him in the current situation. This does not establish that every hostile creature on the island has been eliminated."
+    - description: "CORE-04 — Achieve a Resolution."
+      completion: "The Coast Guard arrived at Beacon Island and physically rescued the Investigator. The Investigator reached safety; the adventure concluded."
     - description: "BR-04 — Examine Michael Turner's body."
       completion: "The Investigator examined Turner's injuries and belongings and investigated the immediate area and tracks."
     - description: "BR-06 — Identify Warren Thomas."
@@ -195,8 +197,7 @@ objectives:
       completion: "The Investigator repaired the radio and transmitted a distress call. The Coast Guard acknowledged it and stated that a boat would be sent when sea conditions permitted. This completes the request objective, not the actual rescue."
     - description: "Restore the lighthouse main light temporarily."
       completion: "The replacement bulb was installed and the interrupted final cable connection repaired with the generator switched off. The generator was restarted and the lighthouse main light illuminated. The lantern lens remains damaged and requires repair or replacement."
-  active:
-    - description: "CORE-04 — Achieve a Resolution: find a way to leave Beacon Island and reach safety. The Coast Guard has acknowledged the distress call, but no rescue vessel has arrived."
+  active: []
   superseded: []
   abandoned: []
 open_threads:
@@ -216,6 +217,7 @@ notes:
   - "Warren Thomas and Michael Turner are the same person. His body was discovered in the brush on Beacon Island."
   - "Two additional Younglings were killed by the Investigator in the woods; they are distinct from the two dead amphibious creatures in the lantern room."
   - "The generator is running, the rotation mechanism operates, and the lighthouse main light is on. The lens remains damaged. The generator shed roof was described as damaged, but the Investigator did not inspect or repair it."
-  - "The radio is repaired, powered and functional. The Coast Guard acknowledged the distress call and said a boat would be sent when sea conditions permit; rescue is pending."
-  - "The rowboat remains tied to the north shore pier; no departure from the island has occurred."
-  - "CORE-04 is active, not completed. The Investigator has reached the resolution phase, but has not yet escaped or been physically rescued."
+  - "The radio is repaired, powered and functional. The Coast Guard acknowledged the distress call and subsequently arrived at Beacon Island."
+  - "The Investigator was physically rescued by the Coast Guard. CORE-04 is completed and the adventure is concluded."
+  - "The rowboat had remained tied to the north shore pier before the Coast Guard rescue; the Investigator did not use it to escape."
+  - "Unresolved investigative threads at the conclusion: precise cause and time of Warren Thomas's death; identity of the second human corpse and nature of the amphibious creatures; exact cause of final cable damage; repair or replacement of the bullet-damaged lantern lens; disappearance of the unmarked vessel near Rockport on February 12, 1926; fate of the gold coins and full circumstances of the recovery operation."
