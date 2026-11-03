@@ -908,3 +908,53 @@ The document is intended to serve as a standalone operational reference for Runt
 It does not replace the original adventure PDF. It does not certify the completeness of the mechanical audit. It does not constitute production approval.
 
 **END OF DOCUMENT**
+
+
+---
+
+# 11. PLAYTHROUGH COMPLETION RECORD
+
+**Record type:** Runtime playthrough outcome  
+**Adventure date:** April 12, 1926  
+**Status:** COMPLETED  
+**Evidence basis:** Events established during the completed solo playthrough. This section records that playthrough and does not alter the canonical source material or its unresolved source limitations.
+
+## 11.1 Backbone Resolution
+
+| CORE | Result | Playthrough evidence |
+|---|---|---|
+| CORE-01 — Reach Beacon Island | COMPLETED | The Investigator reached Beacon Island after the SS Essex County foundered. |
+| CORE-02 — Identify the cause of the lighthouse interruption | COMPLETED | The Investigator identified the bullet damage to the lantern lens and bulb as the cause of the interrupted beacon. |
+| CORE-03 — Confront the Threat and Survive | COMPLETED | The Investigator encountered and killed two Younglings in the woods. This resolves the immediate attack by that pair; it does not establish that every hostile creature on the island was eliminated. |
+| CORE-04 — Achieve a Resolution | COMPLETED | The Coast Guard arrived at Beacon Island and rescued the Investigator. The arrival and physical rescue, rather than the earlier radio acknowledgement alone, satisfy the resolution condition. |
+
+## 11.2 Recorded Playthrough Outcomes
+
+- The Investigator examined Michael Turner's body and identified him as Warren Thomas through his Bureau credentials.
+- The Investigator examined Turner's injuries and belongings. The examination did not establish a definitive cause or exact time of death.
+- The Investigator encountered two Younglings in the woods and killed both with five shots from his personal Smith & Wesson .38 Special revolver.
+- The Investigator repaired the lighthouse radio and transmitted a distress call. The Coast Guard acknowledged the transmission and subsequently arrived to effect the rescue.
+- The lighthouse main light was temporarily restored using a replacement bulb and repair of the interrupted final cable connection. The bullet-damaged lens remained unrepaired at the end of the recorded events.
+- The radio request was therefore followed by an actual rescue. CORE-04 is complete.
+
+## 11.3 Unresolved Investigative Threads at Conclusion
+
+The adventure concluded with the Investigator rescued. The following matters were not established as resolved by the recorded playthrough:
+
+- The precise cause and time of Warren Thomas's death.
+- The identity of the second human corpse in the lantern room.
+- The full identity and nature of the amphibious creatures.
+- The exact cause of the damage to the final cable connection.
+- The repair or replacement of the bullet-damaged lantern lens.
+- The disappearance of the unmarked vessel reported near Rockport on February 12, 1926.
+- The fate of the gold coins and the full circumstances behind the recovery operation.
+
+These remain unresolved threads, not evidence that the adventure itself remains incomplete.
+
+## 11.4 Completion and Source Distinction
+
+The original adventure supports rescue by the Coast Guard as a possible concluding outcome. The exact arrival sequence and timing recorded above belong to this playthrough.
+
+The source limitations in Section 10 remain valid as statements about what the original adventure specifies. In particular, the source does not guarantee a rescue timetable; this playthrough reached the rescue outcome.
+
+**PLAYTHROUGH STATUS: COMPLETED — INVESTIGATOR RESCUED BY THE COAST GUARD.**
