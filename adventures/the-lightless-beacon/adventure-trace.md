@@ -1,960 +1,616 @@
-# The Lightless Beacon — Adventure Trace v2.0 Pilot
+# The Lightless Beacon — Adventure Trace V2.0
 
 **Version:** 2.0  
-**Status:** PILOT — NOT PRODUCTION APPROVED  
-**Source:** *The Lightless Beacon* original PDF  
-**Validation:** Structurally validated, mechanical audit pending  
-**Model:** Fishbone Adventure Trace v2.0  
-**Purpose:** Standalone Runtime operational reference
+**Status:** PILOT — structural baseline  
+**System:** Call of Cthulhu 7th Edition (Quick-Start Rules)  
+**Adventure source:** *The Lightless Beacon*, Leigh Carr with Lynne Hardy, Chaosium, 2019  
+**Scenario date:** 12 April 1926  
+**Location:** Beacon Island, near Rockport, Massachusetts  
+**Player Investigator:** Bureau Agent  
+**Design model:** Fishbone Adventure Trace  
+**Source authority:** Original adventure PDF. This Trace is an operational index and does not replace the source adventure.
 
 ---
 
-# 1. ADVENTURE OVERVIEW
+## 1. Source and classification conventions
 
-## 1.1 Adventure Identification
+Every content element is classified as:
 
-| Field | Value |
-|---|---|
-| Title | The Lightless Beacon |
-| Author | Leigh Carr, with Lynne Hardy |
-| Publisher | Chaosium |
-| Publication | 2019 |
-| Game system | Call of Cthulhu 7th Edition |
-| Setting | Beacon Island, Massachusetts |
-| Date | April 12, 1926 |
-| Starting time | 8:15 PM |
-| Estimated duration | Approximately 1 hour; may extend to 2–3 hours |
-| Genre | Investigative horror / Survival horror |
+- **CANON** — directly supported by the original adventure.
+- **DERIVED** — an operational objective, dependency, grouping, or interpretation constructed from source material.
+- **UNSPECIFIED** — the source does not define the detail sufficiently. Runtime must not silently treat an assumption as canon.
 
-## 1.2 Premise
+The original PDF remains authoritative for scene descriptions, NPCs, clues, events, creature information, and source-defined mechanics. The Call of Cthulhu 7th Edition Quick-Start Rules remain the rules authority. Do not silently import rules from the full Keeper Rulebook where the Quick-Start source does not provide them.
 
-The investigators are aboard the SS Essex County, a passenger and cargo vessel bound for Rockport. At approximately 8:00 PM, the Beacon Island lighthouse stops emitting its light. The ship subsequently strikes rocks and begins sinking.
+### Runtime adjudication boundary
 
-The investigators reach Beacon Island by rowboat, seeking shelter before an approaching storm. They discover evidence of violence, abandoned equipment, unusual footprints, dead bodies and a dysfunctional lighthouse.
+The Skill Check Register records checks and information gates described by the adventure. It does not require simulated dice, random numbers, probability calculations, or deterministic conversion tables. Runtime adjudicates consequential actions using character capability, current challenge, and the player's approach, under the project's GM Operating Protocol.
 
-The island contains the remains of a previous confrontation involving its lighthouse keepers and unknown amphibious creatures. The investigators must understand the situation, respond to the emerging threat and find a way to survive.
-
-## 1.3 Keeper-Only Background
-
-**GM ONLY — DO NOT PRESENT TO PLAYERS BEFORE THE RELEVANT DISCLOSURE CONDITIONS.**
-
-The SS Essex County was transporting cargo that included gold coins intended for Innsmouth. The ship sank after the lighthouse malfunctioned. Some of its gold coins escaped recovery and washed ashore.
-
-George Cassidy, a lighthouse keeper, discovered and collected several coins. The Esoteric Order of Dagon became interested in recovering the missing gold and organized an operation on Beacon Island.
-
-Two Deep One hybrids were assigned to the operation. One remained at Folly Point while the other led Younglings onto the island.
-
-Samuel Smith was captured, interrogated and murdered. Michael Turner, secretly an undercover Bureau of Investigation agent, was also killed.
-
-George Cassidy fought the intruders in the lighthouse lantern room, killing two Younglings and one Deep One hybrid. Cassidy died during the confrontation.
-
-A stray bullet damaged the lighthouse lens and bulb, extinguishing the beacon. The surviving Younglings remained on the island searching for Cassidy's missing coins.
-
-## 1.4 Adventure Structure
-
-This Trace contains:
-
-- 4 CORE objectives.
-- 10 BRANCH objectives.
-- 6 OUTCOMES.
-- 23 CLUES.
-- 44 provisional Skill Check entries.
-- 14 location references.
-
-The Backbone represents the main progression, not a mandatory sequence of player actions. Branches are independent opportunities and are not prerequisites unless explicitly stated by their conditions.
+No check is required for a routine action or an obvious discovery. A failed attempt does not by itself make a clue impossible. Alternative approaches remain available where plausible.
 
 ---
 
-# 2. BACKBONE
+## 2. Adventure overview
 
-## 2.1 Backbone Sequence
+### 2.1 Premise — CANON
 
-The validated Backbone contains four CORE objectives:
+At approximately 8:15 PM on 12 April 1926, the SS Essex County, carrying passengers and cargo toward Rockport, wrecks after the Beacon Island lighthouse ceases to shine. The investigators reach Beacon Island by rowboat shortly before a storm.
 
-1. CORE-01 — Reach Beacon Island.
-2. CORE-02 — Discover What Happened on the Island.
-3. CORE-03 — Confront the Threat and Survive.
-4. CORE-04 — Achieve a Resolution.
+The island's lighthouse and cottage show signs of recent violence. The investigators can explore the grounds and buildings, discover evidence of a previous confrontation, encounter amphibious creatures, survive an assault, and seek rescue or escape.
 
-The sequence represents ordinary narrative progression. It does not establish mandatory prerequisites between every objective. CORE-02 and CORE-03 may overlap.
+### 2.2 Keeper-only background — CANON
 
-## CORE-01 — Reach Beacon Island
+**GM ONLY. Do not reveal until supported by in-world discovery.**
 
-**Classification:** DERIVED objective based on CANON events.
+The SS Essex County was carrying gold associated with the cultists of Dagon and bound for Innsmouth. A lighthouse malfunction caused the beacon to fail during a storm, contributing directly to the ship's wreck.
 
-**GM Objective**
+George Cassidy, a lighthouse keeper, found coins washed ashore and collected them. His inquiries into their value attracted the attention of the cultists, who arranged an operation to recover the missing coins.
 
-Reach Beacon Island following the sinking of the SS Essex County.
+Two Deep One hybrids were involved. One remained at Folly Point; the other led Younglings onto Beacon Island. Samuel Smith was captured, interrogated, and murdered. Michael Turner, secretly Bureau of Investigation agent Warren Thomas, was killed by Younglings. Cassidy fought the attackers in the lantern room, killing two Younglings and one hybrid before dying. A stray bullet damaged the lighthouse lens and bulb. The remaining Younglings searched the island for the coins.
 
-**Description**
+### 2.3 Player Investigator — CANON / CONFIGURATION
 
-The investigators must reach land after abandoning the sinking ship.
+The solo option recommends the Bureau Agent, with Appraise and Pilot (Boat) increased to 50%. The selected Investigator is the Bureau Agent.
 
-**Completion Condition**
+Do not confuse:
+- **Player Investigator:** the Bureau Agent.
+- **NPC:** Warren Thomas, undercover as lighthouse keeper Michael Turner.
 
-The investigators successfully reach Beacon Island.
+The Bureau Agent is travelling to receive a briefing from colleague Warren Thomas. Thomas's notebook is hidden in Turner's mattress.
 
-**Player-facing Objective**
+### 2.4 Tone and pacing — CANON / DERIVED
 
-"Reach the island and find shelter before the storm arrives."
-
-**Requirements**
-
-- Access to a rowboat.
-- Ability to navigate or otherwise reach the island.
-- Alternative swimming or survival circumstances may apply.
-
-**Disclosure Condition**
-
-Immediately available.
-
-**Pre-disclosure Guidance**
-
-Not required.
-
-**Transition**
-
-Arrival on the island makes exploration of the lighthouse and surrounding areas possible.
-
-**Skip Conditions**
-
-The objective may be bypassed if the investigators reach the island without resolving the expected approach challenges.
-
-**Source References**
-
-PDF pp. 6, 9–10.
-
-## CORE-02 — Identificare la causa dell'interruzione del faro
-
-**Classification:** DERIVED objective based on CANON investigative material.
-
-**GM Objective**
-
-Scoprire che il faro è stato danneggiato durante lo scontro tra Cassidy e gli Younglings: un proiettile ha colpito lente e lampadina, causando l'interruzione del segnale.
-
-**Description**
-
-Ricostruire la causa concreta del malfunzionamento.
-
-**Completion Condition**
-
-Gli investigatori identificano il danno balistico alla lente e alla lampadina come causa dell'interruzione del fascio luminoso.
-
-**Player-facing Objective, pre-disclosure**
-
-"Capite perché il faro ha smesso di funzionare."
-
-**Player-facing Objective, post-disclosure**
-
-"Ricostruite come il faro sia stato danneggiato e verificate se sia possibile ripristinarne il funzionamento."
-
-**Disclosure Condition**
-
-Osservazione della lanterna, identificazione del foro di proiettile e collegamento con la lampadina distrutta.
-
-**Requirements**
-
-- Accesso alla lanterna.
-- Osservazione e, per alcune informazioni, Spot Hidden o Mechanical Repair.
-
-**Transition**
-
-Il risultato può orientare gli investigatori verso interventi operativi o verso la ricostruzione degli eventi.
-
-**Skip Conditions**
-
-Possibile. L'assalto può avvenire senza che gli investigatori abbiano identificato la causa del guasto.
-
-**Source References**
-
-PDF pp. 19–21.
-
-## CORE-03 — Confront the Threat and Survive
-
-**Classification:** DERIVED objective based on CANON events.
-
-**GM Objective**
-
-Manage the Younglings' assault and the investigators' response. The investigators may fight, flee, barricade themselves or attempt another plausible survival strategy.
-
-**Description**
-
-Respond to the attack and find a way to survive.
-
-**Completion Condition**
-
-The assault ends, the threat withdraws or is neutralized, or the investigators successfully escape the immediate situation.
-
-**Player-facing Objective**
-
-"Trovate un modo per sopravvivere alla minaccia che vi sta raggiungendo".
-
-**Requirements**
-
-No mandatory combat requirement. Possible approaches include fighting, escape, barricading, seeking shelter or other plausible survival approaches.
-
-**Disclosure Condition**
-
-The beginning of the attack and the perception of the threat.
-
-**Pre-disclosure Guidance**
-
-"Something is approaching. Find shelter."
-
-**Transition**
-
-The conclusion of the assault permits further escape, rescue or epilogue developments.
-
-**Skip Conditions**
-
-The objective may be bypassed if the investigators reach an early concluding outcome, such as a successful escape before the main confrontation.
-
-**Source References**
-
-PDF pp. 20–22.
-
-## CORE-04 — Achieve a Resolution
-
-**Classification:** DERIVED objective based on CANON possible conclusions.
-
-**GM Objective**
-
-Manage the final circumstances of the adventure, including survival, death, escape, rescue and the consequences of the events.
-
-**Description**
-
-Reach a concluding condition that resolves the investigators' situation on Beacon Island.
-
-**Completion Condition**
-
-The investigators are dead, have escaped, have been rescued or have reached another conclusive condition supported by the adventure.
-
-**Player-facing Objective**
-
-"Find a way to leave the island and reach safety."
-
-**Requirements**
-
-Dependent on the chosen resolution.
-
-**Disclosure Condition**
-
-Progressive, according to actual developments.
-
-**Pre-disclosure Guidance**
-
-"Consider your options for reaching safety."
-
-**Transition**
-
-Adventure conclusion.
-
-**Skip Conditions**
-
-The objective may be reached prematurely through death, escape or rescue.
-
-**Source References**
-
-PDF pp. 21–22.
-
-## 2.2 Backbone Transitions
-
-| Transition | Condition |
-|---|---|
-| CORE-01 → CORE-02 | Arrival on the island |
-| CORE-02 → CORE-03 | The assault becomes operational; complete investigation is not required |
-| CORE-03 → CORE-04 | Assault concludes, escape succeeds or another concluding situation occurs |
-| CORE-01 → CORE-03 | Possible if the attack is triggered early |
-| CORE-01/02 → CORE-04 | Possible through early death or escape, when circumstances permit |
-
-**Runtime Rule:** The Backbone sequence is a progression reference, not a hard dependency chain. CORE-02 and CORE-03 can be pursued simultaneously. The Runtime must not force completion of an earlier CORE when events permit progression to a later CORE.
+Investigative horror, isolation, marine horror, and survival. The adventure is designed as a short scenario, approximately one hour, but exploration, split parties, or extended confrontation may lengthen it.
 
 ---
 
-# 3. BRANCHES
+## 3. Backbone — CORE objectives
 
-Branches are secondary objectives associated with a specific Anchor CORE. They do not automatically advance the Backbone.
+### Status model
 
-## BR-01 — Examine the Sunken Wreckage
+CORE status values are exactly:
 
-**Description:** Identify the metallic remains found in the water.  
-**Anchor CORE:** CORE-01  
-**Availability Condition:** During the approach to Beacon Island.  
-**Player-facing Lead:** "Something metallic appears to be beneath the surface."  
-**Completion Condition:** Identify and interpret the wreckage.  
-**Requirements:** Combined Know and Spot Hidden rolls.  
-**Impact on Backbone:** MODIFIES — provides information about the ship and its recent sinking.  
-**Source References:** PDF p. 9.
+- `HIDDEN`
+- `AVAILABLE`
+- `COMPLETED`
+- `IMPOSSIBLE`
 
-## BR-02 — Follow the Footprints
+A CORE is initially `AVAILABLE` when it has no required predecessor CORE. A CORE with required predecessor COREs remains `HIDDEN` until all required predecessors are `COMPLETED`.
 
-**Description:** Follow the animal-like and boot footprints into the woods to locate Michael Turner.  
-**Anchor CORE:** CORE-02  
-**Availability Condition:** Discovery of footprints outside the cottage.  
-**Player-facing Lead:** "The footprints appear to continue toward the woods."  
-**Completion Condition:** Locate Michael Turner's body.  
-**Requirements:** Track. The footprints must be followed before rain makes tracking impossible.  
-**Impact on Backbone:** MODIFIES — provides information about Turner's death and the attackers.  
-**Source References:** PDF pp. 10–11.
+A CORE becomes `COMPLETED` when all its required Branches are `COMPLETED`, all its direct required Clues are `DISCOVERED`, and all its direct operational requirements are satisfied.
 
-**Temporal Limitation:** Rain may permanently destroy the tracks. The source does not specify an exact duration for this opportunity.
+A CORE becomes `IMPOSSIBLE` when it is not already `COMPLETED` and at least one mandatory dependency or requirement has become permanently unreachable. A failed check alone does not establish impossibility.
 
-## BR-03 — Repair the Generator Shed Roof
+**Historical precedence:** `COMPLETED` is permanent. Never change a completed CORE to `IMPOSSIBLE`.
 
-**Description:** Repair the damaged roof above the generator equipment.  
-**Anchor CORE:** CORE-02  
-**Availability Condition:** Access to the generator shed and workshop.  
-**Player-facing Lead:** "The generator shed roof has a leak directly above the electrical equipment."  
-**Completion Condition:** Repair the roof.  
-**Requirements:** Materials in the workshop; either relevant Art/Craft skill, such as Carpentry, or Hard Mechanical Repair.  
-**Impact on Backbone:** MODIFIES — reduces the risk of the generator shorting out during the assault.  
-**Source References:** PDF pp. 11, 21.
+All four COREs below are initial and independent. No CORE is a prerequisite of another.
 
-## BR-04 — Examine Turner's Body
+### CORE-001 — Ricostruire il destino di Warren Thomas
 
-**Description:** Investigate the cause of death and identify unusual characteristics of the attack.  
-**Anchor CORE:** CORE-02  
-**Availability Condition:** Discovery of Turner's body in the woods.  
-**Player-facing Lead:** "The body shows unusual injuries. Examine it."  
-**Completion Condition:** Acquire information concerning the injuries, needles and identity of the victim.  
-**Requirements:** First Aid or Medicine; Natural World or Science (Biology/Zoology) for additional information.  
-**Impact on Backbone:** MODIFIES — provides information that may help identify the creatures encountered later.  
-**Source References:** PDF pp. 11–12.
+- **Classification:** DERIVED objective based on CANON characters and evidence.
+- **Initial status:** AVAILABLE.
+- **Required predecessor COREs:** none.
+- **Required Branches:** BR-001A.
+- **Direct required Clues:** none.
+- **Direct operational requirements:** none.
+- **Completion condition:** BR-001A is COMPLETED: the corpse is identified as Warren Thomas and the essential circumstances of his death are established from the available evidence.
+- **Optional content:** BR-001B, recovery and examination of Thomas's notebook, is not required for CORE completion.
+- **Source:** PDF pp. 8, 11–12, 18.
 
-## BR-05 — Investigate the Study and the Coins
+**Keeper interpretation:** The badge reveals Thomas's real name. First Aid or Medicine can reveal details about injuries and timing. Do not require the notebook to identify Thomas or establish that he is dead.
 
-**Description:** Reconstruct Cassidy's activities using correspondence, appraisals, journal entries and the gold coins.  
-**Anchor CORE:** CORE-02  
-**Availability Condition:** Access to the lighthouse study.  
-**Player-facing Lead:** "The desk and its documents may contain important information."  
-**Completion Condition:** Recover and interpret one or more relevant documentary sources.  
-**Requirements:** Relevant skills may include Appraise, Library Use, Occult, Art/Craft and Natural World. Opening the locked drawer may require Locksmith or STR with an appropriate tool.  
-**Impact on Backbone:** MODIFIES — clarifies Cassidy's relationship with the coins and external interests.  
-**Source References:** PDF pp. 13–14.
+### CORE-002 — Ricostruire la verità sul naufragio e sull'oro
 
-## BR-06 — Identify Warren Thomas
+- **Classification:** DERIVED objective based on CANON investigative material.
+- **Initial status:** AVAILABLE.
+- **Required predecessor COREs:** none.
+- **Required Branches:** BR-002A AND BR-002B AND BR-002C.
+- **Direct required Clues:** none.
+- **Direct operational requirements:** none.
+- **Completion condition:** all three required Branches are COMPLETED. The Investigator has established the essential relationship between the gold coins and Innsmouth/the cult of Dagon, Cassidy's involvement and the recovery operation, and the lighthouse failure's causal role in the shipwreck.
+- **Optional content:** BR-002D, recovering Cassidy's purse of gold, is not required.
+- **Source:** PDF pp. 8–10, 13–15, 18–20.
 
-**Description:** Identify the undercover agent through his badge and concealed belongings.  
-**Anchor CORE:** CORE-02  
-**Availability Condition:** Discovery of Turner's body and examination of his belongings.  
-**Player-facing Lead:** "The victim's personal belongings may reveal his identity."  
-**Completion Condition:** Recover the badge and identify Warren Thomas.  
-**Requirements:** Search of the body. The Bureau Agent may confirm the identity.  
-**Impact on Backbone:** MODIFIES — provides investigative context concerning surveillance of illegal maritime shipping.  
-**Source References:** PDF pp. 11–12.
+**Evidence standard:** Finding the maintenance log is not by itself equivalent to understanding its significance. The causal connection between the lighthouse going dark and the wreck must be reasonably established through cumulative evidence. The player need not recite a prescribed sentence if the evidence supports the conclusion.
 
-## BR-07 — Repair the Radio and Request Rescue
+### CORE-003 — Sopravvivere alla minaccia anfibia
 
-**Description:** Repair the radio and transmit a distress call to the local coastguard.  
-**Anchor CORE:** CORE-02  
-**Availability Condition:** Access to the lighthouse service room.  
-**Player-facing Lead:** "The radio appears damaged, but it may still be usable."  
-**Completion Condition:** Repair the radio and transmit a request for help.  
-**Requirements:** Electrical Repair. A failed pushed roll or fumble renders the radio permanently inoperable.  
-**Impact on Backbone:** ALTERNATIVE OUTCOME — may enable coastguard rescue; rescue is not guaranteed immediately.  
-**Source References:** PDF pp. 18–19, 21–22.
+- **Classification:** DERIVED objective based on CANON assault and survival outcomes.
+- **Initial status:** AVAILABLE.
+- **Required predecessor COREs:** none.
+- **Required Branches:** BR-003A.
+- **Direct required Clues:** none.
+- **Direct operational requirements:** none.
+- **Completion condition:** BR-003A is COMPLETED when at least one of its alternative survival paths is achieved.
+- **Source:** PDF pp. 20–22.
 
-## BR-08 — Examine the Bodies in the Lantern Room
+**Important:** Combat is not mandatory. A successful early evacuation can satisfy the survival objective. Surviving until the Younglings withdraw, neutralizing the attacking force sufficiently to end the immediate assault, or escaping the island safely are alternative ways to establish survival.
 
-**Description:** Investigate the bodies, injuries, creatures and evidence of the confrontation.  
-**Anchor CORE:** CORE-02  
-**Availability Condition:** Access to the lighthouse lantern room.  
-**Player-facing Lead:** "The scene at the top of the lighthouse may explain what happened."  
-**Completion Condition:** Acquire information about the deceased, the creatures, ammunition and the damaged lighthouse lens.  
-**Requirements:** Depending on the information sought: First Aid, Medicine, Natural World, Science, Spot Hidden or Mechanical Repair.  
-**Impact on Backbone:** MODIFIES — improves understanding of the threat and the possibility of confronting it.  
-**Source References:** PDF pp. 19–20.
+### CORE-004 — Ottenere la salvezza e lasciare Beacon Island
 
-## BR-09 — Recover Cassidy's Gold
+- **Classification:** DERIVED objective based on CANON possible conclusions.
+- **Initial status:** AVAILABLE.
+- **Required predecessor COREs:** none.
+- **Required Branches:** BR-004A.
+- **Direct required Clues:** none.
+- **Direct operational requirements:** none.
+- **Completion condition:** BR-004A is COMPLETED when the Investigator is actually rescued or reaches a safe location off the island.
+- **Source:** PDF pp. 12, 18–22.
 
-**Description:** Recover the purse of gold coins found on Cassidy's body.  
-**Anchor CORE:** CORE-02  
-**Availability Condition:** Access to the lantern room and discovery of Cassidy's body.  
-**Player-facing Lead:** "There appears to be something valuable among the deceased keeper's belongings."  
-**Completion Condition:** Recover the coins.  
-**Requirements:** Access to the body.  
-**Impact on Backbone:** MODIFIES — provides an explicitly described reward. Recovery is not required to conclude the adventure.  
-**Source References:** PDF pp. 20, 22.
-
-## BR-10 — Escape Through the South Pier
-
-**Description:** Use the yellow-painted rowboat as a possible means of escape.  
-**Anchor CORE:** CORE-03  
-**Availability Condition:** Reach the south pier and gain access to the boat.  
-**Player-facing Lead:** "A boat is tied to the pier."  
-**Completion Condition:** Successfully leave the island by boat, if circumstances permit.  
-**Requirements:** Boat availability and ability to navigate under adverse sea conditions.  
-**Impact on Backbone:** ALTERNATIVE OUTCOME — may provide an escape route. The source identifies a Deep One hybrid waiting at Folly Point.  
-**Source References:** PDF pp. 12, 20.
-
-## 3.1 Branch Operational Notes
-
-- BR-02 is temporary because rain can destroy the tracks.
-- BR-03 modifies the environmental conditions of the final confrontation.
-- BR-04 and BR-08 provide different investigative results and must remain separate.
-- BR-05 combines several documentary discoveries into one significant investigative opportunity.
-- BR-07 provides an opportunity for rescue, not guaranteed rescue.
-- BR-10 provides a possible escape route, not a guaranteed safe passage.
+**Important:** Repairing the radio or transmitting an SOS does not by itself complete this CORE. The rescue must occur. A boat departure does not count as safe evacuation until the Investigator has reached a safe destination.
 
 ---
 
-# 4. OUTCOMES
+## 4. Branches
 
-## OUT-01 — Investigators Dead
+### Branch status model
 
-**Description:** All investigators die during the adventure.  
-**Completion Condition:** No investigator survives.  
-**Related CORE / Branches:** CORE-03, CORE-04.  
-**Source References:** PDF p. 21.
+Branch status values are exactly:
 
-## OUT-02 — Survive Until the Assault Ends
+- `HIDDEN`
+- `AVAILABLE`
+- `COMPLETED`
+- `IMPOSSIBLE`
 
-**Description:** The investigators survive until the Younglings stop attacking or are neutralized.  
-**Completion Condition:** The attackers withdraw or the assault ends.  
-**Related CORE / Branches:** CORE-03, BR-03, BR-08.  
-**Source References:** PDF p. 21.
+A Branch becomes `AVAILABLE` when its Anchor CORE becomes `AVAILABLE`. Once `AVAILABLE`, it remains `AVAILABLE` until it becomes `COMPLETED` or `IMPOSSIBLE), even if its Anchor CORE later becomes `COMPLETED`.
 
-## OUT-03 — Escape the Island
+Concrete in-world access conditions still apply. Availability does not mean the Investigator has found the location or can bypass physical obstacles.
 
-**Description:** The investigators successfully leave Beacon Island using an available escape route.  
-**Completion Condition:** They reach a location outside the island and are no longer exposed to the immediate threat.  
-**Related CORE / Branches:** CORE-03, CORE-04, BR-10.  
-**Source References:** PDF pp. 12, 20–22.
+A Branch becomes `COMPLETED` only when all its required Clues are discovered and all its operational requirements are satisfied. If a Branch contains an Operational Requirement with alternative paths, any one viable path can satisfy that requirement. Different declared requirements remain AND.
 
-**Limitation:** The source does not define a complete procedure for every possible escape attempt by sea. The crossing must not automatically be considered safe.
+A Branch becomes `IMPOSSIBLE` only when at least one mandatory requirement is permanently unreachable, or all alternative paths for a mandatory requirement are impossible. A failed attempt alone does not make a Branch impossible.
 
-## OUT-04 — Coastguard Rescue
+### CORE-001 Branches
 
-**Description:** The investigators are reached and rescued by the coastguard.  
-**Completion Condition:** The coastguard arrives and successfully rescues the investigators.  
-**Related CORE / Branches:** CORE-04, BR-07.  
-**Source References:** PDF pp. 19, 21.
+#### BR-001A — Identificare Thomas e ricostruirne la morte
 
-**Condition:** The radio must be operational and a request for help must have been transmitted. The arrival of rescue is not guaranteed in every situation.
+- **Anchor CORE:** CORE-001.
+- **Classification:** DERIVED.
+- **Required Clues:** CL-001 AND CL-002.
+- **Operational requirements:** none.
+- **Completion:** the body is located and identified as Warren Thomas; available evidence about the fatal injuries is examined sufficiently to establish his fate.
+- **Acquisition:** follow the boot prints toward the thicket; examine the corpse and badge. First Aid or Medicine can provide additional injury and timing information.
+- **Source:** PDF pp. 11–12.
 
-## OUT-05 — Rescue After the Threat Ends
+#### BR-001B — Recuperare gli appunti di Thomas
 
-**Description:** The investigators survive the assault and are subsequently recovered.  
-**Completion Condition:** The threat ends and the coastguard arrives.  
-**Related CORE / Branches:** CORE-03, CORE-04, BR-07.  
-**Source References:** PDF p. 21.
+- **Anchor CORE:** CORE-001.
+- **Classification:** CANON opportunity; optional Branch.
+- **Required Clues:** CL-003.
+- **Operational requirements:** none.
+- **Completion:** locate and recover Thomas's pocket notebook from the mattress.
+- **Acquisition:** search Turner's bunkroom mattress; Spot Hidden is specified. The Bureau Agent receives a bonus die in the source rules.
+- **Optional:** not required for CORE-001.
+- **Source:** PDF p. 18.
 
-**Classification Note:** OUT-04 and OUT-05 represent potentially overlapping situations. They are retained separately from the previous draft. Their distinction is DERIVED, not an explicitly defined taxonomy in the source. The source does not establish a mandatory distinction.
+### CORE-002 Branches
 
-## OUT-06 — Investigators Unconscious, Younglings Recover the Coins
+#### BR-002A — Ricostruire la provenienza delle monete
 
-**Description:** The Younglings render all investigators unconscious, recover the missing coins and subsequently leave.  
-**Completion Condition:** All investigators are unconscious and the creatures have found the coins.  
-**Related CORE / Branches:** CORE-03, BR-09.  
-**Source References:** PDF p. 22.
+- **Anchor CORE:** CORE-002.
+- **Classification:** DERIVED from CANON coin evidence.
+- **Required Clues:** CL-004 AND CL-005 AND CL-006.
+- **Operational requirements:** none.
+- **Completion:** establish that the coins are gold, recognize their unusual religious symbolism, and identify the aquatic theme.
+- **Acquisition:** inspect the three gold coins in the hallway. Appraise identifies solid gold; Occult identifies the sigils as meaningful and similar to those used by remote religious tribes; relevant Art/Craft or Natural World identifies the aquatic theme.
+- **Check relationship:** the PDF explicitly allows the Appraise, Occult, Art/Craft, and Natural World checks to be combined. Each successful skill yields its associated information. A different Investigator with the relevant skill may try an information component another Investigator failed.
+- **Source:** PDF p. 13.
 
-**Important:** This outcome does not automatically mean the investigators are dead. The source explicitly allows them to wake up later.
+#### BR-002B — Ricostruire il coinvolgimento di Cassidy e l'operazione di recupero
 
-## 4.1 Outcome Limitations
+- **Anchor CORE:** CORE-002.
+- **Classification:** DERIVED from CANON documents.
+- **Required Clues:** CL-007 AND CL-008.
+- **Operational requirements:** none.
+- **Completion:** establish Cassidy's inquiries into the coins and the attempt to identify/value them, and connect his collection to the operation to recover the missing coins.
+- **Acquisition:** examine the appraisals, letters and Cassidy's journal in the locked desk drawer. Library Use reveals the letters' chronology. The journal is opened with Locksmith, or STR using a kitchen knife, screwdriver or chisel as described by the source.
+- **Source:** PDF pp. 14–15.
 
-The source does not guarantee:
+#### BR-002C — Ricostruire il guasto del faro e il suo legame con il naufragio
 
-- Complete restoration of the lighthouse.
-- Timely coastguard arrival.
-- Safe escape through the south pier.
-- Survival of all investigators.
+- **Anchor CORE:** CORE-002.
+- **Classification:** DERIVED from CANON maintenance and lantern evidence.
+- **Required Clues:** CL-009 AND CL-010.
+- **Operational requirements:** none.
+- **Completion:** establish the February 12 lighthouse lamp failure and connect the loss of the beacon to the SS Essex County wreck.
+- **Acquisition:** examine the service log; Mechanical Repair or Electrical Repair identifies the exceptional entry. In the lantern room, Spot Hidden can reveal the bullet hole in the lens and the damage to the bulb. Cumulative evidence supports the causal conclusion.
+- **Source:** PDF pp. 18–20.
 
-The epilogue may include Bureau of Investigation questioning and confiscation of possessions if coastguard rescue occurs and the circumstances justify it.
+#### BR-002D — Recuperare il tesoro di Cassidy
 
----
+- **Anchor CORE:** CORE-002.
+- **Classification:** CANON optional opportunity.
+- **Required Clues:** none.
+- **Operational requirements:** OR-002D-A: gain access to Cassidy's body and physically recover the purse of gold coins.
+- **Completion:** Cassidy's purse is recovered.
+- **Optional:** not required for CORE-002.
+- **Source:** PDF pp. 20, 22.
 
-# 5. CLUES
+### CORE-003 Branch
 
-Clues represent information that investigators may discover. A clue is not automatically an objective or a prerequisite.
+#### BR-003A — Superare la minaccia anfibia
 
-| ID | Information | Discovery | Related CORE / Branch |
-|---|---|---|---|
-| CL-01 | The metallic remains probably belong to a ship | Submerged wreckage | BR-01 |
-| CL-02 | The wreckage appears relatively recent | Wreckage | BR-01 |
-| CL-03 | The footprints are animal-like and distinguishable from boot prints | Cottage entrance | BR-02 |
-| CL-04 | The tracks lead toward the woods and Turner's body | Woodland path | BR-02 |
-| CL-05 | Turner was killed by a creature with teeth and claws | Turner's body | BR-04 |
-| CL-06 | The embedded needles are probably poisonous | Turner's body | BR-04 |
-| CL-07 | The victim is Warren Thomas | Body and badge | BR-06 |
-| CL-08 | Thomas was investigating illegal shipping | Agent's belongings | BR-06 |
-| CL-09 | The coins are gold and bear an obelisk symbol | Study and coins | BR-05 |
-| CL-10 | Cassidy attempted to have the coins appraised | Invoices and correspondence | BR-05 |
-| CL-11 | The coins have no readily identifiable origin | Correspondence | BR-05 |
-| CL-12 | The symbols suggest distant religious or cultic associations | Coins | BR-05 |
-| CL-13 | Cassidy received correspondence from Anna Tilton | Letter | BR-05 |
-| CL-14 | Cassidy's journal records his interest in the coins | Journal | BR-05 |
-| CL-15 | The lighthouse previously suffered a malfunction in February | Maintenance log | BR-08 |
-| CL-16 | The lighthouse malfunction contributed to the sinking of the Innsmouth-bound ship | Keeper reconstruction and maintenance log | CORE-02 |
-| CL-17 | The radio can be repaired and used to request help | Service room | BR-07 |
-| CL-18 | The lantern room contains Cassidy, a hybrid and two creatures | Lantern room | BR-08 |
-| CL-19 | The creatures possess natural armor | Creature corpses | BR-08 |
-| CL-20 | The dorsal needles can be used as ranged weapons | Creature corpses | BR-08 |
-| CL-21 | The needles may contain poison | Creature corpses | BR-08 |
-| CL-22 | Cassidy's gunfire damaged the lighthouse lens | Lantern room | BR-08 |
-| CL-23 | Full lighthouse restoration is impossible without a replacement lens | Lantern room | BR-08 |
+- **Anchor CORE:** CORE-003.
+- **Classification:** DERIVED from CANON assault and conclusion.
+- **Required Clues:** none. Clues CL-011 through CL-015 are optional tactical/investigative information and are not completion prerequisites.
+- **Operational requirements:** OR-003A — achieve at least one of the following alternative paths:
+  - **Path A — Survive the assault:** remain alive until the Younglings' assault ends, the attackers withdraw, or the immediate attacking force is neutralized sufficiently that the Investigator is no longer under immediate attack.
+  - **Path B — Escape the immediate attack:** successfully evade or break away from the attacking Younglings and reach a position where the immediate assault no longer threatens the Investigator.
+  - **Path C — Evacuate safely before the assault:** leave Beacon Island and reach safety before the attack can reach the Investigator.
+- **Completion:** any one path is achieved.
+- **Source:** PDF pp. 20–22.
 
-## 5.1 Disclosure Control
+**Trigger:** The Keeper may trigger the attack after the investigators have explored the lighthouse/cottage or after they have explored the island and found Turner's body. Timing is intentionally flexible. Do not trigger the attack mechanically merely because the Branch is AVAILABLE.
 
-The following information is GM-only until the relevant discovery occurs.
+### CORE-004 Branch
 
-| Information | Disclosure Condition |
-|---|---|
-| Existence of the Younglings | Direct sighting or discovery of their bodies |
-| Poisonous nature of the needles | Examination of needles or observation of their effects |
-| Warren Thomas's identity | Discovery of his badge |
-| George Cassidy's identity | Recognition by the Antiques Dealer |
-| Esoteric Order of Dagon involvement | Interpretation of relevant evidence and correspondence |
-| Hybrid at Folly Point | Observation through binoculars or another supported discovery |
-| Motivation behind recovery of the coins | Reconstruction of information concerning Cassidy and the attackers |
+#### BR-004A — Raggiungere una condizione di salvezza
 
-## 5.2 Spoiler Protection
-
-The Runtime must distinguish:
-
-- Information known to the Keeper.
-- Information discovered by investigators.
-- Information not yet available to investigators.
-
-The GM Objective must never be automatically copied into a player-facing Quest Journal. The Player-facing Objective must be updated only when its Disclosure Condition has been satisfied. Neutral wording must be used before disclosure.
+- **Anchor CORE:** CORE-004.
+- **Classification:** DERIVED from CANON rescue and escape possibilities.
+- **Required Clues:** none.
+- **Operational requirements:** OR-004A — achieve at least one of the following alternative paths:
+  - **Path A — Coastguard rescue:** repair the radio, transmit a distress call, and subsequently be physically rescued by the Coastguard.
+  - **Path B — Escape by boat:** obtain access to a usable boat, successfully depart Beacon Island, and reach a safe location off the island.
+- **Completion:** actual rescue or safe arrival off the island. An SOS transmission, a prepared boat, or departure without established safety is insufficient.
+- **Source:** PDF pp. 12, 18–22.
 
 ---
 
-# 6. SKILL CHECK REGISTER
+## 5. Clue Register
 
-**Audit status: PENDING — NOT CERTIFIED COMPLETE**
+### Clue status model
 
-The following register preserves the 44 provisional check entries from the validated draft. Entries distinguish separate triggers, even when they use the same skill. Different success levels of a single roll are not automatically separate checks.
+Clue status values are exactly:
 
-| ID | Trigger | Check Type / Required Skill | Success Outcomes / Conditions | Source |
+- `UNDISCOVERED`
+- `DISCOVERED`
+- `IMPOSSIBLE`
+
+Clues become available when their owning CORE becomes `AVAILABLE`. This is a gating rule only; it does not reveal the clue or guarantee in-world access.
+
+A Clue becomes `DISCOVERED` when its acquisition condition is satisfied through one or more valid Skill Checks or another source-supported approach. A failed attempt alone does not make a Clue impossible. If multiple acquisition methods exist, all must become permanently unreachable before the Clue can become `IMPOSSIBLE`.
+
+There is no `UNDERSTOOD` clue status. Understanding is evaluated by the Keeper from the cumulative evidence when evaluating CORE completion.
+
+### CORE-001 Clues
+
+| ID | Clue | Information | Acquisition | Related Branch | Source |
+|---|---|---|---|---|---|
+| CL-001 | Il corpo nel bosco | The body is Michael Turner, recently killed and badly mauled. | Follow boot prints from the cottage into the thicket; examine the corpse. | BR-001A | p. 11 |
+| CL-002 | Distintivo del Bureau | The dead man's real name is Warren Thomas; he was a Bureau of Investigation agent. | Search the corpse and find the badge. The Bureau Agent can confirm the identity. | BR-001A | pp. 11–12 |
+| CL-003 | Quaderno nel materasso | Thomas left a pocket-sized notebook hidden in the mattress. | Spot Hidden while searching the bunkroom mattress; Bureau Agent receives source-defined bonus die. | BR-001B | p. 18 |
+
+### CORE-002 Clues
+
+| ID | Clue | Information | Acquisition | Related Branch | Source |
+|---|---|---|---|---|---|
+| CL-004 | Monete d'oro | The coins are made of solid gold. | Appraise the three coins in the hallway. | BR-002A | p. 13 |
+| CL-005 | Simboli sulle monete | The sigils have a deeper meaning and resemble symbols used by remote religious tribes. | Occult examination of the coins. | BR-002A | p. 13 |
+| CL-006 | Tema acquatico | The coin designs have an underlying aquatic theme. | Relevant Art/Craft or Natural World examination. | BR-002A | p. 13 |
+| CL-007 | Corrispondenza e valutazioni | Cassidy sought appraisals and contacted antique stores, librarians and universities; the letters are dated from March 8 to April 2, 1926. | Examine the desk documents; Library Use establishes the chronological order. | BR-002B | pp. 14–15 |
+| CL-008 | Diario di Cassidy | Cassidy's journal contains his own account and ends abruptly, suggesting interruption. The journal's cover bears the obelisk symbol. | Open the locked desk drawer and read the journal. | BR-002B | p. 15; Handout 2 |
+| CL-009 | Registro del faro | On February 12, 1926, wiring problems caused the lamp bulb to burn out; the storm and electrical short delayed repairs, leaving the lighthouse dark for hours. | Mechanical Repair or Electrical Repair examination of the service log. | BR-002C | p. 18 |
+| CL-010 | Danno alla lente e alla lampadina | A bullet hole in the lens and damage to the bulb explain why the beacon stopped working at approximately 8 PM on April 12. | Spot Hidden in the lantern room; inspect the lens and broken panes. | BR-002C | p. 20 |
+
+### Optional/supporting clues
+
+These Clues may help the Investigator understand the threat or the island but are not mandatory for CORE completion unless a Branch explicitly lists them.
+
+| ID | Clue | Information | Acquisition | Related Branch | Source |
+|---|---|---|---|---|---|
+| CL-011 | Impronte anomale | Small footprints resemble duck-like tracks; a Hard success suggests an unidentified species. | Spot Hidden to notice; Natural World or Science (Biology/Zoology) to interpret. | BR-003A support | p. 11 |
+| CL-012 | Aghi nel corpo di Turner | Small needles are embedded in Turner's skin and may be animal spines, probably poisonous. | First Aid or Medicine reveals needles at Extreme success; Hard Natural World or Science interprets them. | BR-003A support | p. 11 |
+| CL-013 | Dipinto della figura alla finestra | The shadow has bulbous, laterally placed eyes resembling fish or frog anatomy. | Examine painting; Natural World or Science interprets anatomy. | BR-003A support | p. 13 |
+| CL-014 | Creature nella lanterna | The creatures are amphibious, fishlike, mobile on land and in water, and not a known recorded species. | Examine corpses; Natural World or Science (Biology/Zoology). Marine Biologist recognizes them without a roll per source. | BR-003A support | p. 19 |
+| CL-015 | Aghi e armatura dei younglings | Their exterior provides natural armor; dorsal needles are projectile weapons; Extreme success suggests self-produced poison. | Natural World or Science (Biology/Zoology) examination, with Regular/Hard/Extreme information levels. | BR-003A support | pp. 19–20 |
+| CL-016 | Proiettili nel corridoio | Two bullets were fired from a position a few steps up the stairwell. | Spot Hidden notices bullets; Firearms (Handgun) or INT interprets direction. | Context support | p. 13 |
+| CL-017 | Sangue e scontro in cucina | Blood is recent; higher successes may suggest it is not human. | First Aid or Medicine; INT can suggest the chair was used as a weapon. | Context support | p. 18 |
+| CL-018 | Lanterna e barca a Folly Point | A light is visible; a yellow rowboat is at the mainland pier; at Extreme success the boats appear identical. | Spot Hidden using the study binoculars, with Regular/Hard/Extreme information levels. | BR-004A support | pp. 12–13 |
+
+**Important:** The source's Handout 3 is associated with the bunkroom notebook. Its full text must be consulted in the original PDF when interpreting the notebook. Do not invent notebook contents beyond the handout.
+
+---
+
+## 6. Skill Check Register
+
+The entries below preserve checks explicitly described in the adventure. They are not all Clue acquisition checks. Some are operational, environmental, combat, Sanity, or conditional checks.
+
+| ID | Context | Skill / check | Result / information | Source |
 |---|---|---|---|---|
-| CHECK-001 | Examine submerged wreckage | Combined Know + Spot Hidden | Separate information about the ship and apparent age of wreckage | p. 9 |
-| CHECK-002 | Free the rowboat | Pilot (Boat) | Free the boat; fumble or failed pushed roll damages the hull | p. 10 |
-| CHECK-003 | Identify machinery noise | Mechanical Repair or Electrical Repair | Identify the generator | p. 10 |
-| CHECK-004 | Examine footprints outside cottage | Spot Hidden | Discover muddy footprints | p. 10 |
-| CHECK-005 | Identify footprints | Natural World or Science (Biology/Zoology) | Duck-like footprints; Hard identifies unusual characteristics | p. 10 |
-| CHECK-006 | Follow footprints | Track | Establish direction of the tracks | p. 11 |
-| CHECK-007 | Repair generator shed roof | Relevant Art/Craft or Hard Mechanical Repair | Repair the roof | p. 11 |
-| CHECK-008 | Examine Turner's body | First Aid or Medicine | Identify injuries; Hard identifies recent death; Extreme identifies needles | p. 11 |
-| CHECK-009 | Identify Turner's needles | Hard Natural World or Science (Biology/Zoology) | Identify animal spines, probably poisonous | p. 11 |
-| CHECK-010 | Observe coastline with binoculars | Spot Hidden | Regular: light at Folly Point; Hard: second boat; Extreme: matching boats | pp. 12–13 |
-| CHECK-011 | Locate bullets in hallway | Spot Hidden | Discover bullets; difficulty depends on illumination | p. 13 |
-| CHECK-012 | Determine bullet origin | Firearms (Handgun) or INT | Identify shooter position | p. 13 |
-| CHECK-013 | Interpret hallway blood | Sanity | Loss 0/1 | p. 13 |
-| CHECK-014 | Identify coin value | Appraise | Recognize solid gold | p. 13 |
-| CHECK-015 | Evaluate coin appraisals | Appraise | Recognize unfair or misleading valuations | p. 13 |
-| CHECK-016 | Establish correspondence chronology | Library Use | Establish chronological order of letters | p. 14 |
-| CHECK-017 | Analyze the coins | Appraise, Occult, Art/Craft or Natural World | Different information about value, symbols and aquatic themes; skills may be combined | p. 14 |
-| CHECK-018 | Interpret overturned study chair | INT | Deduce that someone stood up hurriedly | p. 14 |
-| CHECK-019 | View the first painting | Sanity | Loss 0/1 | p. 14 |
-| CHECK-020 | Analyze painted figure | Natural World or Science (Biology/Zoology) | Identify anatomical similarities to fish or frog | p. 14 |
-| CHECK-021 | Evaluate painting technique | Relevant Art/Craft | Identify that the painting was executed hurriedly | p. 14 |
-| CHECK-022 | Open locked desk drawer | Locksmith or STR with appropriate tool | Gain access to Cassidy's journal | p. 15 |
-| CHECK-023 | Examine kitchen blood | First Aid or Medicine | Determine recent blood; Hard identifies abnormalities; Extreme suggests nonhuman origin | p. 18 |
-| CHECK-024 | Interpret broken kitchen chair | INT | Deduce that it may have been used as a weapon | p. 18 |
-| CHECK-025 | Search Turner's mattress | Spot Hidden | Discover coin, bullets and notebook | p. 18 |
-| CHECK-026 | Analyze maintenance log | Mechanical Repair or Electrical Repair | Identify February malfunction | p. 18 |
-| CHECK-027 | Repair radio | Electrical Repair | Restore radio; failed pushed roll or fumble makes it unusable | pp. 18–19 |
-| CHECK-028 | Examine lantern room scene | Sanity | Loss 1/1D4+1; 1/1D6 for Antiques Dealer | p. 19 |
-| CHECK-029 | Examine human corpse injuries | First Aid or Medicine | Confirm gunshot wounds | p. 19 |
-| CHECK-030 | Identify creatures | Natural World or Science (Biology/Zoology) | Recognize unknown species; no roll required for Marine Biologist | p. 19 |
-| CHECK-031 | Analyze creatures and armor | Natural World or Science (Biology/Zoology) | Regular: armor and vulnerable areas | p. 20 |
-| CHECK-032 | Analyze dorsal needles | Natural World or Science (Biology/Zoology) | Hard: identify ranged weapon function | p. 20 |
-| CHECK-033 | Identify poison | Natural World or Science (Biology/Zoology) | Extreme: identify poisonous needles; exact poison remains unknown | p. 20 |
-| CHECK-034 | Reconstruct lens damage | Spot Hidden | Locate bullet hole and reconstruct cause of beacon failure | p. 20 |
-| CHECK-035 | Assess temporary lighthouse repair | Mechanical Repair | Minimum skill percentage of 20%; temporary bulb repair requires at least 40 minutes | p. 20 |
-| CHECK-036 | Detect movement in woods | Combined Listen + Spot Hidden | Detect approaching Younglings | p. 20 |
-| CHECK-037 | Observe Younglings | Sanity | Loss 1/1D4 | p. 20 |
-| CHECK-038 | Reach cottage during pursuit | Opposed DEX roll | Success reaches cottage; failure risks being caught | pp. 20–21 |
-| CHECK-039 | Break free from a Youngling | Fighting (Brawl) | Attempt to escape after being caught | p. 21 |
-| CHECK-040 | Hear attackers inside cottage | Listen | Required if the door was closed and investigators have not otherwise been alerted | p. 21 |
-| CHECK-041 | Check generator short-circuit risk | Group Luck roll | Failure may cause rain-induced generator short circuit | p. 21 |
-| CHECK-042 | Avoid Youngling needles | Opposed Dodge | Avoid projectile; penalty die if attack is unexpected | p. 22 |
-| CHECK-043 | Resist poison | Extreme CON | Avoid poison effects after being hit | p. 22 |
-| CHECK-044 | Remove latched Youngling | Hard STR | Remove creature from self or another investigator | p. 22 |
+| CHECK-001 | Free rowboat from wreck | Pilot (Boat) | Free the rowboat without crashing into rocks; source describes consequences of fumble or failed pushed roll. | p. 10 |
+| CHECK-002 | Inspect submerged wreckage | Combined Know + Spot Hidden | Know: metal may be part of a ship; Spot Hidden: no identifying marks and little deterioration; both yield both pieces. | p. 10 |
+| CHECK-003 | Find footprints by cottage | Spot Hidden | Notice small animal-like and boot prints. | p. 11 |
+| CHECK-004 | Interpret footprints | Natural World or Science (Biology/Zoology) | Duck-like; Hard success suggests an unidentified species. | p. 11 |
+| CHECK-005 | Follow tracks | Track | Determine direction and relationship between boot and animal-like tracks. | p. 11 |
+| CHECK-006 | Repair generator shed roof | Relevant Art/Craft (e.g. Carpentry) OR Hard Mechanical Repair | Repair leak using materials in workshop. | p. 11 |
+| CHECK-007 | Examine Turner's corpse | First Aid or Medicine | Regular: animal-like teeth/claw wounds; Hard: died within last hour; Extreme: needles embedded in skin. | p. 11 |
+| CHECK-008 | Interpret needles in Turner | Hard Natural World or Science (Biology/Zoology) | Needles appear to be animal spines and probably poisonous. | p. 11 |
+| CHECK-009 | Notice Folly Point light | Spot Hidden with binoculars | Regular: notice small light; Hard: identify second yellow rowboat; Extreme: boats appear identical. | p. 12 |
+| CHECK-010 | Appraise coins | Appraise | Identify solid gold. | p. 13 |
+| CHECK-011 | Interpret coin sigils | Occult | Recognize meaningful symbols similar to those used by remote religious tribes. | p. 13 |
+| CHECK-012 | Identify coin theme | Relevant Art/Craft OR Natural World | Identify aquatic theme. | p. 13 |
+| CHECK-013 | Combine coin analysis | Combined use of Appraise, Occult, Art/Craft, Natural World | Each successful skill yields its associated information; different Investigators may try failed components if qualified. | p. 14 |
+| CHECK-014 | Infer chair disturbance | INT | Suggests the occupant stood quickly and knocked the chair over. | p. 13 |
+| CHECK-015 | Notice bullets in hallway | Spot Hidden | Regular if hallway is lit; Extreme if not lit. | p. 13 |
+| CHECK-016 | Interpret hallway bullets | Firearms (Handgun) or INT | Determine shots came from a position a few steps up the stairwell. | p. 13 |
+| CHECK-017 | Identify coin appraisal context | Appraise | Recognize some antique stores overvalued/undervalued Cassidy's coins relative to fair price. | p. 14 |
+| CHECK-018 | Reconstruct letter chronology | Library Use | Establish letters are largely chronological, March 8 through April 2, 1926. | p. 14 |
+| CHECK-019 | Open locked desk drawer | Locksmith OR STR with kitchen knife, screwdriver or chisel | Gain access to Cassidy's journal. | p. 15 |
+| CHECK-020 | Interpret painting figure | Natural World or Science (Biology/Zoology) | Recognize fish/frog-like eye placement. | p. 13 |
+| CHECK-021 | Assess painting execution | Relevant Art/Craft (e.g. Painting/Sketching) | Identify that painting was executed in a hurry. | p. 13 |
+| CHECK-022 | Assess kitchen chair/blood | INT; First Aid or Medicine | Chair may have been used as weapon; blood is recent; higher success may suggest non-human origin. | p. 18 |
+| CHECK-023 | Find Thomas's notebook | Spot Hidden | Locate notebook in mattress; Bureau Agent receives bonus die under source rules. | p. 18 |
+| CHECK-024 | Examine service log | Mechanical Repair or Electrical Repair | Identify exceptional February 12, 1926 entry and lighthouse blackout. | p. 18 |
+| CHECK-025 | Repair radio | Electrical Repair | Restore radio and transmit a distress call. Source: fumble or failed pushed roll renders radio permanently inoperable. | pp. 18–19 |
+| CHECK-026 | Examine strange human corpse in lantern room | First Aid or Medicine | Confirm two gunshot wounds caused death. | p. 19 |
+| CHECK-027 | Identify amphibious creatures | Natural World or Science (Biology/Zoology) | Recognize unknown fishlike amphibious species; Marine Biologist needs no roll per source. | p. 19 |
+| CHECK-028 | Examine creature armor and wounds | Natural World or Science (Biology/Zoology), Regular | Bullets killed creatures only when entering soft vulnerable areas; rest of exterior is tough natural armor. | p. 20 |
+| CHECK-029 | Examine dorsal fins | Natural World or Science (Biology/Zoology), Hard | Identify slimy needles and likely projectile use. | p. 20 |
+| CHECK-030 | Identify poison | Natural World or Science (Biology/Zoology), Extreme | Suggest self-produced poison; exact nature requires laboratory testing. | p. 20 |
+| CHECK-031 | Find bullet hole in lens | Spot Hidden | Identify bullet hole and reconstruct damage to bulb and panes. | p. 20 |
+| CHECK-032 | Assess temporary bulb repair | Mechanical Repair | At least 20% to know lens prevents full restoration; temporary bulb replacement takes at least 40 minutes and a successful Mechanical Repair roll. | p. 20 |
+| CHECK-033 | Detect Younglings in woods | Combined Listen + Spot Hidden | Alert investigators to movement and approaching creatures. | p. 20 |
+| CHECK-034 | Witness Younglings | Sanity | Sanity loss 1/1D4. | p. 20 |
+| CHECK-035 | Reach cottage during pursuit | Opposed DEX or chase procedure | Success reaches relative safety; failure may result in being caught. Full chase rules are referenced externally. | pp. 20–21 |
+| CHECK-036 | Break free after being caught | Fighting (Brawl) maneuver | Attempt to break away from a Youngling. | p. 21 |
+| CHECK-037 | Hear Younglings inside cottage | Listen | Needed if the front door was closed and investigators were not otherwise alerted. | p. 21 |
+| CHECK-038 | Generator short-circuit risk | Group Luck roll, Keeper option | If roof not repaired, intensified rain may short out generator. | p. 21 |
+| CHECK-039 | Avoid projectile needle | Dodge opposed by Youngling attack | Unexpected projectile imposes penalty die per source. | p. 22 |
+| CHECK-040 | Resist needle poison | Extreme CON | Avoid poison effects after being hit. | p. 22 |
+| CHECK-041 | Remove latched Youngling | Hard STR | Remove creature from victim. | p. 22 |
 
-## 6.1 Check Interpretation Notes
+### Skill Check interpretation
 
-- CHECK-001 contains separate Know and Spot Hidden information outcomes.
-- CHECK-008 uses Regular, Hard and Extreme success levels within one check occurrence.
-- CHECK-010 has three progressive information outcomes.
-- CHECK-017 permits combined skills and separate information acquisition.
-- CHECK-023 provides progressive information based on success level.
-- CHECK-027 includes permanent radio failure under the stated pushed-roll or fumble condition.
-- CHECK-031, CHECK-032 and CHECK-033 are progressive information outcomes from the biological examination.
-- CHECK-038 may also use the full chase rules referenced by the original adventure.
-- CHECK-042, CHECK-043 and CHECK-044 are conditional checks arising from Youngling attacks.
-
-## 6.2 Check Coverage Status
-
-The 44 entries constitute a provisional inventory. They do not establish a completed mechanical audit.
-
-Reasons:
-
-1. Some entries are skill thresholds rather than conventional rolls.
-2. Some checks are optional or dependent on Keeper decisions.
-3. Pregenerated investigator sheets contain mechanical information that is not necessarily a player-facing check.
-4. The source references external chase rules not included in the adventure PDF.
-5. The author does not consistently distinguish mandatory, optional and suggested checks.
-
-**Runtime Rule:** Do not interpret the register as proof that every possible check occurrence has been exhaustively identified. Do not add creature statistics or NPC skill values as individual investigator checks unless the source explicitly requires a mechanical response from the investigators.
+- Preserve source-defined Regular, Hard, and Extreme distinctions as information tiers where the adventure specifies them.
+- Where the source explicitly offers alternatives, record them as OR.
+- Where the source explicitly combines checks, record combined outcomes as described.
+- Do not invent a skill check for reading or interpreting the contents of Cassidy's journal or Thomas's notebook.
+- Do not convert checks into probability formulas or simulated dice in Runtime.
+- The source references full chase rules from the Keeper Rulebook. Those rules are outside the Quick-Start source set and must not be silently imported.
 
 ---
 
-# 7. CONTEXT REFERENCE
+## 7. Operational requirements
 
-## 7.1 Locations
+Operational requirements describe verifiable outcomes, not knowledge. They belong to Branches or COREs, not to the Clue Register.
 
-| ID | Location | Description |
+### OR-002D-A — Recover Cassidy's purse
+
+- **Owner:** BR-002D.
+- **Paths:** access Cassidy's body in the lantern room and physically retrieve the purse.
+- **Completion:** purse recovered.
+- **Source:** PDF p. 20.
+
+### OR-003A — Survive or escape the immediate assault
+
+- **Owner:** BR-003A.
+- **Logic:** OR across Path A, Path B, Path C defined in BR-003A.
+- **Completion:** any one path achieves a safe outcome from the amphibious threat.
+- **Impossibility:** this requirement is IMPOSSIBLE only when every path has become permanently unreachable. If the Investigator has safely evacuated, the requirement is COMPLETED, not IMPOSSIBLE.
+- **Source:** PDF pp. 20–22; the early-evacuation path is a DERIVED operational formulation of the source's escape option.
+
+### OR-004A — Reach safety off Beacon Island
+
+- **Owner:** BR-004A.
+- **Logic:** OR across Coastguard rescue and safe boat escape.
+- **Completion:** actual rescue or safe arrival at a location off the island.
+- **Impossibility:** only when all rescue/escape paths are permanently unreachable. Radio failure alone does not make the requirement impossible if a boat escape remains viable.
+- **Source:** PDF pp. 12, 18–22.
+
+---
+
+## 8. Outcomes
+
+Outcomes record significant end states. They are not additional CORE objectives and do not replace the CORE/Branch/Clue state model.
+
+| ID | Outcome | Description | Source |
+|---|---|---|---|
+| OUT-001 | Investigator death | One or all Investigators die during the assault. | pp. 20–22 |
+| OUT-002 | Survive until assault ends | Younglings withdraw, are sufficiently neutralized, or stop attacking. | p. 21 |
+| OUT-003 | Coastguard rescue | Coastguard arrives following a distress call and rescues the Investigator. | pp. 18–19, 21 |
+| OUT-004 | Escape by boat | Investigator leaves Beacon Island by the south pier boat, if conditions permit. | pp. 12, 20 |
+| OUT-005 | Unconscious; Younglings recover coins | All Investigators are unconscious; Younglings search for and recover Cassidy's coins, then leave. Investigators may later wake. | p. 22 |
+| OUT-006 | Bureau questioning and secrecy | Following Coastguard rescue, investigators may be questioned, have possessions confiscated, and be sworn to secrecy. | p. 22 |
+
+Do not conflate survival with evacuation. OUT-002 can occur while the Investigator remains on Beacon Island; OUT-003 and OUT-004 represent actual routes to safety.
+
+---
+
+## 9. NPC and character reference
+
+| ID | Name | Role / information | Source |
+|---|---|---|---|
+| NPC-001 | Warren Thomas / Michael Turner | Bureau Agent undercover as lighthouse keeper; deceased. Player's colleague. | pp. 8–12, 18 |
+| NPC-002 | George Cassidy | Lighthouse keeper; collected gold coins; died defending himself. | pp. 8–10, 14–15, 20 |
+| NPC-003 | Samuel Smith | Lighthouse keeper; captured, interrogated and murdered. | pp. 8–10 |
+| NPC-004 | Deep One hybrid at Folly Point | Surviving hybrid waiting on mainland shore; potential extension threat. | pp. 9, 12, 21–23 |
+| NPC-005 | Deep One hybrid killed in lantern room | Killed by Cassidy. | pp. 9, 19–20 |
+| NPC-006 | Younglings | Amphibious creatures searching for Cassidy's missing coins. | pp. 9, 20–23 |
+| NPC-007 | Anna Tilton | Correspondent in Cassidy's letters; Newburyport Society. | p. 14 |
+| NPC-008 | Coastguard | Potential rescuers after radio distress call. | pp. 18–19, 21–22 |
+
+**Identity safeguard:** Warren Thomas is the Bureau Agent's colleague and an NPC. The player character is the Bureau Agent. Michael Turner is Thomas's undercover identity, not a separate person.
+
+---
+
+## 10. Location reference
+
+| ID | Location | Function / evidence | Source |
+|---|---|---|---|
+| LOC-001 | SS Essex County wreck | Opening shipwreck and submerged metal debris. | pp. 9–10 |
+| LOC-002 | Beacon Island | Main adventure setting. | pp. 9–12 |
+| LOC-003 | North Pier / Dock | Likely landing point; island access. | p. 10 |
+| LOC-004 | Lighthouse Cottage | Main exploration hub. | pp. 13–19 |
+| LOC-005 | Hallway | Bullets, blood, three gold coins. | p. 13 |
+| LOC-006 | Study | Paintings, binoculars, appraisals, letters, locked desk drawer. | pp. 13–15 |
+| LOC-007 | Bunkroom | Thomas's notebook hidden in mattress. | p. 18 |
+| LOC-008 | Kitchen | Blood, broken chair, knife. | p. 18 |
+| LOC-009 | Larder | Food supplies. | p. 18 |
+| LOC-010 | Service Room | Maintenance log, replacement bulbs, radio. | pp. 18–19 |
+| LOC-011 | Lantern Room | Cassidy, bodies, creatures, gold purse, damaged lens. | pp. 19–20 |
+| LOC-012 | Thicket | Turner's body and tracks. | pp. 11–12 |
+| LOC-013 | Generator Shed | Running generator and leaking roof. | p. 11 |
+| LOC-014 | Workshop | Tools and materials for roof repair and opening drawer. | p. 11 |
+| LOC-015 | South Pier | Yellow rowboat and possible escape. | pp. 12, 20 |
+| LOC-016 | Folly Point | Mainland shore; light and hybrid presence. | pp. 12–13, 21–23 |
+
+---
+
+## 11. Events and timeline
+
+| ID | Time / sequence | Event | Classification / source |
+|---|---|---|---|
+| EVT-001 | 12 Feb 1926 | Lighthouse bulb failure during severe storm contributes to SS Essex County wreck. | CANON, pp. 8–9, 18 |
+| EVT-002 | Following days/weeks | Gold coins wash ashore; Cassidy collects them and seeks appraisal. | CANON, pp. 8–10, 14–15 |
+| EVT-003 | Before 12 Apr 1926 | Cultists arrange recovery operation; hybrids and Younglings assigned. | CANON, pp. 8–10 |
+| EVT-004 | 12 Apr 1926, approx. 8 PM | Cassidy fights attackers; kills two Younglings and one hybrid; dies; stray bullet damages beacon lens/bulb. | CANON, pp. 9, 19–20 |
+| EVT-005 | 12 Apr 1926, 8:15 PM | SS Essex County wrecks; investigators head to Beacon Island. | CANON, pp. 9–10 |
+| EVT-006 | After landing | Investigator explores island, cottage, grounds and lighthouse. | CANON, pp. 10–20 |
+| EVT-007 | Keeper-selected trigger | Remaining Younglings assault investigators after exploration or discovery of Turner's body. | CANON with flexible Keeper timing, pp. 20–21 |
+| EVT-008 | Conclusion | Younglings withdraw/are neutralized, investigators die, or rescue may arrive. | CANON, pp. 21–22 |
+| EVT-009 | After rescue | Bureau questioning, confiscation and secrecy may follow. | CANON, p. 22 |
+
+The PDF does not prescribe a single mandatory exploration order. Do not impose one.
+
+---
+
+## 12. Equipment and resources
+
+| ID | Resource | Source-supported use | Source |
+|---|---|---|---|
+| RES-001 | Yellow rowboat at south pier | Possible escape from island. | p. 12 |
+| RES-002 | Radio in service room | Request Coastguard rescue after repair. | pp. 18–19 |
+| RES-003 | Generator | Electrical supply; vulnerable to roof leak and rain. | pp. 11, 21 |
+| RES-004 | Replacement bulbs | Temporary lighthouse repair; lens remains damaged. | pp. 18, 20 |
+| RES-005 | Workshop tools/materials | Repair generator shed roof; open locked desk drawer. | p. 11 |
+| RES-006 | Kitchen knife | Weapon or tool to force desk drawer. | p. 18 |
+| RES-007 | Smith & Wesson .38 Special | Turner's revolver; five live bullets and one spent casing when found. | pp. 11–12 |
+| RES-008 | Colt M1877 | Cassidy's revolver; all chamber bullets spent, may be reloaded. | p. 20 |
+| RES-009 | Cassidy's gold purse | Target of Younglings' search; optional recovery/reward. | pp. 20, 22 |
+| RES-010 | Binoculars | Observe Folly Point from the study. | pp. 12–13 |
+
+Do not invent quantities, condition, or availability beyond source descriptions and the current character sheet.
+
+---
+
+## 13. Threats and hazards
+
+### Younglings — CANON
+
+- Amphibious fishlike creatures.
+- Pursue prey aggressively and use projectile needles before melee attacks.
+- Needles are poison-tipped; the source describes Dodge and Extreme CON checks.
+- Possess natural armor; eyes and belly are vulnerable areas.
+- They are not particularly intelligent and do not recognize humans as superiors.
+- Their number and exact encounter pressure may be adjusted by the Keeper as described in the adventure.
+
+### Deep One hybrids — CANON
+
+- Amphibious humanoid creatures associated with the Innsmouth cultists.
+- One hybrid was killed by Cassidy.
+- Another remains at Folly Point and may withdraw if the island assault goes badly.
+- The adventure suggests a longer-game extension in which the Folly Point hybrid travels to the island with additional Younglings.
+
+### Environmental hazards — CANON
+
+- Storm and heavy rain.
+- Rough sea and dangerous rocks.
+- Rain may erase tracks.
+- Leaking generator shed roof may cause generator failure.
+- Darkness and damaged lighthouse lens.
+- Slippery, confined lantern room.
+- Potentially dangerous boat escape and the hybrid at Folly Point.
+
+---
+
+## 14. Runtime guidance
+
+1. **Preserve player agency.** The COREs describe outcomes, not a required sequence of actions.
+2. **Keep secrets concealed.** Do not reveal the GM-only background, hidden identities, creature details, or future events before the Investigator has a legitimate opportunity to discover them.
+3. **Use evidence cumulatively.** Evaluate whether the acquired evidence reasonably supports the CORE outcome. The player need not repeat the exact wording of a completion condition.
+4. **Separate finding from understanding.** A discovered clue does not automatically establish that its significance is understood.
+5. **Separate investigation from operation.** Clues represent information; Operational Requirements represent achieved outcomes.
+6. **Do not force every clue.** Supporting clues and optional Branches are not mandatory unless explicitly listed as required.
+7. **No unnecessary checks.** Use source-defined checks where they matter; otherwise adjudicate using character capability, challenge, and approach.
+8. **No automatic retries.** A new attempt requires a materially different approach, new condition, or different resource, under the GM Operating Protocol.
+9. **Failure does not equal impossibility.** Mark a Clue or Branch IMPOSSIBLE only when every valid acquisition/completion path is permanently unreachable.
+10. **Preserve completed history.** COMPLETED COREs and Branches, and DISCOVERED Clues, remain completed/discovered.
+11. **Handle early escape correctly.** A safe early evacuation completes BR-003A and BR-004A through their respective alternative paths. Do not require the Investigator to experience the assault.
+12. **Do not confuse radio repair with rescue.** The Coastguard must actually arrive and rescue the Investigator.
+13. **Do not import full Keeper rules silently.** The source references chase rules outside the Quick-Start Rules; flag this limitation rather than importing them without authorization.
+14. **Maintain character continuity.** Character Sheet and Adventure State in GitHub remain authoritative for dynamic character and gameplay state. This Trace is static adventure structure.
+15. **Do not record a playthrough in this static Trace.** Session events, discovered clues, objective statuses, and outcomes belong in Adventure State.
+
+---
+
+## 15. Validation report
+
+### 15.1 Structural validation
+
+| Criterion | Result | Notes |
 |---|---|---|
-| LOC-01 | SS Essex County | Passenger and cargo ship, sunk near Folly Point |
-| LOC-02 | Beacon Island | Main adventure location |
-| LOC-03 | Lighthouse Cottage | Residence of the lighthouse keepers |
-| LOC-04 | Study | Documents, letters, coins and journal |
-| LOC-05 | Bunkroom | Personal belongings and concealed materials |
-| LOC-06 | Kitchen | Evidence of confrontation |
-| LOC-07 | Larder | Food supplies |
-| LOC-08 | Service Room | Lighthouse equipment and radio |
-| LOC-09 | Lantern Room | Bodies, confrontation evidence and damaged lens |
-| LOC-10 | Thicket | Location of Turner's body |
-| LOC-11 | Generator Shed | Generator and materials |
-| LOC-12 | Workshop | Tools and repair materials |
-| LOC-13 | South Pier | Yellow-painted rowboat |
-| LOC-14 | Folly Point | Shore where the other hybrid remains |
+| CORE IDs unique | PASS | CORE-001 through CORE-004 |
+| Every CORE has concrete completion requirements | PASS | Each has required Branch(es) |
+| All COREs initially reachable | PASS | No predecessor dependencies |
+| No CORE dependency cycles | PASS | No inter-CORE dependencies |
+| Branch has one Anchor CORE | PASS | All Branches anchored |
+| Required Branch Clues belong to owning CORE | PASS | No cross-CORE clue dependencies |
+| Branch has at least one concrete requirement | PASS | Clues or operational requirements |
+| Branch completion uses AND across declared requirements | PASS | OR only within declared alternative operational requirement |
+| CORE completion uses AND across required Branches | PASS | CORE-004 has one Branch with OR paths |
+| Alternative paths represented as OR | PASS | BR-003A and BR-004A |
+| Historical completion precedence preserved | PASS | COMPLETED is permanent |
+| Clue state model preserved | PASS | UNDISCOVERED / DISCOVERED / IMPOSSIBLE |
+| Branch and CORE state model preserved | PASS | HIDDEN / AVAILABLE / COMPLETED / IMPOSSIBLE |
 
-## 7.2 NPCs and Important Characters
+### 15.2 Source coverage and limitations
 
-| ID | Character | Role / Status |
+| Area | Result | Notes |
 |---|---|---|
-| NPC-01 | George Cassidy | Lighthouse keeper, deceased |
-| NPC-02 | Samuel Smith | Lighthouse keeper, captured and murdered |
-| NPC-03 | Warren Thomas / Michael Turner | Undercover agent and lighthouse worker, deceased |
-| NPC-04 | Deep One Hybrid | Antagonist; one was killed by Cassidy |
-| NPC-05 | Deep One Hybrid | Remains at Folly Point |
-| NPC-06 | Anna Tilton | Correspondent mentioned in Cassidy's letter |
-| NPC-07 | Coastguard | Potential rescuers |
-| NPC-08 | Younglings | Hostile amphibious creatures |
+| Main narrative and background | COVERED | Source pp. 8–10 |
+| Thomas identity and notebook | COVERED | Source pp. 11–12, 18 |
+| Coins and Cassidy documents | COVERED | Source pp. 13–15 |
+| Lighthouse failure | COVERED | Source pp. 18–20 |
+| Assault and survival | COVERED | Source pp. 20–22 |
+| Rescue and escape | COVERED | Source pp. 12, 18–22 |
+| Optional Folly Point extension | COVERED | Source pp. 12, 21–23 |
+| Skill Check inventory | PROVISIONAL | Explicit source checks listed; not a claim that every possible adjudication is exhausted |
+| External chase procedure | NOT INCLUDED | Full Keeper Rulebook rule referenced by source, outside Quick-Start material |
+| Exact Coastguard timing | UNSPECIFIED | Runtime must not invent a guaranteed arrival time |
+| Exact rain deadline for tracks | UNSPECIFIED | Runtime must not invent a fixed duration |
+| Guaranteed boat escape | UNSPECIFIED | Boat and sea conditions may make escape unsafe |
+| Complete contents of handouts | SOURCE-DEPENDENT | Consult original handout pages; do not invent missing text |
 
-## 7.3 Threats
+### 15.3 Known design derivations
 
-**Younglings:** Amphibious creatures with poisonous projectile needles, claws and bites, natural armor and significant pursuit behavior.
-
-**Deep One Hybrids:** Amphibious humanoid creatures associated with the recovery operation.
-
-**Environmental threats:** Storm and heavy rain, rough sea conditions, darkness, generator failure and dangerous escape routes.
-
-## 7.4 Resources
-
-| ID | Resource | Potential Use |
-|---|---|---|
-| RES-01 | Radio | Request coastguard rescue |
-| RES-02 | Generator | Lighthouse electrical supply |
-| RES-03 | Replacement bulbs | Temporary lighthouse repair |
-| RES-04 | Workshop tools | Repairs and opening objects |
-| RES-05 | Kitchen knife | Tool or improvised weapon |
-| RES-06 | Cassidy's revolver | Firearm |
-| RES-07 | Turner's revolver | Firearm with remaining ammunition |
-| RES-08 | Gold coins | Target of the hostile recovery operation and potential reward |
-| RES-09 | Yellow rowboat | Possible escape vehicle |
-
-## 7.5 Events
-
-| ID | Event |
-|---|---|
-| EVT-01 | SS Essex County sinks |
-| EVT-02 | Investigators arrive at Beacon Island |
-| EVT-03 | Bodies and tracks are discovered |
-| EVT-04 | Lighthouse exploration |
-| EVT-05 | Previous events are reconstructed |
-| EVT-06 | Youngling assault |
-| EVT-07 | Possible escape or rescue |
-| EVT-08 | Epilogue |
+- Four independent CORE objectives are a DERIVED operational structure, not a formal Backbone supplied by the author.
+- CORE-001's required completion is limited to identifying Thomas and establishing his fate. Recovering his notebook is an optional Branch.
+- CORE-002 requires the combined reconstruction of coin provenance, Cassidy's recovery operation, and the lighthouse failure's connection to the wreck.
+- CORE-003 and CORE-004 are distinct outcomes but may be completed by the same successful evacuation.
+- The safe-early-evacuation path under CORE-003 is DERIVED to ensure that avoiding an attack can count as successful survival.
+- Branch groupings and Clue identifiers are operational organization, not labels from the original adventure.
 
 ---
 
-# 8. SOURCE REFERENCES
-
-## 8.1 Primary Source
-
-*The Lightless Beacon*, original PDF, Chaosium, 2019.
-
-All canonical adventure information in this Trace derives from the original PDF. No previous gameplay sessions, external adventure versions or unrelated campaign material are used as canonical sources.
-
-## 8.2 Page Reference Index
-
-| Content | Original PDF Pages |
-|---|---|
-| Premise and adventure structure | 5–7 |
-| Background | 8–9 |
-| Initial situation | 9 |
-| Island exploration | 10–12 |
-| Cottage and study | 13–14 |
-| Handouts 1 and 2 | 16–17 |
-| Kitchen, bunkroom and service room | 18 |
-| Lantern room and bodies | 19–20 |
-| Amphibious assault | 20–21 |
-| Conclusion and rewards | 21–22 |
-| Monster profiles | 22–23 |
-| Rockport and Folly Point map | 24 |
-| Beacon Island map | 25 |
-| Lighthouse map | 26 |
-| Handouts 1, 2 and 3 | 27–29 |
-| Pregenerated investigators | 30–42 |
-
-## 8.3 Maps and Handouts
-
-The source maps establish:
-
-- Approximately 650 yards between mainland and Beacon Island.
-- Piers on different sides of the island.
-- The location of the lighthouse and surrounding buildings.
-- The internal structure of the cottage and lighthouse.
-
-Handouts provide additional documentary and investigative information.
-
-Handout 3 contains Cassidy's notes concerning his previous criminal record, lights on the water, small boats, ship parts, gold coins and unusual observations around the island.
-
-## 8.4 Source Authority
-
-All elements use the following distinctions:
-
-**CANON:** Directly supported by the original PDF.  
-**DERIVED:** Operational organization, objective formulation, relationship or interpretation derived from the source.  
-**UNSPECIFIED:** Information that cannot be determined from the source.
-
-The Backbone objectives and Branch organization are DERIVED even when their underlying events are CANON.
-
----
-
-# 9. VALIDATION REPORT
-
-## 9.1 Backbone Validation
-
-| Validation Criterion | Result |
-|---|---|
-| Main progression recognizable | PASS |
-| Sequence sufficiently concise | PASS |
-| Concrete objectives | PASS |
-| Completion conditions defined | PASS |
-| CORE skipping supported | PASS |
-| Player agency preserved | PASS |
-| Next CORE identifiable without revealing spoilers | PASS |
-
-**Finding:** CORE-02 and CORE-03 may overlap temporally. The Backbone must not be implemented as a rigid prerequisite chain.
-
-## 9.2 Branch Validation
-
-| Validation Criterion | Result |
-|---|---|
-| Anchor CORE assigned | PASS |
-| Significant result identified | PASS |
-| Branches distinguished from CORE objectives | PASS |
-| Impact on Backbone classified | PASS |
-| Optional nature preserved | PASS |
-| Temporary opportunities identified | PASS |
-
-**Finding:** BR-05 and BR-08 contain multiple independent information discoveries. Their representation as individual Branches is a DERIVED granularity decision.
-
-## 9.3 Outcome Validation
-
-| Validation Criterion | Result |
-|---|---|
-| Outcomes distinguished from intermediate results | PASS |
-| Death represented | PASS |
-| Survival represented | PASS |
-| Escape represented | PASS |
-| Rescue represented | PASS |
-| Contingent outcomes preserved | PASS |
-
-**Finding:** OUT-04 and OUT-05 potentially overlap. They are retained without imposing an unsupported distinction.
-
-## 9.4 Skill Check Coverage
-
-| Validation Criterion | Result |
-|---|---|
-| Explicit occurrences inventoried | PROVISIONAL |
-| Triggers distinguished | PROVISIONAL |
-| Success levels represented | PROVISIONAL |
-| Multiple information outcomes represented | PROVISIONAL |
-| Relationships identified | PROVISIONAL |
-| Full PDF audit completed | PENDING |
-
-**Finding:** The register contains 44 provisional entries. Mechanical audit is not certified complete.
-
-## 9.5 Reachability Validation
-
-| Risk | Condition | Potential Consequence |
-|---|---|---|
-| Footprints lost | Rain | BR-02 becomes IMPOSSIBLE |
-| Generator short circuit | Roof unrepaired and heavy rain | Lighthouse conditions deteriorate |
-| Radio permanently unusable | Failed pushed roll or fumble | Radio rescue opportunity lost |
-| Escape becomes dangerous | Rough sea and hybrid at Folly Point | Escape may fail |
-| Investigators separated | Group splits | Different simultaneous situations |
-| Investigators die | Assault and combat | OUT-01 |
-| Gold recovered by creatures | Younglings locate coins | BR-09 no longer achievable |
-
-**Finding:** No mandatory Backbone softlock is established by the source. The adventure may nevertheless reach a state in which no further CORE objective is achievable. The Runtime must recognize and resolve that situation without inventing new objectives.
-
-## 9.6 Spoiler Validation
-
-The Trace distinguishes GM Objectives, Player-facing Objectives, Disclosure Conditions and Pre-disclosure Guidance.
-
-Hidden identities, creature information, secret motivations and future outcomes must not appear automatically in player-facing communications.
-
-**Finding:** Structurally addressed. Runtime enforcement remains an implementation responsibility.
-
-## 9.7 Structural Validation Summary
-
-| Area | Status |
-|---|---|
-| Adventure Overview | VALIDATED |
-| Backbone | VALIDATED |
-| Branches | VALIDATED |
-| Outcomes | VALIDATED |
-| Clues | VALIDATED |
-| Skill Check Register | PENDING MECHANICAL AUDIT |
-| Context Reference | VALIDATED |
-| Source References | DOCUMENTED |
-| Spoiler Control | STRUCTURALLY VALIDATED |
-| Reachability | RISKS DOCUMENTED |
-
----
-
-# 10. KNOWN LIMITATIONS
-
-The following limitations are intentionally retained. They must not be silently resolved by the Runtime.
-
-## 10.1 Backbone Ambiguity
-
-The original adventure does not define a formal Backbone. The four CORE objectives are DERIVED from its narrative progression. The source does not prescribe a mandatory order of exploration.
-
-## 10.2 Simultaneous Objectives
-
-CORE-02 and CORE-03 may be active simultaneously. The Backbone must support overlapping progression.
-
-## 10.3 Branch Granularity
-
-BR-05 and BR-08 combine multiple discoveries. The Trace does not require every associated clue to be discovered for Branch completion.
-
-## 10.4 Outcome Overlap
-
-OUT-04 and OUT-05 may describe closely related rescue situations. Their distinction remains DERIVED.
-
-## 10.5 Lighthouse Repair
-
-The lighthouse cannot be fully restored without a replacement lens. The source describes a temporary bulb repair but does not provide a complete restoration procedure.
-
-## 10.6 Rescue Timing
-
-The source does not guarantee coastguard arrival within a specific time. The Runtime must not treat a transmitted radio request as completed rescue.
-
-## 10.7 Escape Conditions
-
-The south pier provides a possible escape route. The source does not establish guaranteed safe passage. The Deep One hybrid at Folly Point remains a relevant danger.
-
-## 10.8 Assault Variability
-
-The number of Younglings and the timing of their assault may depend on Keeper decisions. The source supports more than one style of encounter. These variations are not separate Backbone structures.
-
-## 10.9 Skill Check Audit
-
-The 44 entries remain provisional. The complete mechanical audit has not been certified.
-
-The distinction between mandatory, optional and Keeper-suggested checks is not consistently explicit in the original source. External chase rules are referenced but are not reproduced in the adventure PDF.
-
-## 10.10 Information Classification
-
-Some information is available only through character-specific recognition or interpretation. The Runtime must not assume that all investigators possess identical knowledge.
-
-## 10.11 UNSPECIFIED Information
-
-The following details remain unspecified or insufficiently defined:
-
-- Exact time available before rain destroys the footprints.
-- Exact coastguard arrival time.
-- Guaranteed safety of any sea escape.
-- Complete procedure for all possible escape attempts.
-- Mandatory order of investigative discoveries.
-- A definitive taxonomy distinguishing OUT-04 from OUT-05.
-- Exact number of Younglings in every possible encounter.
-- Complete resolution of every possible investigator action.
-- Exhaustive classification of all optional mechanical checks.
-
-No additional dependencies or solutions are introduced to fill these gaps.
-
----
-
-# ARTIFACT STATUS
+## 16. Artifact status
 
 | Field | Value |
 |---|---|
-| Artifact | The Lightless Beacon — Adventure Trace v2.0 Pilot |
-| Version | 2.0 |
-| Status | PILOT — NOT PRODUCTION APPROVED |
-| Source | The Lightless Beacon original PDF |
-| Model | Fishbone v2.0 |
-| Structural Validation | COMPLETE |
-| Mechanical Audit | PENDING |
-| Spoiler Structure | DEFINED |
-| Runtime Production Approval | NOT GRANTED |
+| Artifact | The Lightless Beacon — Adventure Trace V2.0 |
+| Status | PILOT — STRUCTURAL BASELINE |
+| Source | Original adventure PDF |
+| Rules source | Call of Cthulhu 7th Edition Quick-Start Rules |
+| Design model | Fishbone |
+| CORE objectives | 4 |
+| Branches | 7 |
+| Clues | 18 |
+| Skill Check entries | 41 |
+| Structural validation | PASS |
+| Source coverage | DOCUMENTED |
+| Mechanical completeness | NOT CERTIFIED |
+| Runtime production approval | NOT GRANTED |
 
-## Final Operational Statement
+**Operational statement:** This Trace is the static adventure reference for Runtime. It does not replace the original PDF, does not contain dynamic session state, and does not certify mechanical completeness beyond the documented source inventory.
 
-This document is the consolidated pilot Adventure Trace for *The Lightless Beacon*.
-
-It preserves the previously established Fishbone structure, objective identifiers, conditions, branches, outcomes, clues, skill check inventory and validation findings.
-
-The document is intended to serve as a standalone operational reference for Runtime testing.
-
-It does not replace the original adventure PDF. It does not certify the completeness of the mechanical audit. It does not constitute production approval.
-
-**END OF DOCUMENT**
-
-
----
-
-# 11. PLAYTHROUGH COMPLETION RECORD
-
-**Record type:** Runtime playthrough outcome  
-**Adventure date:** April 12, 1926  
-**Status:** COMPLETED  
-**Evidence basis:** Events established during the completed solo playthrough. This section records that playthrough and does not alter the canonical source material or its unresolved source limitations.
-
-## 11.1 Backbone Resolution
-
-| CORE | Result | Playthrough evidence |
-|---|---|---|
-| CORE-01 — Reach Beacon Island | COMPLETED | The Investigator reached Beacon Island after the SS Essex County foundered. |
-| CORE-02 — Identify the cause of the lighthouse interruption | COMPLETED | The Investigator identified the bullet damage to the lantern lens and bulb as the cause of the interrupted beacon. |
-| CORE-03 — Confront the Threat and Survive | COMPLETED | The Investigator encountered and killed two Younglings in the woods. This resolves the immediate attack by that pair; it does not establish that every hostile creature on the island was eliminated. |
-| CORE-04 — Achieve a Resolution | COMPLETED | The Coast Guard arrived at Beacon Island and rescued the Investigator. The arrival and physical rescue, rather than the earlier radio acknowledgement alone, satisfy the resolution condition. |
-
-## 11.2 Recorded Playthrough Outcomes
-
-- The Investigator examined Michael Turner's body and identified him as Warren Thomas through his Bureau credentials.
-- The Investigator examined Turner's injuries and belongings. The examination did not establish a definitive cause or exact time of death.
-- The Investigator encountered two Younglings in the woods and killed both with five shots from his personal Smith & Wesson .38 Special revolver.
-- The Investigator repaired the lighthouse radio and transmitted a distress call. The Coast Guard acknowledged the transmission and subsequently arrived to effect the rescue.
-- The lighthouse main light was temporarily restored using a replacement bulb and repair of the interrupted final cable connection. The bullet-damaged lens remained unrepaired at the end of the recorded events.
-- The radio request was therefore followed by an actual rescue. CORE-04 is complete.
-
-## 11.3 Unresolved Investigative Threads at Conclusion
-
-The adventure concluded with the Investigator rescued. The following matters were not established as resolved by the recorded playthrough:
-
-- The precise cause and time of Warren Thomas's death.
-- The identity of the second human corpse in the lantern room.
-- The full identity and nature of the amphibious creatures.
-- The exact cause of the damage to the final cable connection.
-- The repair or replacement of the bullet-damaged lantern lens.
-- The disappearance of the unmarked vessel reported near Rockport on February 12, 1926.
-- The fate of the gold coins and the full circumstances behind the recovery operation.
-
-These remain unresolved threads, not evidence that the adventure itself remains incomplete.
-
-## 11.4 Completion and Source Distinction
-
-The original adventure supports rescue by the Coast Guard as a possible concluding outcome. The exact arrival sequence and timing recorded above belong to this playthrough.
-
-The source limitations in Section 10 remain valid as statements about what the original adventure specifies. In particular, the source does not guarantee a rescue timetable; this playthrough reached the rescue outcome.
-
-**PLAYTHROUGH STATUS: COMPLETED — INVESTIGATOR RESCUED BY THE COAST GUARD.**
+**END OF ADVENTURE TRACE**
