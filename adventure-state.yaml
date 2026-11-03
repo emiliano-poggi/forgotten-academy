@@ -8,9 +8,9 @@ repository:
   state_status: "active"
   session_status: "ended"
 checkpoint:
-  sequence: 4
-  label: "End Session 4"
-  description: "Session closed in the lighthouse service room. The main light is on; the lantern lens remains damaged. The Investigator's next immediate task is to examine Michael Turner's body in the brush."
+  sequence: 5
+  label: "End Session 5"
+  description: "Session closed in the lighthouse service room after examining Turner, surviving and neutralizing the Younglings encountered in the woods, repairing the radio and transmitting a distress call. The Coast Guard acknowledged the call; rescue has not yet arrived. CORE-04 remains active."
 adventure:
   source_file: "The Lightless Beacon - Call of Cthulhu.pdf"
   source_trace:
@@ -79,18 +79,18 @@ investigator:
     equipment:
       - "Bureau of Investigation credentials (warrant card and badge)"
       - "Smith & Wesson .38 Special revolver"
-      - "Spare .38 ammunition: 6 cartridges remaining in the box"
+      - "No spare .38 cartridges remain; the Investigator reloaded his revolver to six rounds after firing five shots in the woods."
     conditions:
       major_wound: false
       temporary_injuries: []
       ongoing_effects: []
       notes: []
-  snapshot_note: "The revolver is loaded to six rounds. Six spare .38 cartridges remain. No shots have been fired by the Investigator."
+  snapshot_note: "The Investigator fired five rounds from his personal Smith & Wesson .38 Special revolver during the encounter in the woods, then reloaded it to six rounds using the six spare cartridges. The revolver is now loaded to six; no spare cartridges remain. Warren Thomas's separate .38 revolver was found at the body with five live rounds and one spent casing; the Investigator did not take it."
 opening:
   date: "1926-04-12"
   current_location: "Lighthouse service room, Beacon Island"
   location_status: "The Investigator is in the service room. The generator is running again and the rotation mechanism is operating. The replacement bulb is installed and illuminated; the final cable connection has been repaired. The lighthouse main light is on. The lantern lens remains damaged by a bullet hole."
-  immediate_objective: "Examine Michael Turner's body discovered in the brush, including its injuries and belongings."
+  immediate_objective: "CORE-04 — Find a way to leave Beacon Island and reach safety. The Coast Guard has acknowledged the distress call; await or otherwise secure a safe resolution."
   session_started: true
 known_npcs:
   - name: "Warren Thomas"
@@ -152,31 +152,70 @@ events:
       - "The Investigator restarted the generator. The mechanical hum returned, the rotation mechanism resumed operation, and the replacement bulb illuminated. The lighthouse main light is now on."
       - "The lantern lens remains damaged by a bullet hole and requires repair or replacement for full restoration of the optical system."
       - "Warren Thomas was not present; he is Michael Turner, whose body was discovered in the brush."
+  - id: "event-007"
+    date: "1926-04-12"
+    summary: "The Investigator examined the body of Michael Turner, identified him as Warren Thomas, and investigated the nearby tracks."
+    details:
+      - "The Investigator examined Turner's injuries and belongings. His torso and abdomen were severely torn, with extensive irregular wounds; the examination did not establish a definitive cause or exact time of death."
+      - "The Bureau of Investigation badge and credentials identified the deceased as Warren Thomas, whose cover identity was Michael Turner."
+      - "Turner's concealed holster was empty. His Smith & Wesson .38 Special revolver was found entangled in the remains, with five live rounds and one spent casing. This is separate from the Investigator's personal revolver; the Investigator did not take Turner's weapon."
+      - "The Investigator searched the area and followed muddy tracks away from the body into denser brush. The tracks became indistinct on hard ground covered by roots and leaves; neither their direction nor origin could be established."
+  - id: "event-008"
+    date: "1926-04-12"
+    summary: "The Investigator encountered and killed two amphibious creatures in the woods."
+    details:
+      - "The Investigator observed a low-moving, fish-like amphibious creature in a clearing and approached while concealed."
+      - "He fired five shots from his personal Smith & Wesson .38 Special revolver: two shots struck the first creature, which collapsed; three struck the second creature, which also collapsed. Both remained immobile."
+      - "The two creatures encountered in the woods are separate from the two dead amphibious creatures previously found in the lantern room."
+      - "The Investigator reloaded his personal revolver to six rounds using the six spare cartridges. No spare cartridges remain."
+      - "He followed tracks from the creatures' approach route, but rain, overlapping impressions, leaves and roots obscured them before their origin could be identified."
+  - id: "event-009"
+    date: "1926-04-12"
+    summary: "The Investigator repaired the lighthouse radio and transmitted a distress call."
+    details:
+      - "After returning to the lighthouse service room, the Investigator repaired the radio using Electrical Repair (50%). The radio powered on and functioned."
+      - "The Investigator transmitted that there were several dead and hostile creatures on the island and requested immediate assistance."
+      - "A weak response from a coastal station acknowledged reception and asked how many survivors remained and for confirmation of position and signalling."
+      - "The Investigator reported that he was the only survivor, that the lighthouse had been restored, and requested immediate rescue and recovery of the bodies."
+      - "The Coast Guard acknowledged the message and stated that a boat would be sent when sea conditions permitted. The Investigator was asked to remain in contact."
+      - "No rescue vessel has yet arrived; transmission of the request does not itself constitute rescue."
 objectives:
   completed:
     - description: "CORE-01 — Reach Beacon Island."
       completion: "The Investigator reached Beacon Island after the SS Essex County foundered."
     - description: "CORE-02 — Identify the cause of the lighthouse interruption."
       completion: "The Investigator observed the lantern damage and identified the bullet's passage through the lens and destruction of the bulb as the cause of the interrupted beacon."
+    - description: "CORE-03 — Confront the Threat and Survive."
+      completion: "The Investigator encountered two Younglings in the woods and killed both. The immediate threat posed by that attacking pair can no longer attack him in the current situation. This does not establish that every hostile creature on the island has been eliminated."
+    - description: "BR-04 — Examine Michael Turner's body."
+      completion: "The Investigator examined Turner's injuries and belongings and investigated the immediate area and tracks."
+    - description: "BR-06 — Identify Warren Thomas."
+      completion: "The Bureau badge and credentials on Turner's body identified him as Warren Thomas, using Michael Turner as his cover identity."
+    - description: "BR-07 — Repair the radio and request rescue."
+      completion: "The Investigator repaired the radio and transmitted a distress call. The Coast Guard acknowledged it and stated that a boat would be sent when sea conditions permitted. This completes the request objective, not the actual rescue."
     - description: "Restore the lighthouse main light temporarily."
       completion: "The replacement bulb was installed and the interrupted final cable connection repaired with the generator switched off. The generator was restarted and the lighthouse main light illuminated. The lantern lens remains damaged and requires repair or replacement."
   active:
-    - description: "BR-04 — Examine Michael Turner's body discovered in the brush, including its injuries and belongings."
-    - description: "BR-06 — Identify Warren Thomas through the evidence on Michael Turner's body and belongings."
+    - description: "CORE-04 — Achieve a Resolution: find a way to leave Beacon Island and reach safety. The Coast Guard has acknowledged the distress call, but no rescue vessel has arrived."
   superseded: []
   abandoned: []
 open_threads:
   - "Repair or replace the bullet-damaged lantern lens for full optical restoration."
-  - "Examine Michael Turner's body in the brush and determine the cause of death."
+  - "Determine the precise cause and time of Michael Turner's death; examination revealed extensive irregular wounds but did not establish a definitive cause."
   - "Investigate the disappearance of the unmarked vessel spotted near Rockport on February 12, 1926."
   - "Identify the second dead man and the two amphibious creatures, and reconstruct the violence in the lantern room."
   - "Determine the cause of the cable damage; its precise cause remains undetermined."
 notes:
   - "The Investigator has never visited Beacon Island before."
   - "The rowboat remains tied to the north shore pier. Its oars are aboard; one oar blade is deeply scraped but usable."
-  - "Michael Turner's body has been discovered in the brush; its injuries and belongings have not yet been fully examined."
+  - "Michael Turner's body has been examined; his injuries, badge, credentials and separate .38 revolver were inspected. His precise cause and time of death remain undetermined."
   - "The service-room maintenance log entry dated February 12, 1926, has been read."
   - "The replacement bulb is installed and illuminated; the generator and rotation mechanism are running."
   - "The lantern lens remains damaged by a bullet hole."
-  - "No dice or simulated rolls have been used. No shots have been fired by the Investigator. HP, SAN, MP and Luck remain at their starting values."
+  - "No dice or simulated rolls have been used. The Investigator fired five shots in the woods and reloaded to six rounds; no spare cartridges remain. HP 12/12, SAN 65/65, MP 13/13 and Luck 50/50 remain unchanged; no injuries or ongoing conditions were recorded."
   - "Warren Thomas and Michael Turner are the same person. His body was discovered in the brush on Beacon Island."
+  - "Two additional Younglings were killed by the Investigator in the woods; they are distinct from the two dead amphibious creatures in the lantern room."
+  - "The generator is running, the rotation mechanism operates, and the lighthouse main light is on. The lens remains damaged. The generator shed roof was described as damaged, but the Investigator did not inspect or repair it."
+  - "The radio is repaired, powered and functional. The Coast Guard acknowledged the distress call and said a boat would be sent when sea conditions permit; rescue is pending."
+  - "The rowboat remains tied to the north shore pier; no departure from the island has occurred."
+  - "CORE-04 is active, not completed. The Investigator has reached the resolution phase, but has not yet escaped or been physically rescued."
